@@ -6,13 +6,17 @@ import time
 from operator import itemgetter
 from collections import Counter
 from datetime import datetime
+import os
 
+print('iniciando', flush=True)
 url = 'http://www.tabeladobrasileirao.net/'
 dados = []
 times = {}
 resultado = {}
 content = urllib.request.urlopen(url).read()
 soup = BeautifulSoup(content.decode('utf-8','ignore'),'html.parser')
+print(soup, flush=True)
+
 table = soup.find("table", attrs = {'class' : 'table'})
 for i in table.findAll("td"):
     jogo = []
@@ -26,7 +30,7 @@ for i in table.findAll("td"):
     data = jogo[0].split(" - ")
     jogo[0] = str(data[1] + ' ' + data[2])     #time.strptime(str(data[1] + ' ' + data[2]), '%d/%m/%Y %H:%M')
     dados.append(jogo)
-
+print('pegou dados', flush=True)
 
 def pontua(data):
     timesx={}
@@ -84,29 +88,32 @@ for j in times:
     resultadox.append([j])
 cont=20000
 for i in range(cont):
+    os.system('cls')
+    print(round(i/cont*100,int(np.log10(cont))-int(np.log10(i+1))), flush=True)
     c = pontua(dados)
     for j in times:
         v = c[j]['classificacao']
         for z in resultadox:
             if z[0]==j:
                 z.append(v)
+os.system('cls')
 
-with open("brasileirao.txt", "a", encoding="utf-8") as file:
+with open("brasileirao_2018.txt", "a", encoding="utf-8") as file:
     for j in range(0,20):
         text=datetime.now().strftime('%Y-%m-%d')+";"+resultadox[j][0]+';'
         print(text,end='')
         for i in range(1,21):
             text=text + str(resultadox[j].count(i)/cont) + ';'
-            print(resultadox[j].count(i)/cont,end=';')
+            print(resultadox[j].count(i)/cont,end=';', flush=True)
         print('')
         file.write(str(text) + '\n')
-file.close()
 
 
-with open("brasileirao_long.txt", "a", encoding="utf-8") as file2:
+
+with open("brasileirao_long_2018.txt", "a", encoding="utf-8") as file2:
     for j in range(0,20):
         for i in range(1,21):
             text2=str(datetime.now().strftime('%Y-%m-%d') + ';' + resultadox[j][0] + ';' + str(i) + ';' + str(resultadox[j].count(i)/cont*100))
-            print(text2)
+            print(text2, flush=True)
             file2.write(str(text2).replace(".",",") + '\n')
-file2.close()
+print("fim")
