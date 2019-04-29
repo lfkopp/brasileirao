@@ -8,6 +8,11 @@ from collections import Counter
 from datetime import datetime
 import os
 
+
+
+def limpa():
+    os.system("cls" if os.name == "nt" else "clear")
+
 print('iniciando', flush=True)
 url = 'http://www.tabeladobrasileirao.net/'
 dados = []
@@ -88,7 +93,7 @@ for j in times:
     resultadox.append([j])
 cont=20000
 for i in range(cont):
-    os.system('cls')
+    limpa()
     print(round(i/cont*100,int(np.log10(cont))-int(np.log10(i+1))), flush=True)
     c = pontua(dados)
     for j in times:
@@ -96,9 +101,9 @@ for i in range(cont):
         for z in resultadox:
             if z[0]==j:
                 z.append(v)
-os.system('cls')
+limpa()
 
-with open("brasileirao_2018.txt", "a", encoding="utf-8") as file:
+with open("brasileirao_2019.txt", "a", encoding="utf-8") as file:
     for j in range(0,20):
         text=datetime.now().strftime('%Y-%m-%d')+";"+resultadox[j][0]+';'
         print(text,end='')
@@ -110,7 +115,7 @@ with open("brasileirao_2018.txt", "a", encoding="utf-8") as file:
 
 
 
-with open("brasileirao_long_2018.txt", "a", encoding="utf-8") as file2:
+with open("brasileirao_long_2019.txt", "a", encoding="utf-8") as file2:
     for j in range(0,20):
         for i in range(1,21):
             text2=str(datetime.now().strftime('%Y-%m-%d') + ';' + resultadox[j][0] + ';' + str(i) + ';' + str(resultadox[j].count(i)/cont*100))
