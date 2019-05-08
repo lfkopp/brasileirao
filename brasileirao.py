@@ -87,7 +87,6 @@ def pontua(data):
 
 
 
-
 resultadox=[]
 for j in times:
     resultadox.append([j])
@@ -95,12 +94,15 @@ cont=20000
 for i in range(cont):
     limpa()
     print(round(i/cont*100,int(np.log10(cont))-int(np.log10(i+1))), flush=True)
+    print(i)
     c = pontua(dados)
     for j in times:
         v = c[j]['classificacao']
         for z in resultadox:
             if z[0]==j:
                 z.append(v)
+    for f in resultadox:
+        print(f[0],round(np.mean(f[1:]),2))
 limpa()
 
 with open("brasileirao_2019.txt", "a", encoding="utf-8") as file:
