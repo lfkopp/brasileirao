@@ -1,80 +1,114 @@
-import urllib.request
 from bs4 import BeautifulSoup
+import requests
+import re
 from pprint import pprint
 import numpy as np
-import time
-from operator import itemgetter
-from collections import Counter
 from datetime import datetime
+import copy
 import os
 
 
 
-def limpa():
-    os.system("cls" if os.name == "nt" else "clear")
+def limpa(text):
+    text = re.sub("\s\s+" , " ", text)
+    return text.strip()
 
-print('iniciando', flush=True)
-url = 'http://www.tabeladobrasileirao.net/'
-dados = []
-times = {}
-resultado = {}
-content = urllib.request.urlopen(url).read()
-soup = BeautifulSoup(content.decode('utf-8','ignore'),'html.parser')
-print(soup, flush=True)
+def pega_jogos():
+    r = requests.get('https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2019')
+    soup = BeautifulSoup(r.content, 'html.parser')
+    table = soup.find(attrs={'class':'swiper-wrapper'})
+    content = table.find_all('li')
+    jogos = []
+    for c in content:
+        line = {}
+        info = [limpa(x.text) for x in c.find_all('span')]
+        a = len(info)
+        if a == 4:
+            local = info[-1].split('\n')[0].split(' - ',1)
+            if len(local)>1:
+                estadio,cidade = local[0],local[1]
+            else:
+                estadio,cidade = '',''
+            line = {'data': info[0].split(' - ')[0], 'mandante':info[1],'visitante': info[2],
+            'placar_mandante':'', 'placar_visitante':'','estadio': estadio, 'cidade':cidade}
+        elif a == 5:
+            local = info[-1].split('\n')[0].split(' - ',1)
+            if len(local)>1:
+                estadio,cidade = local[0],local[1]
+            else:
+                estadio,cidade = '',''
+            if len(info[3]) < 6:
+                try:
+                    mandante,visitante = info[1],info[2]
+                    placar_m = int(info[3].split(' x ')[0])
+                    placar_v = int(info[3].split(' x ')[1])
+                except:
+                    mandante,visitante = info[2],info[3]
+                    placar_m,placar_v = '',''
+            else:
+                mandante,visitante = info[1],info[2]
+                placar_m,placar_v = '',''
+            line = {'data': info[0].split(' - ')[0], 'mandante':mandante,'visitante': visitante,
+                'placar_mandante':placar_m, 'placar_visitante':placar_v,'estadio': estadio, 'cidade':cidade}
+        elif a == 6:
+            local = info[-1].split('\n')[0].split(' - ',1)
+            estadio,cidade = local[0],local[1]
+            placar_m = int(info[4].split(' x ')[0])
+            placar_v = int(info[4].split(' x ')[1])
+            line = {'data': info[0].split(' - ')[0], 'mandante':info[2],'visitante': info[3],
+            'placar_mandante':placar_m, 'placar_visitante':placar_v,'estadio': estadio, 'cidade':cidade}
+        jogos.append(line)
+    return jogos
 
-table = soup.find("table", attrs = {'class' : 'table'})
-for i in table.findAll("td"):
-    jogo = []
-    for j in i.findAll("div"):
-        jogo.append(j.text.strip())
-    jogo.pop(2)
-    jogo.pop(3)
-    jogo.pop(4)
-    times[jogo[2]]=0
-    resultado[jogo[2]]={'nome':jogo[2],'pos':0,'campeao':0,'libertadores':0,'rebaixado':0}
-    data = jogo[0].split(" - ")
-    jogo[0] = str(data[1] + ' ' + data[2])     #time.strptime(str(data[1] + ' ' + data[2]), '%d/%m/%Y %H:%M')
-    dados.append(jogo)
-print('pegou dados', flush=True)
+def get_times(jogos):
+    times=[]
+    for j in jogos:
+        if j['mandante'] not in times:
+            times.append(j['mandante'])
+        if j['visitante'] not in times:
+            times.append(j['visitante'])
+    times.sort()
+    return times
 
-def pontua(data):
-    timesx={}
+
+
+def pontua(jog):
+    timesx = dict()
+    for t in times:
+        timesx[t] = {'nome':t,'classificacao':0,'pontuacao':0,'pontos':0,'gpm':0,'gpv':0,'gcm':0,'gcv':0,'j_vitorias':0,'j_empates':0,'j_derrotas':0}
+    for g in jog:
+        if (g['placar_visitante'] =='') or (g['placar_mandante'] == ''):
+            g['placar_mandante'] = int(np.random.poisson(2))
+            g['placar_visitante'] = int(np.random.poisson(1))
+        if g['placar_mandante'] > g['placar_visitante']:
+            timesx[g['mandante']]['pontos'] += 3
+            timesx[g['mandante']]['gpm'] += g['placar_mandante']
+            timesx[g['mandante']]['gcm'] += g['placar_visitante']
+            timesx[g['mandante']]['j_vitorias'] += 1
+            timesx[g['visitante']]['j_derrotas'] += 1
+            timesx[g['visitante']]['gpv'] += g['placar_visitante']
+            timesx[g['visitante']]['gcv'] += g['placar_mandante']
+        elif g['placar_mandante'] < g['placar_visitante']:
+            timesx[g['visitante']]['pontos'] += 3
+            timesx[g['mandante']]['gpm'] += g['placar_mandante']
+            timesx[g['mandante']]['gcm'] += g['placar_visitante']
+            timesx[g['visitante']]['j_vitorias'] += 1
+            timesx[g['mandante']]['j_derrotas'] += 1
+            timesx[g['visitante']]['gpv'] += g['placar_visitante']
+            timesx[g['visitante']]['gcv'] += g['placar_mandante']
+        elif g['placar_mandante'] == g['placar_visitante']:
+            timesx[g['mandante']]['pontos'] += 1
+            timesx[g['visitante']]['pontos'] += 1
+            timesx[g['mandante']]['gpm'] += g['placar_mandante']
+            timesx[g['mandante']]['gcm'] += g['placar_visitante']
+            timesx[g['visitante']]['j_empates'] += 1
+            timesx[g['mandante']]['j_empates'] += 1
+            timesx[g['visitante']]['gpv'] += g['placar_visitante']
+            timesx[g['visitante']]['gcv'] += g['placar_mandante']
+
     for i in times:
-        timesx[i]={'nome':i,'classificacao':0,'pontuacao':0,'pontos':0,'gpm':0,'gpv':0,'gcm':0,'gcv':0,'j_vitorias':0,'j_empates':0,'j_derrotas':0}
-
-    for i in data:
-        man=i[2]
-        vis=i[5]
-
-        if i[3]=='':
-            placar_man=int(np.random.poisson(2))
-            placar_vis=int(np.random.poisson(1))
-        else:
-            placar_man=int(i[3])
-            placar_vis=int(i[4])
-        if placar_man > placar_vis:
-            timesx[man]['j_vitorias']=timesx[man]['j_vitorias']+1
-            timesx[vis]['j_derrotas']=timesx[vis]['j_derrotas']+1
-            timesx[man]['pontos']=timesx[man]['pontos']+3
-            timesx[man]['pontuacao']=timesx[man]['pontuacao']+301000
-        elif placar_man < placar_vis:
-            timesx[vis]['j_vitorias']=timesx[vis]['j_vitorias']+1
-            timesx[man]['j_derrotas']=timesx[man]['j_derrotas']+1
-            timesx[vis]['pontos']=timesx[vis]['pontos']+3
-            timesx[vis]['pontuacao']=timesx[vis]['pontuacao']+301000
-        else:
-            timesx[man]['j_empates']=timesx[man]['j_empates']+1
-            timesx[vis]['j_empates']=timesx[vis]['j_empates']+1
-            timesx[vis]['pontos']=timesx[vis]['pontos']+1
-            timesx[man]['pontos']=timesx[man]['pontos']+1
-            timesx[vis]['pontuacao']=timesx[vis]['pontuacao']+100100
-            timesx[man]['pontuacao']=timesx[man]['pontuacao']+100100
-        timesx[man]['pontuacao']=timesx[man]['pontuacao']+placar_man-placar_vis
-        timesx[vis]['pontuacao']=timesx[vis]['pontuacao']+placar_vis-placar_man
-        timesx[man]['gpm']=timesx[man]['gpm']+placar_man
-        timesx[vis]['gpv']=timesx[vis]['gpv']+placar_vis
-        timesx[man]['gcm']=timesx[man]['gcm']+placar_vis
-        timesx[vis]['gcv']=timesx[vis]['gcv']+placar_man
+        timesx[i]['pontuacao'] = ((timesx[i]['pontos']*100 + timesx[i]['j_vitorias'])*1000 +
+        timesx[i]['gpm'] + timesx[i]['gpv'] - timesx[i]['gcm'] - timesx[i]['gcv'])+500
     arr=[]
     for i in times:
         arr.append((timesx[i]['pontuacao'],timesx[i]['nome']))
@@ -86,24 +120,31 @@ def pontua(data):
     return timesx
 
 
+def clear_screen():
+    os.system("cls" if os.name == "nt" else "clear")
+
+
+jogos = pega_jogos()
+times = get_times(jogos)
 
 resultadox=[]
 for j in times:
     resultadox.append([j])
-cont=20000
+cont = 20000
 for i in range(cont):
-    limpa()
-    print(round(i/cont*100,int(np.log10(cont))-int(np.log10(i+1))), flush=True)
-    print(i)
-    c = pontua(dados)
+    j1 = copy.deepcopy(jogos)
+    c = pontua(j1)
+    clear_screen()
     for j in times:
         v = c[j]['classificacao']
         for z in resultadox:
             if z[0]==j:
                 z.append(v)
+    print(i,'\n')
     for f in resultadox:
         print(f[0],round(np.mean(f[1:]),2))
-limpa()
+
+
 
 with open("brasileirao_2019.txt", "a", encoding="utf-8") as file:
     for j in range(0,20):
