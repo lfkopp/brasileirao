@@ -178,7 +178,7 @@ last_short = short[short['data'] == max(short['data'])]
 short_final = last_short[last_short.columns[1:]].set_index('time')
 short_final.sort_values(by=[str(i) for i in list(range(20,0,-1))], inplace=True)
 short_final.plot(kind='bar',stacked=True,figsize=(20,15), colormap='autumn')
-plt.savefig('short_final.png')
+plt.savefig('short_final_2019.png')
 
 
 
@@ -187,9 +187,9 @@ long.data = pd.to_datetime(long.data)
 long['points'] = (20-long['pos']) * long['chance']
 long2 = long.groupby(['data','time'])['points'].mean().unstack()
 long2.sort_values(long2.columns.max()).plot(kind='area',stacked=True,figsize=(15,20), colormap='brg')
-plt.savefig('long2_stacked.png')
+plt.savefig('long2_stacked_2019.png')
 
 
 long2 = long.groupby(['time','data'])['points'].mean().unstack()
 long2.sort_values(long2.columns.max()).plot(kind='barh',stacked=False,figsize=(15,20), colormap='autumn')
-plt.savefig('long2.png')
+plt.savefig('long2_2019.png')
