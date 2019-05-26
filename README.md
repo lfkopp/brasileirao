@@ -20,5 +20,6 @@ We are downloading the results from Brazilian National Soccer Championship ("Bra
 
 
 ## 2017
+![long2_2017](long2_2017.png)
+![long2_stacked_2017](long2_stacked_2017.png)
 ![short_final_2017](short_final_2017.png)
-
