@@ -164,4 +164,32 @@ with open("brasileirao_long_2019.txt", "a", encoding="utf-8") as file2:
             text2=str(datetime.now().strftime('%Y-%m-%d') + ';' + resultadox[j][0] + ';' + str(i) + ';' + str(resultadox[j].count(i)/cont*100))
             print(text2, flush=True)
             file2.write(str(text2).replace(".",",") + '\n')
-print("fim")
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+
+short = pd.read_csv('brasileirao_2019.txt',sep=';', index_col=False)
+short.data = pd.to_datetime(short.data)
+last_short = short[short['data'] == max(short['data'])]
+short_final = last_short[last_short.columns[1:]].set_index('time')
+short_final.sort_values(by=[str(i) for i in list(range(20,0,-1))], inplace=True)
+short_final.plot(kind='bar',stacked=True,figsize=(20,15), colormap='autumn')
+plt.savefig('short_final.png')
+
+
+
+long = pd.read_csv('brasileirao_long_2019.txt',sep=';', index_col=False, decimal=',')
+long.data = pd.to_datetime(long.data)
+long['points'] = (20-long['pos']) * long['chance']
+long2 = long.groupby(['data','time'])['points'].mean().unstack()
+long2.sort_values(long2.columns.max()).plot(kind='area',stacked=True,figsize=(15,20), colormap='brg')
+plt.savefig('long2_stacked.png')
+
+
+long2 = long.groupby(['time','data'])['points'].mean().unstack()
+long2.sort_values(long2.columns.max()).plot(kind='barh',stacked=False,figsize=(15,20), colormap='autumn')
+plt.savefig('long2.png')
