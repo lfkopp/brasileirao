@@ -6,27 +6,27 @@ import matplotlib.pyplot as plt
 
 
 
-short = pd.read_csv('brasileirao_2019.txt',sep=';', index_col=False)
+short = pd.read_csv('brasileirao_2018.txt',sep=';', index_col=False)
 short.data = pd.to_datetime(short.data)
 last_short = short[short['data'] == max(short['data'])]
 short_final = last_short[last_short.columns[1:]].set_index('time')
 short_final.sort_values(by=[str(i) for i in list(range(20,0,-1))], inplace=True)
 short_final.plot(kind='bar',stacked=True,figsize=(20,15), colormap='autumn')
-plt.savefig('figs\short_final_2019.png')
+plt.savefig('figs\short_final_2018.png')
 
 
 
-long = pd.read_csv('brasileirao_long_2019.txt',sep=';', index_col=False, decimal=',')
+long = pd.read_csv('brasileirao_long_2018.txt',sep=';', index_col=False, decimal=',')
 long.data = pd.to_datetime(long.data)
 long['points'] = (20-long['pos']) * long['chance']
 long2 = long.groupby(['data','time'])['points'].mean().unstack()
 long2.sort_values(long2.columns.max()).plot(kind='area',stacked=True,figsize=(15,20), colormap='brg')
-plt.savefig('figs\long2_stacked_2019.png')
+plt.savefig('figs\long2_stacked_2018.png')
 
 
 long2 = long.groupby(['time','data'])['points'].mean().unstack()
 long2.sort_values(long2.columns.max()).plot(kind='barh',stacked=False,figsize=(15,20), colormap='autumn')
-plt.savefig('figs\long2_2019.png')
+plt.savefig('figs\long2_2018.png')
 
 
 long3 = long[long['data'] == max(long['data'])]
@@ -47,4 +47,4 @@ plt.ylim(0)
 plt.ylabel('Chances (%)')
 plt.xlabel('Position')
 plt.title('Chances for each team falling into x^th position at the end of the Brasileirão')
-plt.savefig('figs\long3_2019.png')
+plt.savefig('figs\long3_2018.png')
