@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+﻿from bs4 import BeautifulSoup
 import requests
 import re
 from pprint import pprint
@@ -130,7 +130,7 @@ times = get_times(jogos)
 resultadox=[]
 for j in times:
     resultadox.append([j])
-cont = 20000
+cont = 10000
 for i in range(cont):
     j1 = copy.deepcopy(jogos)
     c = pontua(j1)
