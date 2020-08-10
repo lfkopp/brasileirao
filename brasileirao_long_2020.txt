@@ -1,0 +1,401 @@
+data;time;pos;chance
+2020-08-10;Athletico Paranaense - PR;1;0.08273
+2020-08-10;Athletico Paranaense - PR;2;0.07419
+2020-08-10;Athletico Paranaense - PR;3;0.06961
+2020-08-10;Athletico Paranaense - PR;4;0.06438
+2020-08-10;Athletico Paranaense - PR;5;0.0611
+2020-08-10;Athletico Paranaense - PR;6;0.0589
+2020-08-10;Athletico Paranaense - PR;7;0.05628
+2020-08-10;Athletico Paranaense - PR;8;0.05366
+2020-08-10;Athletico Paranaense - PR;9;0.05141
+2020-08-10;Athletico Paranaense - PR;10;0.04866
+2020-08-10;Athletico Paranaense - PR;11;0.04708
+2020-08-10;Athletico Paranaense - PR;12;0.04478
+2020-08-10;Athletico Paranaense - PR;13;0.04365
+2020-08-10;Athletico Paranaense - PR;14;0.04286
+2020-08-10;Athletico Paranaense - PR;15;0.03934
+2020-08-10;Athletico Paranaense - PR;16;0.03779
+2020-08-10;Athletico Paranaense - PR;17;0.03517
+2020-08-10;Athletico Paranaense - PR;18;0.03428
+2020-08-10;Athletico Paranaense - PR;19;0.0295
+2020-08-10;Athletico Paranaense - PR;20;0.02463
+2020-08-10;Atlético - GO;1;0.04978
+2020-08-10;Atlético - GO;2;0.04955
+2020-08-10;Atlético - GO;3;0.04907
+2020-08-10;Atlético - GO;4;0.04908
+2020-08-10;Atlético - GO;5;0.04991
+2020-08-10;Atlético - GO;6;0.0509
+2020-08-10;Atlético - GO;7;0.0497
+2020-08-10;Atlético - GO;8;0.05136
+2020-08-10;Atlético - GO;9;0.05081
+2020-08-10;Atlético - GO;10;0.05086
+2020-08-10;Atlético - GO;11;0.0516
+2020-08-10;Atlético - GO;12;0.05127
+2020-08-10;Atlético - GO;13;0.04895
+2020-08-10;Atlético - GO;14;0.04909
+2020-08-10;Atlético - GO;15;0.05002
+2020-08-10;Atlético - GO;16;0.05066
+2020-08-10;Atlético - GO;17;0.04913
+2020-08-10;Atlético - GO;18;0.05003
+2020-08-10;Atlético - GO;19;0.04906
+2020-08-10;Atlético - GO;20;0.04917
+2020-08-10;Atlético - MG;1;0.08348
+2020-08-10;Atlético - MG;2;0.07441
+2020-08-10;Atlético - MG;3;0.0681
+2020-08-10;Atlético - MG;4;0.06232
+2020-08-10;Atlético - MG;5;0.06003
+2020-08-10;Atlético - MG;6;0.05827
+2020-08-10;Atlético - MG;7;0.05654
+2020-08-10;Atlético - MG;8;0.05385
+2020-08-10;Atlético - MG;9;0.05135
+2020-08-10;Atlético - MG;10;0.0502
+2020-08-10;Atlético - MG;11;0.04866
+2020-08-10;Atlético - MG;12;0.0463
+2020-08-10;Atlético - MG;13;0.0429
+2020-08-10;Atlético - MG;14;0.04208
+2020-08-10;Atlético - MG;15;0.03981
+2020-08-10;Atlético - MG;16;0.03777
+2020-08-10;Atlético - MG;17;0.03558
+2020-08-10;Atlético - MG;18;0.03401
+2020-08-10;Atlético - MG;19;0.02976
+2020-08-10;Atlético - MG;20;0.02458
+2020-08-10;Bahia - BA;1;0.04833
+2020-08-10;Bahia - BA;2;0.04966
+2020-08-10;Bahia - BA;3;0.05072
+2020-08-10;Bahia - BA;4;0.05
+2020-08-10;Bahia - BA;5;0.04939
+2020-08-10;Bahia - BA;6;0.05064
+2020-08-10;Bahia - BA;7;0.05164
+2020-08-10;Bahia - BA;8;0.0509
+2020-08-10;Bahia - BA;9;0.04964
+2020-08-10;Bahia - BA;10;0.0508
+2020-08-10;Bahia - BA;11;0.04974
+2020-08-10;Bahia - BA;12;0.05018
+2020-08-10;Bahia - BA;13;0.04946
+2020-08-10;Bahia - BA;14;0.04916
+2020-08-10;Bahia - BA;15;0.0524
+2020-08-10;Bahia - BA;16;0.0496
+2020-08-10;Bahia - BA;17;0.0499
+2020-08-10;Bahia - BA;18;0.04912
+2020-08-10;Bahia - BA;19;0.0504
+2020-08-10;Bahia - BA;20;0.04832
+2020-08-10;Botafogo - RJ;1;0.04888
+2020-08-10;Botafogo - RJ;2;0.04762
+2020-08-10;Botafogo - RJ;3;0.04919
+2020-08-10;Botafogo - RJ;4;0.04927
+2020-08-10;Botafogo - RJ;5;0.05108
+2020-08-10;Botafogo - RJ;6;0.05099
+2020-08-10;Botafogo - RJ;7;0.05001
+2020-08-10;Botafogo - RJ;8;0.0514
+2020-08-10;Botafogo - RJ;9;0.05021
+2020-08-10;Botafogo - RJ;10;0.0511
+2020-08-10;Botafogo - RJ;11;0.04974
+2020-08-10;Botafogo - RJ;12;0.05066
+2020-08-10;Botafogo - RJ;13;0.05113
+2020-08-10;Botafogo - RJ;14;0.05073
+2020-08-10;Botafogo - RJ;15;0.05016
+2020-08-10;Botafogo - RJ;16;0.04947
+2020-08-10;Botafogo - RJ;17;0.05098
+2020-08-10;Botafogo - RJ;18;0.0498
+2020-08-10;Botafogo - RJ;19;0.04992
+2020-08-10;Botafogo - RJ;20;0.04766
+2020-08-10;Ceará - CE;1;0.03927
+2020-08-10;Ceará - CE;2;0.04133
+2020-08-10;Ceará - CE;3;0.04368
+2020-08-10;Ceará - CE;4;0.04535
+2020-08-10;Ceará - CE;5;0.04583
+2020-08-10;Ceará - CE;6;0.04733
+2020-08-10;Ceará - CE;7;0.04818
+2020-08-10;Ceará - CE;8;0.04813
+2020-08-10;Ceará - CE;9;0.04979
+2020-08-10;Ceará - CE;10;0.05034
+2020-08-10;Ceará - CE;11;0.05046
+2020-08-10;Ceará - CE;12;0.05261
+2020-08-10;Ceará - CE;13;0.05089
+2020-08-10;Ceará - CE;14;0.05283
+2020-08-10;Ceará - CE;15;0.05331
+2020-08-10;Ceará - CE;16;0.05527
+2020-08-10;Ceará - CE;17;0.05638
+2020-08-10;Ceará - CE;18;0.05514
+2020-08-10;Ceará - CE;19;0.0566
+2020-08-10;Ceará - CE;20;0.05728
+2020-08-10;Corinthians - SP;1;0.04804
+2020-08-10;Corinthians - SP;2;0.0492
+2020-08-10;Corinthians - SP;3;0.04958
+2020-08-10;Corinthians - SP;4;0.0504
+2020-08-10;Corinthians - SP;5;0.04954
+2020-08-10;Corinthians - SP;6;0.05025
+2020-08-10;Corinthians - SP;7;0.04965
+2020-08-10;Corinthians - SP;8;0.05045
+2020-08-10;Corinthians - SP;9;0.0511
+2020-08-10;Corinthians - SP;10;0.05025
+2020-08-10;Corinthians - SP;11;0.05047
+2020-08-10;Corinthians - SP;12;0.05102
+2020-08-10;Corinthians - SP;13;0.04939
+2020-08-10;Corinthians - SP;14;0.05137
+2020-08-10;Corinthians - SP;15;0.0511
+2020-08-10;Corinthians - SP;16;0.0497
+2020-08-10;Corinthians - SP;17;0.05056
+2020-08-10;Corinthians - SP;18;0.05034
+2020-08-10;Corinthians - SP;19;0.04778
+2020-08-10;Corinthians - SP;20;0.04981
+2020-08-10;Coritiba - PR;1;0.02743
+2020-08-10;Coritiba - PR;2;0.03059
+2020-08-10;Coritiba - PR;3;0.03427
+2020-08-10;Coritiba - PR;4;0.03688
+2020-08-10;Coritiba - PR;5;0.03947
+2020-08-10;Coritiba - PR;6;0.04084
+2020-08-10;Coritiba - PR;7;0.04176
+2020-08-10;Coritiba - PR;8;0.04518
+2020-08-10;Coritiba - PR;9;0.04489
+2020-08-10;Coritiba - PR;10;0.04872
+2020-08-10;Coritiba - PR;11;0.05053
+2020-08-10;Coritiba - PR;12;0.05126
+2020-08-10;Coritiba - PR;13;0.05436
+2020-08-10;Coritiba - PR;14;0.0561
+2020-08-10;Coritiba - PR;15;0.0572
+2020-08-10;Coritiba - PR;16;0.05985
+2020-08-10;Coritiba - PR;17;0.06231
+2020-08-10;Coritiba - PR;18;0.06691
+2020-08-10;Coritiba - PR;19;0.07105
+2020-08-10;Coritiba - PR;20;0.0804
+2020-08-10;Flamengo - RJ;1;0.02731
+2020-08-10;Flamengo - RJ;2;0.0317
+2020-08-10;Flamengo - RJ;3;0.03552
+2020-08-10;Flamengo - RJ;4;0.03766
+2020-08-10;Flamengo - RJ;5;0.0394
+2020-08-10;Flamengo - RJ;6;0.04063
+2020-08-10;Flamengo - RJ;7;0.04325
+2020-08-10;Flamengo - RJ;8;0.04447
+2020-08-10;Flamengo - RJ;9;0.0464
+2020-08-10;Flamengo - RJ;10;0.04692
+2020-08-10;Flamengo - RJ;11;0.05006
+2020-08-10;Flamengo - RJ;12;0.05172
+2020-08-10;Flamengo - RJ;13;0.05357
+2020-08-10;Flamengo - RJ;14;0.05455
+2020-08-10;Flamengo - RJ;15;0.05775
+2020-08-10;Flamengo - RJ;16;0.0616
+2020-08-10;Flamengo - RJ;17;0.06273
+2020-08-10;Flamengo - RJ;18;0.06573
+2020-08-10;Flamengo - RJ;19;0.06976
+2020-08-10;Flamengo - RJ;20;0.07927
+2020-08-10;Fluminense - RJ;1;0.03791
+2020-08-10;Fluminense - RJ;2;0.04149
+2020-08-10;Fluminense - RJ;3;0.04491
+2020-08-10;Fluminense - RJ;4;0.04517
+2020-08-10;Fluminense - RJ;5;0.04629
+2020-08-10;Fluminense - RJ;6;0.04855
+2020-08-10;Fluminense - RJ;7;0.0485
+2020-08-10;Fluminense - RJ;8;0.0494
+2020-08-10;Fluminense - RJ;9;0.05143
+2020-08-10;Fluminense - RJ;10;0.05039
+2020-08-10;Fluminense - RJ;11;0.05109
+2020-08-10;Fluminense - RJ;12;0.05057
+2020-08-10;Fluminense - RJ;13;0.05342
+2020-08-10;Fluminense - RJ;14;0.05287
+2020-08-10;Fluminense - RJ;15;0.05233
+2020-08-10;Fluminense - RJ;16;0.05352
+2020-08-10;Fluminense - RJ;17;0.05414
+2020-08-10;Fluminense - RJ;18;0.05587
+2020-08-10;Fluminense - RJ;19;0.05582
+2020-08-10;Fluminense - RJ;20;0.05633
+2020-08-10;Fortaleza - CE;1;0.02674
+2020-08-10;Fortaleza - CE;2;0.03117
+2020-08-10;Fortaleza - CE;3;0.03387
+2020-08-10;Fortaleza - CE;4;0.03784
+2020-08-10;Fortaleza - CE;5;0.03964
+2020-08-10;Fortaleza - CE;6;0.0399
+2020-08-10;Fortaleza - CE;7;0.04311
+2020-08-10;Fortaleza - CE;8;0.04451
+2020-08-10;Fortaleza - CE;9;0.04792
+2020-08-10;Fortaleza - CE;10;0.04721
+2020-08-10;Fortaleza - CE;11;0.04995
+2020-08-10;Fortaleza - CE;12;0.05114
+2020-08-10;Fortaleza - CE;13;0.05437
+2020-08-10;Fortaleza - CE;14;0.05577
+2020-08-10;Fortaleza - CE;15;0.05725
+2020-08-10;Fortaleza - CE;16;0.06131
+2020-08-10;Fortaleza - CE;17;0.06132
+2020-08-10;Fortaleza - CE;18;0.06599
+2020-08-10;Fortaleza - CE;19;0.07128
+2020-08-10;Fortaleza - CE;20;0.07971
+2020-08-10;Goiás - GO;1;0.04823
+2020-08-10;Goiás - GO;2;0.04985
+2020-08-10;Goiás - GO;3;0.04967
+2020-08-10;Goiás - GO;4;0.05197
+2020-08-10;Goiás - GO;5;0.05069
+2020-08-10;Goiás - GO;6;0.04971
+2020-08-10;Goiás - GO;7;0.0497
+2020-08-10;Goiás - GO;8;0.04975
+2020-08-10;Goiás - GO;9;0.05082
+2020-08-10;Goiás - GO;10;0.05046
+2020-08-10;Goiás - GO;11;0.05011
+2020-08-10;Goiás - GO;12;0.04985
+2020-08-10;Goiás - GO;13;0.05055
+2020-08-10;Goiás - GO;14;0.04902
+2020-08-10;Goiás - GO;15;0.05004
+2020-08-10;Goiás - GO;16;0.05075
+2020-08-10;Goiás - GO;17;0.05055
+2020-08-10;Goiás - GO;18;0.04899
+2020-08-10;Goiás - GO;19;0.0501
+2020-08-10;Goiás - GO;20;0.04919
+2020-08-10;Grêmio - RS;1;0.05839
+2020-08-10;Grêmio - RS;2;0.05925
+2020-08-10;Grêmio - RS;3;0.05662
+2020-08-10;Grêmio - RS;4;0.05661
+2020-08-10;Grêmio - RS;5;0.05516
+2020-08-10;Grêmio - RS;6;0.05407
+2020-08-10;Grêmio - RS;7;0.05429
+2020-08-10;Grêmio - RS;8;0.05265
+2020-08-10;Grêmio - RS;9;0.0504
+2020-08-10;Grêmio - RS;10;0.05181
+2020-08-10;Grêmio - RS;11;0.05089
+2020-08-10;Grêmio - RS;12;0.04928
+2020-08-10;Grêmio - RS;13;0.04817
+2020-08-10;Grêmio - RS;14;0.04835
+2020-08-10;Grêmio - RS;15;0.04725
+2020-08-10;Grêmio - RS;16;0.04536
+2020-08-10;Grêmio - RS;17;0.04474
+2020-08-10;Grêmio - RS;18;0.04181
+2020-08-10;Grêmio - RS;19;0.03969
+2020-08-10;Grêmio - RS;20;0.03521
+2020-08-10;Internacional - RS;1;0.08257
+2020-08-10;Internacional - RS;2;0.07306
+2020-08-10;Internacional - RS;3;0.06741
+2020-08-10;Internacional - RS;4;0.06456
+2020-08-10;Internacional - RS;5;0.06095
+2020-08-10;Internacional - RS;6;0.05978
+2020-08-10;Internacional - RS;7;0.05438
+2020-08-10;Internacional - RS;8;0.05374
+2020-08-10;Internacional - RS;9;0.05271
+2020-08-10;Internacional - RS;10;0.04947
+2020-08-10;Internacional - RS;11;0.04773
+2020-08-10;Internacional - RS;12;0.04487
+2020-08-10;Internacional - RS;13;0.04485
+2020-08-10;Internacional - RS;14;0.04231
+2020-08-10;Internacional - RS;15;0.0393
+2020-08-10;Internacional - RS;16;0.03786
+2020-08-10;Internacional - RS;17;0.03558
+2020-08-10;Internacional - RS;18;0.03299
+2020-08-10;Internacional - RS;19;0.03021
+2020-08-10;Internacional - RS;20;0.02567
+2020-08-10;Palmeiras - SP;1;0.04807
+2020-08-10;Palmeiras - SP;2;0.04889
+2020-08-10;Palmeiras - SP;3;0.04941
+2020-08-10;Palmeiras - SP;4;0.05012
+2020-08-10;Palmeiras - SP;5;0.05126
+2020-08-10;Palmeiras - SP;6;0.05075
+2020-08-10;Palmeiras - SP;7;0.04945
+2020-08-10;Palmeiras - SP;8;0.04864
+2020-08-10;Palmeiras - SP;9;0.04927
+2020-08-10;Palmeiras - SP;10;0.05044
+2020-08-10;Palmeiras - SP;11;0.04974
+2020-08-10;Palmeiras - SP;12;0.04971
+2020-08-10;Palmeiras - SP;13;0.05289
+2020-08-10;Palmeiras - SP;14;0.05097
+2020-08-10;Palmeiras - SP;15;0.05056
+2020-08-10;Palmeiras - SP;16;0.04919
+2020-08-10;Palmeiras - SP;17;0.05085
+2020-08-10;Palmeiras - SP;18;0.05018
+2020-08-10;Palmeiras - SP;19;0.05056
+2020-08-10;Palmeiras - SP;20;0.04905
+2020-08-10;Red Bull Bragantino - SP;1;0.04997
+2020-08-10;Red Bull Bragantino - SP;2;0.05044
+2020-08-10;Red Bull Bragantino - SP;3;0.04952
+2020-08-10;Red Bull Bragantino - SP;4;0.05069
+2020-08-10;Red Bull Bragantino - SP;5;0.04955
+2020-08-10;Red Bull Bragantino - SP;6;0.05119
+2020-08-10;Red Bull Bragantino - SP;7;0.05145
+2020-08-10;Red Bull Bragantino - SP;8;0.05218
+2020-08-10;Red Bull Bragantino - SP;9;0.05033
+2020-08-10;Red Bull Bragantino - SP;10;0.05036
+2020-08-10;Red Bull Bragantino - SP;11;0.05014
+2020-08-10;Red Bull Bragantino - SP;12;0.0513
+2020-08-10;Red Bull Bragantino - SP;13;0.05008
+2020-08-10;Red Bull Bragantino - SP;14;0.05061
+2020-08-10;Red Bull Bragantino - SP;15;0.05054
+2020-08-10;Red Bull Bragantino - SP;16;0.05
+2020-08-10;Red Bull Bragantino - SP;17;0.04899
+2020-08-10;Red Bull Bragantino - SP;18;0.04805
+2020-08-10;Red Bull Bragantino - SP;19;0.04879
+2020-08-10;Red Bull Bragantino - SP;20;0.04582
+2020-08-10;Santos - SP;1;0.03472
+2020-08-10;Santos - SP;2;0.03845
+2020-08-10;Santos - SP;3;0.04018
+2020-08-10;Santos - SP;4;0.04202
+2020-08-10;Santos - SP;5;0.04403
+2020-08-10;Santos - SP;6;0.0448
+2020-08-10;Santos - SP;7;0.04796
+2020-08-10;Santos - SP;8;0.04708
+2020-08-10;Santos - SP;9;0.04941
+2020-08-10;Santos - SP;10;0.05102
+2020-08-10;Santos - SP;11;0.05047
+2020-08-10;Santos - SP;12;0.05221
+2020-08-10;Santos - SP;13;0.05258
+2020-08-10;Santos - SP;14;0.05477
+2020-08-10;Santos - SP;15;0.05484
+2020-08-10;Santos - SP;16;0.05668
+2020-08-10;Santos - SP;17;0.05671
+2020-08-10;Santos - SP;18;0.05842
+2020-08-10;Santos - SP;19;0.06033
+2020-08-10;Santos - SP;20;0.06332
+2020-08-10;Sport - PE;1;0.05997
+2020-08-10;Sport - PE;2;0.05952
+2020-08-10;Sport - PE;3;0.05774
+2020-08-10;Sport - PE;4;0.0556
+2020-08-10;Sport - PE;5;0.05539
+2020-08-10;Sport - PE;6;0.05372
+2020-08-10;Sport - PE;7;0.05393
+2020-08-10;Sport - PE;8;0.05338
+2020-08-10;Sport - PE;9;0.05267
+2020-08-10;Sport - PE;10;0.05047
+2020-08-10;Sport - PE;11;0.05099
+2020-08-10;Sport - PE;12;0.04941
+2020-08-10;Sport - PE;13;0.04831
+2020-08-10;Sport - PE;14;0.04652
+2020-08-10;Sport - PE;15;0.04563
+2020-08-10;Sport - PE;16;0.04426
+2020-08-10;Sport - PE;17;0.04426
+2020-08-10;Sport - PE;18;0.04254
+2020-08-10;Sport - PE;19;0.04017
+2020-08-10;Sport - PE;20;0.03552
+2020-08-10;São Paulo - SP;1;0.04841
+2020-08-10;São Paulo - SP;2;0.04955
+2020-08-10;São Paulo - SP;3;0.04948
+2020-08-10;São Paulo - SP;4;0.04973
+2020-08-10;São Paulo - SP;5;0.0505
+2020-08-10;São Paulo - SP;6;0.04951
+2020-08-10;São Paulo - SP;7;0.05038
+2020-08-10;São Paulo - SP;8;0.05058
+2020-08-10;São Paulo - SP;9;0.04957
+2020-08-10;São Paulo - SP;10;0.04936
+2020-08-10;São Paulo - SP;11;0.0506
+2020-08-10;São Paulo - SP;12;0.05115
+2020-08-10;São Paulo - SP;13;0.05067
+2020-08-10;São Paulo - SP;14;0.05043
+2020-08-10;São Paulo - SP;15;0.05064
+2020-08-10;São Paulo - SP;16;0.04956
+2020-08-10;São Paulo - SP;17;0.0499
+2020-08-10;São Paulo - SP;18;0.04973
+2020-08-10;São Paulo - SP;19;0.05066
+2020-08-10;São Paulo - SP;20;0.04959
+2020-08-10;Vasco da Gama - RJ;1;0.04977
+2020-08-10;Vasco da Gama - RJ;2;0.05008
+2020-08-10;Vasco da Gama - RJ;3;0.05145
+2020-08-10;Vasco da Gama - RJ;4;0.05035
+2020-08-10;Vasco da Gama - RJ;5;0.05079
+2020-08-10;Vasco da Gama - RJ;6;0.04927
+2020-08-10;Vasco da Gama - RJ;7;0.04984
+2020-08-10;Vasco da Gama - RJ;8;0.04869
+2020-08-10;Vasco da Gama - RJ;9;0.04987
+2020-08-10;Vasco da Gama - RJ;10;0.05116
+2020-08-10;Vasco da Gama - RJ;11;0.04995
+2020-08-10;Vasco da Gama - RJ;12;0.05071
+2020-08-10;Vasco da Gama - RJ;13;0.04981
+2020-08-10;Vasco da Gama - RJ;14;0.04961
+2020-08-10;Vasco da Gama - RJ;15;0.05053
+2020-08-10;Vasco da Gama - RJ;16;0.0498
+2020-08-10;Vasco da Gama - RJ;17;0.05022
+2020-08-10;Vasco da Gama - RJ;18;0.05007
+2020-08-10;Vasco da Gama - RJ;19;0.04856
+2020-08-10;Vasco da Gama - RJ;20;0.04947
