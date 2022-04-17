@@ -28,7 +28,7 @@ def pega_jogos():
     '''
     Pegar HTML da CBF e retornar lista de dicionários.
     '''
-    r = requests.get('https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2020')
+    r = requests.get('https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2022')
     soup = BeautifulSoup(r.content, 'html.parser')
     table = soup.find(attrs={'class':'swiper-wrapper'})
     content = table.find_all('li')
@@ -113,15 +113,15 @@ for _ in range(num_sim):
 
 
 hoje = str(date.today())
-
-with open('brasileirao_long_2020.txt', 'a+', encoding='utf-8') as f:
+# data;time;pos;chance
+with open('brasileirao_long_2022.txt', 'a+', encoding='utf-8') as f:
     for t in times:
         for j in range(1,len(times)+1):
             prob = str(np.round(resultados[t].count(j)/num_sim,5))
             probabilidades[t].append(prob)
             f.write(hoje+';'+t+';'+str(j)+';'+prob+'\n')
-
-with open('brasileirao_2020.txt', 'a+', encoding='utf-8') as f:
+## data;time;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20
+with open('brasileirao_2022.txt', 'a+', encoding='utf-8') as f:
     for t in times:
         f.write(';'.join([hoje,t]+probabilidades[t])+'\n')
 
@@ -136,27 +136,27 @@ import matplotlib.pyplot as plt
 
 
 
-short = pd.read_csv('brasileirao_2020.txt',sep=';', index_col=False, decimal='.')
+short = pd.read_csv('brasileirao_2022.txt',sep=';', index_col=False, decimal='.')
 short.data = pd.to_datetime(short.data)
 last_short = short[short['data'] == max(short['data'])]
 short_final = last_short[last_short.columns[1:]].set_index('time')
 short_final.sort_values(by=[str(i) for i in list(range(20,0,-1))], inplace=True)
 short_final.plot(kind='bar',stacked=True,figsize=(20,15), colormap='autumn')
-plt.savefig('figs\short_final_2020.png')
+plt.savefig('figs\short_final_2022.png')
 
 #%%
 
-long = pd.read_csv('brasileirao_long_2020.txt',sep=';', index_col=False, decimal='.')
+long = pd.read_csv('brasileirao_long_2022.txt',sep=';', index_col=False, decimal='.')
 long.data = pd.to_datetime(long.data)
 long['points'] = (20-long['pos']) * long['chance']
 long2 = long.groupby(['data','time'])['points'].mean().unstack()
 long2.sort_values(long2.columns.max()).plot(kind='area',stacked=True,figsize=(15,20), colormap='brg')
-plt.savefig('figs\long2_stacked_2020.png')
+plt.savefig('figs\long2_stacked_2022.png')
 
 #%%
 long2 = long.groupby(['time','data'])['points'].mean().unstack()
 long2.sort_values(long2.columns.max()).plot(kind='barh',stacked=False,figsize=(15,20), colormap='autumn')
-plt.savefig('figs\long2_2020.png')
+plt.savefig('figs\long2_2022.png')
 
 #%%
 long3 = long[long['data'] == max(long['data'])]
@@ -177,7 +177,9 @@ plt.ylim(0)
 plt.ylabel('Chances (%)')
 plt.xlabel('Position')
 plt.title('Chances for each team falling into x^th position at the end of the Brasileirão')
-plt.savefig('figs\long3_2020.png')
+plt.savefig('figs\long3_2022.png')
 
+
+# %%
 
 # %%
