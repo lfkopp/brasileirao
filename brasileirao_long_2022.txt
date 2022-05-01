@@ -1599,3 +1599,403 @@ data;time;pos;chance
 2022-04-30;São Paulo - SP;18;0.04369
 2022-04-30;São Paulo - SP;19;0.04197
 2022-04-30;São Paulo - SP;20;0.03826
+2022-05-01;América Fc Saf - MG;1;0.05274
+2022-05-01;América Fc Saf - MG;2;0.0543
+2022-05-01;América Fc Saf - MG;3;0.05433
+2022-05-01;América Fc Saf - MG;4;0.05364
+2022-05-01;América Fc Saf - MG;5;0.05521
+2022-05-01;América Fc Saf - MG;6;0.05403
+2022-05-01;América Fc Saf - MG;7;0.05356
+2022-05-01;América Fc Saf - MG;8;0.05409
+2022-05-01;América Fc Saf - MG;9;0.05317
+2022-05-01;América Fc Saf - MG;10;0.05193
+2022-05-01;América Fc Saf - MG;11;0.05193
+2022-05-01;América Fc Saf - MG;12;0.05138
+2022-05-01;América Fc Saf - MG;13;0.05174
+2022-05-01;América Fc Saf - MG;14;0.05019
+2022-05-01;América Fc Saf - MG;15;0.04939
+2022-05-01;América Fc Saf - MG;16;0.0464
+2022-05-01;América Fc Saf - MG;17;0.04469
+2022-05-01;América Fc Saf - MG;18;0.04218
+2022-05-01;América Fc Saf - MG;19;0.04077
+2022-05-01;América Fc Saf - MG;20;0.03433
+2022-05-01;Athletico Paranaense - PR;1;0.02178
+2022-05-01;Athletico Paranaense - PR;2;0.02602
+2022-05-01;Athletico Paranaense - PR;3;0.03121
+2022-05-01;Athletico Paranaense - PR;4;0.0342
+2022-05-01;Athletico Paranaense - PR;5;0.03551
+2022-05-01;Athletico Paranaense - PR;6;0.03919
+2022-05-01;Athletico Paranaense - PR;7;0.04239
+2022-05-01;Athletico Paranaense - PR;8;0.04392
+2022-05-01;Athletico Paranaense - PR;9;0.04616
+2022-05-01;Athletico Paranaense - PR;10;0.04881
+2022-05-01;Athletico Paranaense - PR;11;0.05116
+2022-05-01;Athletico Paranaense - PR;12;0.0525
+2022-05-01;Athletico Paranaense - PR;13;0.05452
+2022-05-01;Athletico Paranaense - PR;14;0.0578
+2022-05-01;Athletico Paranaense - PR;15;0.05996
+2022-05-01;Athletico Paranaense - PR;16;0.06323
+2022-05-01;Athletico Paranaense - PR;17;0.06666
+2022-05-01;Athletico Paranaense - PR;18;0.06975
+2022-05-01;Athletico Paranaense - PR;19;0.07484
+2022-05-01;Athletico Paranaense - PR;20;0.08039
+2022-05-01;Atlético - GO;1;0.01965
+2022-05-01;Atlético - GO;2;0.02485
+2022-05-01;Atlético - GO;3;0.02826
+2022-05-01;Atlético - GO;4;0.03237
+2022-05-01;Atlético - GO;5;0.035
+2022-05-01;Atlético - GO;6;0.03799
+2022-05-01;Atlético - GO;7;0.0409
+2022-05-01;Atlético - GO;8;0.04304
+2022-05-01;Atlético - GO;9;0.04431
+2022-05-01;Atlético - GO;10;0.04773
+2022-05-01;Atlético - GO;11;0.05041
+2022-05-01;Atlético - GO;12;0.05185
+2022-05-01;Atlético - GO;13;0.05461
+2022-05-01;Atlético - GO;14;0.05756
+2022-05-01;Atlético - GO;15;0.06169
+2022-05-01;Atlético - GO;16;0.06447
+2022-05-01;Atlético - GO;17;0.06793
+2022-05-01;Atlético - GO;18;0.07395
+2022-05-01;Atlético - GO;19;0.07752
+2022-05-01;Atlético - GO;20;0.08591
+2022-05-01;Atlético Mineiro - MG;1;0.08182
+2022-05-01;Atlético Mineiro - MG;2;0.07495
+2022-05-01;Atlético Mineiro - MG;3;0.07119
+2022-05-01;Atlético Mineiro - MG;4;0.06631
+2022-05-01;Atlético Mineiro - MG;5;0.06569
+2022-05-01;Atlético Mineiro - MG;6;0.05928
+2022-05-01;Atlético Mineiro - MG;7;0.05725
+2022-05-01;Atlético Mineiro - MG;8;0.05617
+2022-05-01;Atlético Mineiro - MG;9;0.05265
+2022-05-01;Atlético Mineiro - MG;10;0.05075
+2022-05-01;Atlético Mineiro - MG;11;0.04883
+2022-05-01;Atlético Mineiro - MG;12;0.04687
+2022-05-01;Atlético Mineiro - MG;13;0.04345
+2022-05-01;Atlético Mineiro - MG;14;0.04109
+2022-05-01;Atlético Mineiro - MG;15;0.03913
+2022-05-01;Atlético Mineiro - MG;16;0.0355
+2022-05-01;Atlético Mineiro - MG;17;0.03269
+2022-05-01;Atlético Mineiro - MG;18;0.03095
+2022-05-01;Atlético Mineiro - MG;19;0.02544
+2022-05-01;Atlético Mineiro - MG;20;0.01999
+2022-05-01;Avaí - SC;1;0.06454
+2022-05-01;Avaí - SC;2;0.06215
+2022-05-01;Avaí - SC;3;0.06031
+2022-05-01;Avaí - SC;4;0.05922
+2022-05-01;Avaí - SC;5;0.05801
+2022-05-01;Avaí - SC;6;0.05529
+2022-05-01;Avaí - SC;7;0.0546
+2022-05-01;Avaí - SC;8;0.05403
+2022-05-01;Avaí - SC;9;0.05406
+2022-05-01;Avaí - SC;10;0.05144
+2022-05-01;Avaí - SC;11;0.04994
+2022-05-01;Avaí - SC;12;0.04948
+2022-05-01;Avaí - SC;13;0.04852
+2022-05-01;Avaí - SC;14;0.04597
+2022-05-01;Avaí - SC;15;0.0432
+2022-05-01;Avaí - SC;16;0.04344
+2022-05-01;Avaí - SC;17;0.0417
+2022-05-01;Avaí - SC;18;0.03899
+2022-05-01;Avaí - SC;19;0.03563
+2022-05-01;Avaí - SC;20;0.02948
+2022-05-01;Botafogo - RJ;1;0.05293
+2022-05-01;Botafogo - RJ;2;0.05354
+2022-05-01;Botafogo - RJ;3;0.05341
+2022-05-01;Botafogo - RJ;4;0.05436
+2022-05-01;Botafogo - RJ;5;0.05466
+2022-05-01;Botafogo - RJ;6;0.05294
+2022-05-01;Botafogo - RJ;7;0.05234
+2022-05-01;Botafogo - RJ;8;0.05303
+2022-05-01;Botafogo - RJ;9;0.05217
+2022-05-01;Botafogo - RJ;10;0.05273
+2022-05-01;Botafogo - RJ;11;0.05219
+2022-05-01;Botafogo - RJ;12;0.04963
+2022-05-01;Botafogo - RJ;13;0.04984
+2022-05-01;Botafogo - RJ;14;0.04978
+2022-05-01;Botafogo - RJ;15;0.048
+2022-05-01;Botafogo - RJ;16;0.04723
+2022-05-01;Botafogo - RJ;17;0.04635
+2022-05-01;Botafogo - RJ;18;0.04465
+2022-05-01;Botafogo - RJ;19;0.04234
+2022-05-01;Botafogo - RJ;20;0.03788
+2022-05-01;Ceará - CE;1;0.02874
+2022-05-01;Ceará - CE;2;0.03336
+2022-05-01;Ceará - CE;3;0.0356
+2022-05-01;Ceará - CE;4;0.03874
+2022-05-01;Ceará - CE;5;0.04067
+2022-05-01;Ceará - CE;6;0.04299
+2022-05-01;Ceará - CE;7;0.0449
+2022-05-01;Ceará - CE;8;0.04634
+2022-05-01;Ceará - CE;9;0.04881
+2022-05-01;Ceará - CE;10;0.0501
+2022-05-01;Ceará - CE;11;0.05085
+2022-05-01;Ceará - CE;12;0.05378
+2022-05-01;Ceará - CE;13;0.05399
+2022-05-01;Ceará - CE;14;0.05538
+2022-05-01;Ceará - CE;15;0.05858
+2022-05-01;Ceará - CE;16;0.06004
+2022-05-01;Ceará - CE;17;0.06159
+2022-05-01;Ceará - CE;18;0.06198
+2022-05-01;Ceará - CE;19;0.06417
+2022-05-01;Ceará - CE;20;0.06939
+2022-05-01;Corinthians - SP;1;0.0897
+2022-05-01;Corinthians - SP;2;0.07979
+2022-05-01;Corinthians - SP;3;0.07226
+2022-05-01;Corinthians - SP;4;0.06657
+2022-05-01;Corinthians - SP;5;0.06387
+2022-05-01;Corinthians - SP;6;0.06004
+2022-05-01;Corinthians - SP;7;0.05928
+2022-05-01;Corinthians - SP;8;0.05556
+2022-05-01;Corinthians - SP;9;0.05127
+2022-05-01;Corinthians - SP;10;0.04922
+2022-05-01;Corinthians - SP;11;0.04739
+2022-05-01;Corinthians - SP;12;0.04488
+2022-05-01;Corinthians - SP;13;0.04304
+2022-05-01;Corinthians - SP;14;0.03947
+2022-05-01;Corinthians - SP;15;0.03658
+2022-05-01;Corinthians - SP;16;0.03504
+2022-05-01;Corinthians - SP;17;0.03133
+2022-05-01;Corinthians - SP;18;0.02903
+2022-05-01;Corinthians - SP;19;0.02544
+2022-05-01;Corinthians - SP;20;0.02024
+2022-05-01;Coritiba - PR;1;0.05184
+2022-05-01;Coritiba - PR;2;0.05347
+2022-05-01;Coritiba - PR;3;0.0548
+2022-05-01;Coritiba - PR;4;0.0539
+2022-05-01;Coritiba - PR;5;0.05356
+2022-05-01;Coritiba - PR;6;0.05417
+2022-05-01;Coritiba - PR;7;0.05247
+2022-05-01;Coritiba - PR;8;0.05283
+2022-05-01;Coritiba - PR;9;0.05314
+2022-05-01;Coritiba - PR;10;0.05183
+2022-05-01;Coritiba - PR;11;0.05078
+2022-05-01;Coritiba - PR;12;0.05073
+2022-05-01;Coritiba - PR;13;0.0506
+2022-05-01;Coritiba - PR;14;0.04943
+2022-05-01;Coritiba - PR;15;0.0489
+2022-05-01;Coritiba - PR;16;0.04868
+2022-05-01;Coritiba - PR;17;0.04657
+2022-05-01;Coritiba - PR;18;0.04353
+2022-05-01;Coritiba - PR;19;0.0416
+2022-05-01;Coritiba - PR;20;0.03717
+2022-05-01;Cuiabá Saf - MT;1;0.06578
+2022-05-01;Cuiabá Saf - MT;2;0.06389
+2022-05-01;Cuiabá Saf - MT;3;0.06321
+2022-05-01;Cuiabá Saf - MT;4;0.06087
+2022-05-01;Cuiabá Saf - MT;5;0.05808
+2022-05-01;Cuiabá Saf - MT;6;0.05816
+2022-05-01;Cuiabá Saf - MT;7;0.05607
+2022-05-01;Cuiabá Saf - MT;8;0.05514
+2022-05-01;Cuiabá Saf - MT;9;0.05457
+2022-05-01;Cuiabá Saf - MT;10;0.0531
+2022-05-01;Cuiabá Saf - MT;11;0.05131
+2022-05-01;Cuiabá Saf - MT;12;0.04846
+2022-05-01;Cuiabá Saf - MT;13;0.04716
+2022-05-01;Cuiabá Saf - MT;14;0.0467
+2022-05-01;Cuiabá Saf - MT;15;0.04308
+2022-05-01;Cuiabá Saf - MT;16;0.04098
+2022-05-01;Cuiabá Saf - MT;17;0.03955
+2022-05-01;Cuiabá Saf - MT;18;0.03624
+2022-05-01;Cuiabá Saf - MT;19;0.03145
+2022-05-01;Cuiabá Saf - MT;20;0.0262
+2022-05-01;Flamengo - RJ;1;0.03806
+2022-05-01;Flamengo - RJ;2;0.04133
+2022-05-01;Flamengo - RJ;3;0.04383
+2022-05-01;Flamengo - RJ;4;0.04696
+2022-05-01;Flamengo - RJ;5;0.04812
+2022-05-01;Flamengo - RJ;6;0.04938
+2022-05-01;Flamengo - RJ;7;0.05049
+2022-05-01;Flamengo - RJ;8;0.05012
+2022-05-01;Flamengo - RJ;9;0.05198
+2022-05-01;Flamengo - RJ;10;0.0519
+2022-05-01;Flamengo - RJ;11;0.05275
+2022-05-01;Flamengo - RJ;12;0.05309
+2022-05-01;Flamengo - RJ;13;0.05324
+2022-05-01;Flamengo - RJ;14;0.05496
+2022-05-01;Flamengo - RJ;15;0.0542
+2022-05-01;Flamengo - RJ;16;0.0541
+2022-05-01;Flamengo - RJ;17;0.05272
+2022-05-01;Flamengo - RJ;18;0.05319
+2022-05-01;Flamengo - RJ;19;0.05157
+2022-05-01;Flamengo - RJ;20;0.04801
+2022-05-01;Fluminense - RJ;1;0.03682
+2022-05-01;Fluminense - RJ;2;0.04018
+2022-05-01;Fluminense - RJ;3;0.04293
+2022-05-01;Fluminense - RJ;4;0.04411
+2022-05-01;Fluminense - RJ;5;0.04634
+2022-05-01;Fluminense - RJ;6;0.04778
+2022-05-01;Fluminense - RJ;7;0.04881
+2022-05-01;Fluminense - RJ;8;0.05004
+2022-05-01;Fluminense - RJ;9;0.04963
+2022-05-01;Fluminense - RJ;10;0.05035
+2022-05-01;Fluminense - RJ;11;0.05193
+2022-05-01;Fluminense - RJ;12;0.05312
+2022-05-01;Fluminense - RJ;13;0.05214
+2022-05-01;Fluminense - RJ;14;0.0548
+2022-05-01;Fluminense - RJ;15;0.05557
+2022-05-01;Fluminense - RJ;16;0.05434
+2022-05-01;Fluminense - RJ;17;0.05531
+2022-05-01;Fluminense - RJ;18;0.05592
+2022-05-01;Fluminense - RJ;19;0.05656
+2022-05-01;Fluminense - RJ;20;0.05332
+2022-05-01;Fortaleza - CE;1;0.02354
+2022-05-01;Fortaleza - CE;2;0.02675
+2022-05-01;Fortaleza - CE;3;0.03126
+2022-05-01;Fortaleza - CE;4;0.03393
+2022-05-01;Fortaleza - CE;5;0.03546
+2022-05-01;Fortaleza - CE;6;0.0382
+2022-05-01;Fortaleza - CE;7;0.04074
+2022-05-01;Fortaleza - CE;8;0.04155
+2022-05-01;Fortaleza - CE;9;0.04508
+2022-05-01;Fortaleza - CE;10;0.04738
+2022-05-01;Fortaleza - CE;11;0.0486
+2022-05-01;Fortaleza - CE;12;0.05151
+2022-05-01;Fortaleza - CE;13;0.05499
+2022-05-01;Fortaleza - CE;14;0.05539
+2022-05-01;Fortaleza - CE;15;0.05879
+2022-05-01;Fortaleza - CE;16;0.06385
+2022-05-01;Fortaleza - CE;17;0.06576
+2022-05-01;Fortaleza - CE;18;0.07063
+2022-05-01;Fortaleza - CE;19;0.07777
+2022-05-01;Fortaleza - CE;20;0.08882
+2022-05-01;Goiás - GO;1;0.01491
+2022-05-01;Goiás - GO;2;0.01952
+2022-05-01;Goiás - GO;3;0.02361
+2022-05-01;Goiás - GO;4;0.0264
+2022-05-01;Goiás - GO;5;0.02936
+2022-05-01;Goiás - GO;6;0.03301
+2022-05-01;Goiás - GO;7;0.03505
+2022-05-01;Goiás - GO;8;0.03809
+2022-05-01;Goiás - GO;9;0.04223
+2022-05-01;Goiás - GO;10;0.04498
+2022-05-01;Goiás - GO;11;0.04886
+2022-05-01;Goiás - GO;12;0.05145
+2022-05-01;Goiás - GO;13;0.05419
+2022-05-01;Goiás - GO;14;0.05794
+2022-05-01;Goiás - GO;15;0.06151
+2022-05-01;Goiás - GO;16;0.06762
+2022-05-01;Goiás - GO;17;0.07299
+2022-05-01;Goiás - GO;18;0.08031
+2022-05-01;Goiás - GO;19;0.08996
+2022-05-01;Goiás - GO;20;0.10801
+2022-05-01;Internacional - RS;1;0.08742
+2022-05-01;Internacional - RS;2;0.07903
+2022-05-01;Internacional - RS;3;0.07255
+2022-05-01;Internacional - RS;4;0.06889
+2022-05-01;Internacional - RS;5;0.06423
+2022-05-01;Internacional - RS;6;0.06073
+2022-05-01;Internacional - RS;7;0.05799
+2022-05-01;Internacional - RS;8;0.05291
+2022-05-01;Internacional - RS;9;0.05217
+2022-05-01;Internacional - RS;10;0.04962
+2022-05-01;Internacional - RS;11;0.04601
+2022-05-01;Internacional - RS;12;0.04445
+2022-05-01;Internacional - RS;13;0.04353
+2022-05-01;Internacional - RS;14;0.03974
+2022-05-01;Internacional - RS;15;0.03815
+2022-05-01;Internacional - RS;16;0.03602
+2022-05-01;Internacional - RS;17;0.03243
+2022-05-01;Internacional - RS;18;0.02966
+2022-05-01;Internacional - RS;19;0.0248
+2022-05-01;Internacional - RS;20;0.01967
+2022-05-01;Juventude - RS;1;0.01565
+2022-05-01;Juventude - RS;2;0.02076
+2022-05-01;Juventude - RS;3;0.02337
+2022-05-01;Juventude - RS;4;0.02673
+2022-05-01;Juventude - RS;5;0.02999
+2022-05-01;Juventude - RS;6;0.03282
+2022-05-01;Juventude - RS;7;0.03422
+2022-05-01;Juventude - RS;8;0.03775
+2022-05-01;Juventude - RS;9;0.04035
+2022-05-01;Juventude - RS;10;0.04335
+2022-05-01;Juventude - RS;11;0.0459
+2022-05-01;Juventude - RS;12;0.05066
+2022-05-01;Juventude - RS;13;0.05195
+2022-05-01;Juventude - RS;14;0.05736
+2022-05-01;Juventude - RS;15;0.06123
+2022-05-01;Juventude - RS;16;0.06674
+2022-05-01;Juventude - RS;17;0.07327
+2022-05-01;Juventude - RS;18;0.08057
+2022-05-01;Juventude - RS;19;0.09347
+2022-05-01;Juventude - RS;20;0.11386
+2022-05-01;Palmeiras - SP;1;0.03724
+2022-05-01;Palmeiras - SP;2;0.04305
+2022-05-01;Palmeiras - SP;3;0.04395
+2022-05-01;Palmeiras - SP;4;0.04641
+2022-05-01;Palmeiras - SP;5;0.0473
+2022-05-01;Palmeiras - SP;6;0.049
+2022-05-01;Palmeiras - SP;7;0.05036
+2022-05-01;Palmeiras - SP;8;0.05238
+2022-05-01;Palmeiras - SP;9;0.05044
+2022-05-01;Palmeiras - SP;10;0.05237
+2022-05-01;Palmeiras - SP;11;0.05166
+2022-05-01;Palmeiras - SP;12;0.05259
+2022-05-01;Palmeiras - SP;13;0.05364
+2022-05-01;Palmeiras - SP;14;0.05431
+2022-05-01;Palmeiras - SP;15;0.05452
+2022-05-01;Palmeiras - SP;16;0.05326
+2022-05-01;Palmeiras - SP;17;0.05375
+2022-05-01;Palmeiras - SP;18;0.0538
+2022-05-01;Palmeiras - SP;19;0.05124
+2022-05-01;Palmeiras - SP;20;0.04873
+2022-05-01;Red Bull Bragantino - SP;1;0.08123
+2022-05-01;Red Bull Bragantino - SP;2;0.07573
+2022-05-01;Red Bull Bragantino - SP;3;0.06949
+2022-05-01;Red Bull Bragantino - SP;4;0.06744
+2022-05-01;Red Bull Bragantino - SP;5;0.06347
+2022-05-01;Red Bull Bragantino - SP;6;0.0625
+2022-05-01;Red Bull Bragantino - SP;7;0.05884
+2022-05-01;Red Bull Bragantino - SP;8;0.05493
+2022-05-01;Red Bull Bragantino - SP;9;0.05319
+2022-05-01;Red Bull Bragantino - SP;10;0.05121
+2022-05-01;Red Bull Bragantino - SP;11;0.04957
+2022-05-01;Red Bull Bragantino - SP;12;0.04544
+2022-05-01;Red Bull Bragantino - SP;13;0.04299
+2022-05-01;Red Bull Bragantino - SP;14;0.04123
+2022-05-01;Red Bull Bragantino - SP;15;0.03862
+2022-05-01;Red Bull Bragantino - SP;16;0.03572
+2022-05-01;Red Bull Bragantino - SP;17;0.03367
+2022-05-01;Red Bull Bragantino - SP;18;0.02944
+2022-05-01;Red Bull Bragantino - SP;19;0.02533
+2022-05-01;Red Bull Bragantino - SP;20;0.01996
+2022-05-01;Santos - SP;1;0.08202
+2022-05-01;Santos - SP;2;0.07317
+2022-05-01;Santos - SP;3;0.0697
+2022-05-01;Santos - SP;4;0.06497
+2022-05-01;Santos - SP;5;0.06147
+2022-05-01;Santos - SP;6;0.05915
+2022-05-01;Santos - SP;7;0.05666
+2022-05-01;Santos - SP;8;0.05501
+2022-05-01;Santos - SP;9;0.05278
+2022-05-01;Santos - SP;10;0.05001
+2022-05-01;Santos - SP;11;0.04906
+2022-05-01;Santos - SP;12;0.04658
+2022-05-01;Santos - SP;13;0.04486
+2022-05-01;Santos - SP;14;0.04142
+2022-05-01;Santos - SP;15;0.03983
+2022-05-01;Santos - SP;16;0.03765
+2022-05-01;Santos - SP;17;0.03429
+2022-05-01;Santos - SP;18;0.03127
+2022-05-01;Santos - SP;19;0.02848
+2022-05-01;Santos - SP;20;0.02162
+2022-05-01;São Paulo - SP;1;0.05359
+2022-05-01;São Paulo - SP;2;0.05416
+2022-05-01;São Paulo - SP;3;0.05473
+2022-05-01;São Paulo - SP;4;0.05398
+2022-05-01;São Paulo - SP;5;0.054
+2022-05-01;São Paulo - SP;6;0.05335
+2022-05-01;São Paulo - SP;7;0.05308
+2022-05-01;São Paulo - SP;8;0.05307
+2022-05-01;São Paulo - SP;9;0.05184
+2022-05-01;São Paulo - SP;10;0.05119
+2022-05-01;São Paulo - SP;11;0.05087
+2022-05-01;São Paulo - SP;12;0.05155
+2022-05-01;São Paulo - SP;13;0.051
+2022-05-01;São Paulo - SP;14;0.04948
+2022-05-01;São Paulo - SP;15;0.04907
+2022-05-01;São Paulo - SP;16;0.04569
+2022-05-01;São Paulo - SP;17;0.04675
+2022-05-01;São Paulo - SP;18;0.04396
+2022-05-01;São Paulo - SP;19;0.04162
+2022-05-01;São Paulo - SP;20;0.03702
