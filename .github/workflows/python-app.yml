@@ -25,3 +25,10 @@ jobs:
 #        with:
 #          name: job-result
 #          path: brasileirao_2023.txt
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "lfkopp"
+          git config --global user.email "lfkopp@gmail.com"
+          git add -A
+          git commit -m "commit message"
+          git push
