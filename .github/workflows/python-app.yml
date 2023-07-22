@@ -1,7 +1,7 @@
 name: "Workflow run brasileirao"
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 9 * * *'
 
 jobs:
   python-job:
