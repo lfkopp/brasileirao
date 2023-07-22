@@ -1,5 +1,6 @@
 name: "Workflow run brasileirao"
 on:
+  push:
   schedule:
     - cron: '0 9,21 * * *'
 
