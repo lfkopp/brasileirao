@@ -5,7 +5,7 @@ import re
 import numpy as np
 import copy
 from datetime import date
-#%%
+#%% 
 
 print('iniciando script')
 num_sim = 100000
