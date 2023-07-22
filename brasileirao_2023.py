@@ -7,6 +7,7 @@ import copy
 from datetime import date
 #%%
 
+print('iniciando script')
 num_sim = 100000
 ano = 2023
 
@@ -184,3 +185,4 @@ plt.savefig(f'figs\long3_{ano}.png')
 # %%
 
 # %%
+print('finalizando script')
