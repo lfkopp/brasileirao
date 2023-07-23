@@ -1,0 +1,34 @@
+name: "Workflow run brasileirao"
+on:
+  push:
+  schedule:
+    - cron: '0 9,21 * * *'
+permissions:
+  contents: write
+jobs:
+  python-job:
+    name: "Python job"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Setup python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.10.6'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run python script
+        run: python brasileirao_2023.py
+#      - name: Upload file as artifact
+#        uses: actions/upload-artifact@v3
+#        with:
+#          name: job-result
+#          path: brasileirao_2023.txt
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "lfkopp"
+          git config --global user.email "lfkopp@gmail.com"
+          git add -A
+          git commit -m "commit message"
+          git push
