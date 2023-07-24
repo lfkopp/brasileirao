@@ -5,13 +5,13 @@ We are downloading the results from Brazilian National Soccer Championship ("Bra
 - We consider the advange of playing home.
 - We use Poisson distribution to guess the match score.
 
-## 2022 (under development)
+## 2023 (under development)
 ![long2_2023](figs/long2_2023.png)
 ![long2_stacked_2023](figs/long2_stacked_2023.png)
 ![short_final_2023](figs/short_final_2023.png)
 ![long3_2023](figs/long3_2023.png)
 
-## 2022 (under development)
+## 2022 
 ![long2_2022](figs/long2_2022.png)
 ![long2_stacked_2022](figs/long2_stacked_2022.png)
 ![short_final_2022](figs/short_final_2022.png)

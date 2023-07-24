@@ -1,10 +1,15 @@
 #%%
 from bs4 import BeautifulSoup
 import requests
-import re
 import numpy as np
 import copy
 from datetime import date
+from pathlib import Path
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.ndimage import gaussian_filter1d
+
 #%% 
 
 print('iniciando script')
@@ -67,9 +72,13 @@ def gera_dados(times):
     return dados_time
 # %%
 jogos = pega_jogos()
+print('jogos',jogos)
+# %%
 times = get_times(jogos)
+print('times',times)
+# %%
 dados_time_orig = gera_dados(times)
-
+print('dados_time_orig',dados_time_orig)
 # %%
 def pontua(line, dados_time):
     if line['placar_mandante'] == None:
@@ -131,12 +140,7 @@ with open(f'brasileirao_{ano}.txt', 'a+', encoding='utf-8') as f:
 
 
 # %%
-
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-
+figuras = Path('figs')
 
 short = pd.read_csv(f'brasileirao_{ano}.txt',sep=';', index_col=False, decimal='.')
 short.data = pd.to_datetime(short.data)
@@ -144,7 +148,7 @@ last_short = short[short['data'] == max(short['data'])]
 short_final = last_short[last_short.columns[1:]].set_index('time')
 short_final.sort_values(by=[str(i) for i in list(range(20,0,-1))], inplace=True)
 short_final.plot(kind='bar',stacked=True,figsize=(20,15), colormap='autumn')
-plt.savefig(f'figs\short_final_{ano}.png')
+plt.savefig(figuras / f'short_final_{ano}.png')
 
 #%%
 
@@ -153,17 +157,16 @@ long.data = pd.to_datetime(long.data)
 long['points'] = (20-long['pos']) * long['chance']
 long2 = long.groupby(['data','time'])['points'].mean().unstack()
 long2.sort_values(long2.columns.max()).plot(kind='area',stacked=True,figsize=(15,20), colormap='brg')
-plt.savefig(f'figs\long2_stacked_{ano}.png')
+plt.savefig(figuras / f'long2_stacked_{ano}.png')
 
 #%%
 long2 = long.groupby(['time','data'])['points'].mean().unstack()
 long2.sort_values(long2.columns.max()).plot(kind='barh',stacked=False,figsize=(15,20), colormap='autumn')
-plt.savefig(f'figs\long2_{ano}.png')
+plt.savefig(figuras / f'long2_{ano}.png')
 
 #%%
 long3 = long[long['data'] == max(long['data'])]
 times = long3['time'].unique()
-from scipy.ndimage.filters import gaussian_filter1d
 
 fig= plt.figure(figsize=(15,10))
 
@@ -179,10 +182,9 @@ plt.ylim(0)
 plt.ylabel('Chances (%)')
 plt.xlabel('Position')
 plt.title('Chances for each team falling into x^th position at the end of the Brasileirão')
-plt.savefig(f'figs\long3_{ano}.png')
-
-
-# %%
+plt.savefig(figuras / f'long3_{ano}.png')
 
 # %%
 print('finalizando script')
+
+# %%
