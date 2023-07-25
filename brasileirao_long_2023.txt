@@ -5598,3 +5598,403 @@ data;time;pos;chance
 2023-07-24;Vasco da Gama S.a.f. - RJ;18;0.14106
 2023-07-24;Vasco da Gama S.a.f. - RJ;19;0.20101
 2023-07-24;Vasco da Gama S.a.f. - RJ;20;0.33489
+2023-07-25;America Fc S.a.f. - MG;1;6e-05
+2023-07-25;America Fc S.a.f. - MG;2;0.00022
+2023-07-25;America Fc S.a.f. - MG;3;0.00082
+2023-07-25;America Fc S.a.f. - MG;4;0.00143
+2023-07-25;America Fc S.a.f. - MG;5;0.00229
+2023-07-25;America Fc S.a.f. - MG;6;0.004
+2023-07-25;America Fc S.a.f. - MG;7;0.00577
+2023-07-25;America Fc S.a.f. - MG;8;0.00854
+2023-07-25;America Fc S.a.f. - MG;9;0.01119
+2023-07-25;America Fc S.a.f. - MG;10;0.01514
+2023-07-25;America Fc S.a.f. - MG;11;0.02114
+2023-07-25;America Fc S.a.f. - MG;12;0.02829
+2023-07-25;America Fc S.a.f. - MG;13;0.0376
+2023-07-25;America Fc S.a.f. - MG;14;0.05049
+2023-07-25;America Fc S.a.f. - MG;15;0.06816
+2023-07-25;America Fc S.a.f. - MG;16;0.08915
+2023-07-25;America Fc S.a.f. - MG;17;0.11454
+2023-07-25;America Fc S.a.f. - MG;18;0.14372
+2023-07-25;America Fc S.a.f. - MG;19;0.18077
+2023-07-25;America Fc S.a.f. - MG;20;0.21668
+2023-07-25;Athletico Paranaense - PR;1;0.02143
+2023-07-25;Athletico Paranaense - PR;2;0.09111
+2023-07-25;Athletico Paranaense - PR;3;0.10152
+2023-07-25;Athletico Paranaense - PR;4;0.09897
+2023-07-25;Athletico Paranaense - PR;5;0.09464
+2023-07-25;Athletico Paranaense - PR;6;0.08789
+2023-07-25;Athletico Paranaense - PR;7;0.08119
+2023-07-25;Athletico Paranaense - PR;8;0.07676
+2023-07-25;Athletico Paranaense - PR;9;0.06798
+2023-07-25;Athletico Paranaense - PR;10;0.06118
+2023-07-25;Athletico Paranaense - PR;11;0.05194
+2023-07-25;Athletico Paranaense - PR;12;0.04516
+2023-07-25;Athletico Paranaense - PR;13;0.037
+2023-07-25;Athletico Paranaense - PR;14;0.02838
+2023-07-25;Athletico Paranaense - PR;15;0.022
+2023-07-25;Athletico Paranaense - PR;16;0.01484
+2023-07-25;Athletico Paranaense - PR;17;0.00968
+2023-07-25;Athletico Paranaense - PR;18;0.00534
+2023-07-25;Athletico Paranaense - PR;19;0.00245
+2023-07-25;Athletico Paranaense - PR;20;0.00054
+2023-07-25;Atlético Mineiro - MG;1;0.00402
+2023-07-25;Atlético Mineiro - MG;2;0.02535
+2023-07-25;Atlético Mineiro - MG;3;0.03772
+2023-07-25;Atlético Mineiro - MG;4;0.04717
+2023-07-25;Atlético Mineiro - MG;5;0.05624
+2023-07-25;Atlético Mineiro - MG;6;0.06215
+2023-07-25;Atlético Mineiro - MG;7;0.06572
+2023-07-25;Atlético Mineiro - MG;8;0.07128
+2023-07-25;Atlético Mineiro - MG;9;0.07371
+2023-07-25;Atlético Mineiro - MG;10;0.07527
+2023-07-25;Atlético Mineiro - MG;11;0.07718
+2023-07-25;Atlético Mineiro - MG;12;0.0751
+2023-07-25;Atlético Mineiro - MG;13;0.07268
+2023-07-25;Atlético Mineiro - MG;14;0.06616
+2023-07-25;Atlético Mineiro - MG;15;0.0581
+2023-07-25;Atlético Mineiro - MG;16;0.04816
+2023-07-25;Atlético Mineiro - MG;17;0.03726
+2023-07-25;Atlético Mineiro - MG;18;0.02517
+2023-07-25;Atlético Mineiro - MG;19;0.01532
+2023-07-25;Atlético Mineiro - MG;20;0.00624
+2023-07-25;Bahia - BA;1;4e-05
+2023-07-25;Bahia - BA;2;0.00066
+2023-07-25;Bahia - BA;3;0.00157
+2023-07-25;Bahia - BA;4;0.00311
+2023-07-25;Bahia - BA;5;0.00544
+2023-07-25;Bahia - BA;6;0.00706
+2023-07-25;Bahia - BA;7;0.01018
+2023-07-25;Bahia - BA;8;0.01382
+2023-07-25;Bahia - BA;9;0.01937
+2023-07-25;Bahia - BA;10;0.02525
+2023-07-25;Bahia - BA;11;0.03282
+2023-07-25;Bahia - BA;12;0.04289
+2023-07-25;Bahia - BA;13;0.05496
+2023-07-25;Bahia - BA;14;0.0698
+2023-07-25;Bahia - BA;15;0.08537
+2023-07-25;Bahia - BA;16;0.1031
+2023-07-25;Bahia - BA;17;0.12157
+2023-07-25;Bahia - BA;18;0.13761
+2023-07-25;Bahia - BA;19;0.14437
+2023-07-25;Bahia - BA;20;0.12101
+2023-07-25;Botafogo - RJ;1;0.78313
+2023-07-25;Botafogo - RJ;2;0.12694
+2023-07-25;Botafogo - RJ;3;0.04606
+2023-07-25;Botafogo - RJ;4;0.02047
+2023-07-25;Botafogo - RJ;5;0.01029
+2023-07-25;Botafogo - RJ;6;0.00584
+2023-07-25;Botafogo - RJ;7;0.00345
+2023-07-25;Botafogo - RJ;8;0.00177
+2023-07-25;Botafogo - RJ;9;0.0009
+2023-07-25;Botafogo - RJ;10;0.00053
+2023-07-25;Botafogo - RJ;11;0.00037
+2023-07-25;Botafogo - RJ;12;0.00012
+2023-07-25;Botafogo - RJ;13;9e-05
+2023-07-25;Botafogo - RJ;14;1e-05
+2023-07-25;Botafogo - RJ;15;1e-05
+2023-07-25;Botafogo - RJ;16;2e-05
+2023-07-25;Botafogo - RJ;17;0.0
+2023-07-25;Botafogo - RJ;18;0.0
+2023-07-25;Botafogo - RJ;19;0.0
+2023-07-25;Botafogo - RJ;20;0.0
+2023-07-25;Corinthians - SP;1;0.00131
+2023-07-25;Corinthians - SP;2;0.01018
+2023-07-25;Corinthians - SP;3;0.01648
+2023-07-25;Corinthians - SP;4;0.02407
+2023-07-25;Corinthians - SP;5;0.03051
+2023-07-25;Corinthians - SP;6;0.03705
+2023-07-25;Corinthians - SP;7;0.04473
+2023-07-25;Corinthians - SP;8;0.04997
+2023-07-25;Corinthians - SP;9;0.05579
+2023-07-25;Corinthians - SP;10;0.06261
+2023-07-25;Corinthians - SP;11;0.07031
+2023-07-25;Corinthians - SP;12;0.0776
+2023-07-25;Corinthians - SP;13;0.08217
+2023-07-25;Corinthians - SP;14;0.08468
+2023-07-25;Corinthians - SP;15;0.08365
+2023-07-25;Corinthians - SP;16;0.07828
+2023-07-25;Corinthians - SP;17;0.06811
+2023-07-25;Corinthians - SP;18;0.05726
+2023-07-25;Corinthians - SP;19;0.04089
+2023-07-25;Corinthians - SP;20;0.02435
+2023-07-25;Coritiba S.a.f. - PR;1;3e-05
+2023-07-25;Coritiba S.a.f. - PR;2;0.00063
+2023-07-25;Coritiba S.a.f. - PR;3;0.00155
+2023-07-25;Coritiba S.a.f. - PR;4;0.00311
+2023-07-25;Coritiba S.a.f. - PR;5;0.00484
+2023-07-25;Coritiba S.a.f. - PR;6;0.00722
+2023-07-25;Coritiba S.a.f. - PR;7;0.01027
+2023-07-25;Coritiba S.a.f. - PR;8;0.01377
+2023-07-25;Coritiba S.a.f. - PR;9;0.01895
+2023-07-25;Coritiba S.a.f. - PR;10;0.02521
+2023-07-25;Coritiba S.a.f. - PR;11;0.03245
+2023-07-25;Coritiba S.a.f. - PR;12;0.04146
+2023-07-25;Coritiba S.a.f. - PR;13;0.05294
+2023-07-25;Coritiba S.a.f. - PR;14;0.06764
+2023-07-25;Coritiba S.a.f. - PR;15;0.0839
+2023-07-25;Coritiba S.a.f. - PR;16;0.10455
+2023-07-25;Coritiba S.a.f. - PR;17;0.12055
+2023-07-25;Coritiba S.a.f. - PR;18;0.13971
+2023-07-25;Coritiba S.a.f. - PR;19;0.14599
+2023-07-25;Coritiba S.a.f. - PR;20;0.12523
+2023-07-25;Cruzeiro Saf - MG;1;0.00295
+2023-07-25;Cruzeiro Saf - MG;2;0.01624
+2023-07-25;Cruzeiro Saf - MG;3;0.02478
+2023-07-25;Cruzeiro Saf - MG;4;0.03374
+2023-07-25;Cruzeiro Saf - MG;5;0.04139
+2023-07-25;Cruzeiro Saf - MG;6;0.04833
+2023-07-25;Cruzeiro Saf - MG;7;0.05455
+2023-07-25;Cruzeiro Saf - MG;8;0.06218
+2023-07-25;Cruzeiro Saf - MG;9;0.06869
+2023-07-25;Cruzeiro Saf - MG;10;0.0734
+2023-07-25;Cruzeiro Saf - MG;11;0.07774
+2023-07-25;Cruzeiro Saf - MG;12;0.08
+2023-07-25;Cruzeiro Saf - MG;13;0.08147
+2023-07-25;Cruzeiro Saf - MG;14;0.07863
+2023-07-25;Cruzeiro Saf - MG;15;0.07082
+2023-07-25;Cruzeiro Saf - MG;16;0.06348
+2023-07-25;Cruzeiro Saf - MG;17;0.05123
+2023-07-25;Cruzeiro Saf - MG;18;0.03726
+2023-07-25;Cruzeiro Saf - MG;19;0.02326
+2023-07-25;Cruzeiro Saf - MG;20;0.00986
+2023-07-25;Cuiabá Saf - MT;1;0.00458
+2023-07-25;Cuiabá Saf - MT;2;0.02477
+2023-07-25;Cuiabá Saf - MT;3;0.03632
+2023-07-25;Cuiabá Saf - MT;4;0.04539
+2023-07-25;Cuiabá Saf - MT;5;0.05279
+2023-07-25;Cuiabá Saf - MT;6;0.05948
+2023-07-25;Cuiabá Saf - MT;7;0.06474
+2023-07-25;Cuiabá Saf - MT;8;0.06981
+2023-07-25;Cuiabá Saf - MT;9;0.07433
+2023-07-25;Cuiabá Saf - MT;10;0.07644
+2023-07-25;Cuiabá Saf - MT;11;0.07716
+2023-07-25;Cuiabá Saf - MT;12;0.07656
+2023-07-25;Cuiabá Saf - MT;13;0.07331
+2023-07-25;Cuiabá Saf - MT;14;0.06795
+2023-07-25;Cuiabá Saf - MT;15;0.05933
+2023-07-25;Cuiabá Saf - MT;16;0.04966
+2023-07-25;Cuiabá Saf - MT;17;0.03839
+2023-07-25;Cuiabá Saf - MT;18;0.02642
+2023-07-25;Cuiabá Saf - MT;19;0.0162
+2023-07-25;Cuiabá Saf - MT;20;0.00637
+2023-07-25;Flamengo - RJ;1;0.04075
+2023-07-25;Flamengo - RJ;2;0.14651
+2023-07-25;Flamengo - RJ;3;0.13432
+2023-07-25;Flamengo - RJ;4;0.11587
+2023-07-25;Flamengo - RJ;5;0.10076
+2023-07-25;Flamengo - RJ;6;0.0866
+2023-07-25;Flamengo - RJ;7;0.07544
+2023-07-25;Flamengo - RJ;8;0.06347
+2023-07-25;Flamengo - RJ;9;0.05406
+2023-07-25;Flamengo - RJ;10;0.04704
+2023-07-25;Flamengo - RJ;11;0.03736
+2023-07-25;Flamengo - RJ;12;0.02985
+2023-07-25;Flamengo - RJ;13;0.02448
+2023-07-25;Flamengo - RJ;14;0.01685
+2023-07-25;Flamengo - RJ;15;0.0115
+2023-07-25;Flamengo - RJ;16;0.00743
+2023-07-25;Flamengo - RJ;17;0.00416
+2023-07-25;Flamengo - RJ;18;0.00235
+2023-07-25;Flamengo - RJ;19;0.00093
+2023-07-25;Flamengo - RJ;20;0.00027
+2023-07-25;Fluminense - RJ;1;0.01434
+2023-07-25;Fluminense - RJ;2;0.06573
+2023-07-25;Fluminense - RJ;3;0.07948
+2023-07-25;Fluminense - RJ;4;0.08299
+2023-07-25;Fluminense - RJ;5;0.08514
+2023-07-25;Fluminense - RJ;6;0.08551
+2023-07-25;Fluminense - RJ;7;0.081
+2023-07-25;Fluminense - RJ;8;0.07741
+2023-07-25;Fluminense - RJ;9;0.07514
+2023-07-25;Fluminense - RJ;10;0.06852
+2023-07-25;Fluminense - RJ;11;0.0632
+2023-07-25;Fluminense - RJ;12;0.05476
+2023-07-25;Fluminense - RJ;13;0.04589
+2023-07-25;Fluminense - RJ;14;0.03801
+2023-07-25;Fluminense - RJ;15;0.03036
+2023-07-25;Fluminense - RJ;16;0.02266
+2023-07-25;Fluminense - RJ;17;0.01497
+2023-07-25;Fluminense - RJ;18;0.0088
+2023-07-25;Fluminense - RJ;19;0.00459
+2023-07-25;Fluminense - RJ;20;0.0015
+2023-07-25;Fortaleza - CE;1;0.00591
+2023-07-25;Fortaleza - CE;2;0.03262
+2023-07-25;Fortaleza - CE;3;0.04725
+2023-07-25;Fortaleza - CE;4;0.05638
+2023-07-25;Fortaleza - CE;5;0.06375
+2023-07-25;Fortaleza - CE;6;0.0684
+2023-07-25;Fortaleza - CE;7;0.07389
+2023-07-25;Fortaleza - CE;8;0.07579
+2023-07-25;Fortaleza - CE;9;0.07551
+2023-07-25;Fortaleza - CE;10;0.07667
+2023-07-25;Fortaleza - CE;11;0.07432
+2023-07-25;Fortaleza - CE;12;0.07071
+2023-07-25;Fortaleza - CE;13;0.0659
+2023-07-25;Fortaleza - CE;14;0.05895
+2023-07-25;Fortaleza - CE;15;0.05071
+2023-07-25;Fortaleza - CE;16;0.03882
+2023-07-25;Fortaleza - CE;17;0.02838
+2023-07-25;Fortaleza - CE;18;0.02027
+2023-07-25;Fortaleza - CE;19;0.01137
+2023-07-25;Fortaleza - CE;20;0.0044
+2023-07-25;Goiás - GO;1;0.00023
+2023-07-25;Goiás - GO;2;0.00223
+2023-07-25;Goiás - GO;3;0.00499
+2023-07-25;Goiás - GO;4;0.00859
+2023-07-25;Goiás - GO;5;0.01175
+2023-07-25;Goiás - GO;6;0.0165
+2023-07-25;Goiás - GO;7;0.02223
+2023-07-25;Goiás - GO;8;0.0287
+2023-07-25;Goiás - GO;9;0.03415
+2023-07-25;Goiás - GO;10;0.04293
+2023-07-25;Goiás - GO;11;0.05137
+2023-07-25;Goiás - GO;12;0.06233
+2023-07-25;Goiás - GO;13;0.07453
+2023-07-25;Goiás - GO;14;0.08579
+2023-07-25;Goiás - GO;15;0.09609
+2023-07-25;Goiás - GO;16;0.10267
+2023-07-25;Goiás - GO;17;0.10794
+2023-07-25;Goiás - GO;18;0.10099
+2023-07-25;Goiás - GO;19;0.08616
+2023-07-25;Goiás - GO;20;0.05983
+2023-07-25;Grêmio - RS;1;0.05151
+2023-07-25;Grêmio - RS;2;0.16887
+2023-07-25;Grêmio - RS;3;0.13944
+2023-07-25;Grêmio - RS;4;0.11795
+2023-07-25;Grêmio - RS;5;0.09925
+2023-07-25;Grêmio - RS;6;0.08495
+2023-07-25;Grêmio - RS;7;0.07223
+2023-07-25;Grêmio - RS;8;0.05932
+2023-07-25;Grêmio - RS;9;0.05035
+2023-07-25;Grêmio - RS;10;0.04067
+2023-07-25;Grêmio - RS;11;0.03259
+2023-07-25;Grêmio - RS;12;0.02541
+2023-07-25;Grêmio - RS;13;0.01951
+2023-07-25;Grêmio - RS;14;0.01497
+2023-07-25;Grêmio - RS;15;0.00969
+2023-07-25;Grêmio - RS;16;0.00658
+2023-07-25;Grêmio - RS;17;0.00398
+2023-07-25;Grêmio - RS;18;0.00188
+2023-07-25;Grêmio - RS;19;0.00064
+2023-07-25;Grêmio - RS;20;0.00021
+2023-07-25;Internacional - RS;1;0.01068
+2023-07-25;Internacional - RS;2;0.04845
+2023-07-25;Internacional - RS;3;0.06327
+2023-07-25;Internacional - RS;4;0.07199
+2023-07-25;Internacional - RS;5;0.07668
+2023-07-25;Internacional - RS;6;0.07855
+2023-07-25;Internacional - RS;7;0.07946
+2023-07-25;Internacional - RS;8;0.0791
+2023-07-25;Internacional - RS;9;0.07579
+2023-07-25;Internacional - RS;10;0.07346
+2023-07-25;Internacional - RS;11;0.06757
+2023-07-25;Internacional - RS;12;0.06182
+2023-07-25;Internacional - RS;13;0.05433
+2023-07-25;Internacional - RS;14;0.04707
+2023-07-25;Internacional - RS;15;0.03837
+2023-07-25;Internacional - RS;16;0.02953
+2023-07-25;Internacional - RS;17;0.0213
+2023-07-25;Internacional - RS;18;0.01358
+2023-07-25;Internacional - RS;19;0.0067
+2023-07-25;Internacional - RS;20;0.0023
+2023-07-25;Palmeiras - SP;1;0.03776
+2023-07-25;Palmeiras - SP;2;0.13407
+2023-07-25;Palmeiras - SP;3;0.12756
+2023-07-25;Palmeiras - SP;4;0.11519
+2023-07-25;Palmeiras - SP;5;0.09935
+2023-07-25;Palmeiras - SP;6;0.08894
+2023-07-25;Palmeiras - SP;7;0.07646
+2023-07-25;Palmeiras - SP;8;0.06664
+2023-07-25;Palmeiras - SP;9;0.05739
+2023-07-25;Palmeiras - SP;10;0.04793
+2023-07-25;Palmeiras - SP;11;0.03971
+2023-07-25;Palmeiras - SP;12;0.03234
+2023-07-25;Palmeiras - SP;13;0.02517
+2023-07-25;Palmeiras - SP;14;0.01881
+2023-07-25;Palmeiras - SP;15;0.01362
+2023-07-25;Palmeiras - SP;16;0.00937
+2023-07-25;Palmeiras - SP;17;0.00548
+2023-07-25;Palmeiras - SP;18;0.00271
+2023-07-25;Palmeiras - SP;19;0.00104
+2023-07-25;Palmeiras - SP;20;0.00046
+2023-07-25;Red Bull Bragantino - SP;1;0.00727
+2023-07-25;Red Bull Bragantino - SP;2;0.03868
+2023-07-25;Red Bull Bragantino - SP;3;0.05304
+2023-07-25;Red Bull Bragantino - SP;4;0.0632
+2023-07-25;Red Bull Bragantino - SP;5;0.06899
+2023-07-25;Red Bull Bragantino - SP;6;0.072
+2023-07-25;Red Bull Bragantino - SP;7;0.0765
+2023-07-25;Red Bull Bragantino - SP;8;0.07626
+2023-07-25;Red Bull Bragantino - SP;9;0.07748
+2023-07-25;Red Bull Bragantino - SP;10;0.07644
+2023-07-25;Red Bull Bragantino - SP;11;0.07445
+2023-07-25;Red Bull Bragantino - SP;12;0.06981
+2023-07-25;Red Bull Bragantino - SP;13;0.06194
+2023-07-25;Red Bull Bragantino - SP;14;0.05297
+2023-07-25;Red Bull Bragantino - SP;15;0.04319
+2023-07-25;Red Bull Bragantino - SP;16;0.03555
+2023-07-25;Red Bull Bragantino - SP;17;0.02504
+2023-07-25;Red Bull Bragantino - SP;18;0.01568
+2023-07-25;Red Bull Bragantino - SP;19;0.00849
+2023-07-25;Red Bull Bragantino - SP;20;0.00302
+2023-07-25;Santos - SP;1;0.00013
+2023-07-25;Santos - SP;2;0.0017
+2023-07-25;Santos - SP;3;0.00366
+2023-07-25;Santos - SP;4;0.00588
+2023-07-25;Santos - SP;5;0.00903
+2023-07-25;Santos - SP;6;0.01251
+2023-07-25;Santos - SP;7;0.01683
+2023-07-25;Santos - SP;8;0.02238
+2023-07-25;Santos - SP;9;0.02835
+2023-07-25;Santos - SP;10;0.03562
+2023-07-25;Santos - SP;11;0.04462
+2023-07-25;Santos - SP;12;0.05471
+2023-07-25;Santos - SP;13;0.06729
+2023-07-25;Santos - SP;14;0.0805
+2023-07-25;Santos - SP;15;0.09816
+2023-07-25;Santos - SP;16;0.10891
+2023-07-25;Santos - SP;17;0.11768
+2023-07-25;Santos - SP;18;0.11739
+2023-07-25;Santos - SP;19;0.10309
+2023-07-25;Santos - SP;20;0.07156
+2023-07-25;São Paulo - SP;1;0.01387
+2023-07-25;São Paulo - SP;2;0.065
+2023-07-25;São Paulo - SP;3;0.07985
+2023-07-25;São Paulo - SP;4;0.08397
+2023-07-25;São Paulo - SP;5;0.08592
+2023-07-25;São Paulo - SP;6;0.08553
+2023-07-25;São Paulo - SP;7;0.08279
+2023-07-25;São Paulo - SP;8;0.07936
+2023-07-25;São Paulo - SP;9;0.07505
+2023-07-25;São Paulo - SP;10;0.06786
+2023-07-25;São Paulo - SP;11;0.06228
+2023-07-25;São Paulo - SP;12;0.05464
+2023-07-25;São Paulo - SP;13;0.0462
+2023-07-25;São Paulo - SP;14;0.03842
+2023-07-25;São Paulo - SP;15;0.02973
+2023-07-25;São Paulo - SP;16;0.02089
+2023-07-25;São Paulo - SP;17;0.01427
+2023-07-25;São Paulo - SP;18;0.00872
+2023-07-25;São Paulo - SP;19;0.00425
+2023-07-25;São Paulo - SP;20;0.0014
+2023-07-25;Vasco da Gama S.a.f. - RJ;1;0.0
+2023-07-25;Vasco da Gama S.a.f. - RJ;2;4e-05
+2023-07-25;Vasco da Gama S.a.f. - RJ;3;0.00032
+2023-07-25;Vasco da Gama S.a.f. - RJ;4;0.00053
+2023-07-25;Vasco da Gama S.a.f. - RJ;5;0.00095
+2023-07-25;Vasco da Gama S.a.f. - RJ;6;0.00149
+2023-07-25;Vasco da Gama S.a.f. - RJ;7;0.00257
+2023-07-25;Vasco da Gama S.a.f. - RJ;8;0.00367
+2023-07-25;Vasco da Gama S.a.f. - RJ;9;0.00582
+2023-07-25;Vasco da Gama S.a.f. - RJ;10;0.00783
+2023-07-25;Vasco da Gama S.a.f. - RJ;11;0.01142
+2023-07-25;Vasco da Gama S.a.f. - RJ;12;0.01644
+2023-07-25;Vasco da Gama S.a.f. - RJ;13;0.02254
+2023-07-25;Vasco da Gama S.a.f. - RJ;14;0.03392
+2023-07-25;Vasco da Gama S.a.f. - RJ;15;0.04724
+2023-07-25;Vasco da Gama S.a.f. - RJ;16;0.06635
+2023-07-25;Vasco da Gama S.a.f. - RJ;17;0.09547
+2023-07-25;Vasco da Gama S.a.f. - RJ;18;0.13514
+2023-07-25;Vasco da Gama S.a.f. - RJ;19;0.20349
+2023-07-25;Vasco da Gama S.a.f. - RJ;20;0.34477
