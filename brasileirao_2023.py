@@ -35,7 +35,7 @@ def pega_jogos():
     '''
     Pegar HTML da CBF e retornar lista de dicionários.
     '''
-    r = requests.get(f'https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/{ano}')
+    r = requests.get(f'https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/{ano}', verify=False)
     soup = BeautifulSoup(r.content, 'html.parser')
     table = soup.find(attrs={'class':'swiper-wrapper'})
     content = table.find_all('li')
