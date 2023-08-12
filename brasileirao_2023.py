@@ -147,7 +147,7 @@ short.data = pd.to_datetime(short.data)
 last_short = short[short['data'] == max(short['data'])]
 short_final = last_short[last_short.columns[1:]].set_index('time')
 short_final.sort_values(by=[str(i) for i in list(range(20,0,-1))], inplace=True)
-short_final.plot(kind='bar',stacked=True,figsize=(20,15), colormap='autumn')
+short_final.plot(kind='bar',stacked=True,figsize=(20,15), colormap='cool')
 plt.savefig(figuras / f'short_final_{ano}.png')
 
 #%%
@@ -161,7 +161,7 @@ plt.savefig(figuras / f'long2_stacked_{ano}.png')
 
 #%%
 long2 = long.groupby(['time','data'])['points'].mean().unstack()
-long2.sort_values(long2.columns.max()).plot(kind='barh',stacked=False,figsize=(15,20), colormap='autumn')
+long2.sort_values(long2.columns.max()).plot(kind='barh',stacked=False,figsize=(15,20), colormap='cool')
 plt.savefig(figuras / f'long2_{ano}.png')
 
 #%%
