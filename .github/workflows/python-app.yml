@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run python script
-        run: python brasileirao_2023.py
+        run: python brasileirao_2024.py
 #      - name: Upload file as artifact
 #        uses: actions/upload-artifact@v3
 #        with:
