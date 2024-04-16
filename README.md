@@ -5,7 +5,14 @@ We are downloading the results from Brazilian National Soccer Championship ("Bra
 - We consider the advange of playing home.
 - We use Poisson distribution to guess the match score.
 
-## 2023 (under development)
+## 2024 (under development)
+![long2_2024](figs/long2_2024.png)
+![long2_stacked_2024](figs/long2_stacked_2024.png)
+![short_final_2024](figs/short_final_2024.png)
+![long3_2024](figs/long3_2024.png)
+
+
+## 2023
 ![long2_2023](figs/long2_2023.png)
 ![long2_stacked_2023](figs/long2_stacked_2023.png)
 ![short_final_2023](figs/short_final_2023.png)
@@ -17,7 +24,7 @@ We are downloading the results from Brazilian National Soccer Championship ("Bra
 ![short_final_2022](figs/short_final_2022.png)
 ![long3_2022](figs/long3_2022.png)
 
-## 2022 (under development)
+## 2022 
 ![long2_2021](figs/long2_2021.png)
 ![long2_stacked_2021](figs/long2_stacked_2021.png)
 ![short_final_2021](figs/short_final_2021.png)
