@@ -5999,3 +5999,403 @@ data;time;pos;chance
 2024-04-27;Vitória - BA;18;0.07618
 2024-04-27;Vitória - BA;19;0.08495
 2024-04-27;Vitória - BA;20;0.10131
+2024-04-28;Athletico Paranaense - PR;1;0.06421
+2024-04-28;Athletico Paranaense - PR;2;0.06067
+2024-04-28;Athletico Paranaense - PR;3;0.05984
+2024-04-28;Athletico Paranaense - PR;4;0.05903
+2024-04-28;Athletico Paranaense - PR;5;0.05795
+2024-04-28;Athletico Paranaense - PR;6;0.05634
+2024-04-28;Athletico Paranaense - PR;7;0.05562
+2024-04-28;Athletico Paranaense - PR;8;0.05343
+2024-04-28;Athletico Paranaense - PR;9;0.05256
+2024-04-28;Athletico Paranaense - PR;10;0.05099
+2024-04-28;Athletico Paranaense - PR;11;0.04886
+2024-04-28;Athletico Paranaense - PR;12;0.04863
+2024-04-28;Athletico Paranaense - PR;13;0.04904
+2024-04-28;Athletico Paranaense - PR;14;0.04647
+2024-04-28;Athletico Paranaense - PR;15;0.04519
+2024-04-28;Athletico Paranaense - PR;16;0.04319
+2024-04-28;Athletico Paranaense - PR;17;0.04238
+2024-04-28;Athletico Paranaense - PR;18;0.03956
+2024-04-28;Athletico Paranaense - PR;19;0.03557
+2024-04-28;Athletico Paranaense - PR;20;0.03047
+2024-04-28;Atlético - GO;1;0.01089
+2024-04-28;Atlético - GO;2;0.01486
+2024-04-28;Atlético - GO;3;0.01792
+2024-04-28;Atlético - GO;4;0.0227
+2024-04-28;Atlético - GO;5;0.02412
+2024-04-28;Atlético - GO;6;0.02776
+2024-04-28;Atlético - GO;7;0.03035
+2024-04-28;Atlético - GO;8;0.03327
+2024-04-28;Atlético - GO;9;0.0361
+2024-04-28;Atlético - GO;10;0.03888
+2024-04-28;Atlético - GO;11;0.04385
+2024-04-28;Atlético - GO;12;0.04694
+2024-04-28;Atlético - GO;13;0.05159
+2024-04-28;Atlético - GO;14;0.05612
+2024-04-28;Atlético - GO;15;0.0623
+2024-04-28;Atlético - GO;16;0.06889
+2024-04-28;Atlético - GO;17;0.07637
+2024-04-28;Atlético - GO;18;0.0875
+2024-04-28;Atlético - GO;19;0.10688
+2024-04-28;Atlético - GO;20;0.14271
+2024-04-28;Atlético Mineiro Saf - MG;1;0.04615
+2024-04-28;Atlético Mineiro Saf - MG;2;0.04864
+2024-04-28;Atlético Mineiro Saf - MG;3;0.04948
+2024-04-28;Atlético Mineiro Saf - MG;4;0.05026
+2024-04-28;Atlético Mineiro Saf - MG;5;0.0508
+2024-04-28;Atlético Mineiro Saf - MG;6;0.05109
+2024-04-28;Atlético Mineiro Saf - MG;7;0.05179
+2024-04-28;Atlético Mineiro Saf - MG;8;0.05224
+2024-04-28;Atlético Mineiro Saf - MG;9;0.05222
+2024-04-28;Atlético Mineiro Saf - MG;10;0.05176
+2024-04-28;Atlético Mineiro Saf - MG;11;0.05157
+2024-04-28;Atlético Mineiro Saf - MG;12;0.05369
+2024-04-28;Atlético Mineiro Saf - MG;13;0.05175
+2024-04-28;Atlético Mineiro Saf - MG;14;0.05216
+2024-04-28;Atlético Mineiro Saf - MG;15;0.05068
+2024-04-28;Atlético Mineiro Saf - MG;16;0.05001
+2024-04-28;Atlético Mineiro Saf - MG;17;0.04902
+2024-04-28;Atlético Mineiro Saf - MG;18;0.04831
+2024-04-28;Atlético Mineiro Saf - MG;19;0.04659
+2024-04-28;Atlético Mineiro Saf - MG;20;0.04179
+2024-04-28;Bahia - BA;1;0.05219
+2024-04-28;Bahia - BA;2;0.0533
+2024-04-28;Bahia - BA;3;0.05321
+2024-04-28;Bahia - BA;4;0.05352
+2024-04-28;Bahia - BA;5;0.05211
+2024-04-28;Bahia - BA;6;0.05358
+2024-04-28;Bahia - BA;7;0.05337
+2024-04-28;Bahia - BA;8;0.05174
+2024-04-28;Bahia - BA;9;0.05318
+2024-04-28;Bahia - BA;10;0.05215
+2024-04-28;Bahia - BA;11;0.05352
+2024-04-28;Bahia - BA;12;0.04989
+2024-04-28;Bahia - BA;13;0.04995
+2024-04-28;Bahia - BA;14;0.05014
+2024-04-28;Bahia - BA;15;0.04841
+2024-04-28;Bahia - BA;16;0.04881
+2024-04-28;Bahia - BA;17;0.04658
+2024-04-28;Bahia - BA;18;0.04553
+2024-04-28;Bahia - BA;19;0.04155
+2024-04-28;Bahia - BA;20;0.03727
+2024-04-28;Botafogo - RJ;1;0.06528
+2024-04-28;Botafogo - RJ;2;0.0638
+2024-04-28;Botafogo - RJ;3;0.05981
+2024-04-28;Botafogo - RJ;4;0.05974
+2024-04-28;Botafogo - RJ;5;0.05932
+2024-04-28;Botafogo - RJ;6;0.05726
+2024-04-28;Botafogo - RJ;7;0.05409
+2024-04-28;Botafogo - RJ;8;0.05397
+2024-04-28;Botafogo - RJ;9;0.05263
+2024-04-28;Botafogo - RJ;10;0.05019
+2024-04-28;Botafogo - RJ;11;0.05006
+2024-04-28;Botafogo - RJ;12;0.04866
+2024-04-28;Botafogo - RJ;13;0.04693
+2024-04-28;Botafogo - RJ;14;0.04672
+2024-04-28;Botafogo - RJ;15;0.04533
+2024-04-28;Botafogo - RJ;16;0.04279
+2024-04-28;Botafogo - RJ;17;0.04195
+2024-04-28;Botafogo - RJ;18;0.03753
+2024-04-28;Botafogo - RJ;19;0.03588
+2024-04-28;Botafogo - RJ;20;0.02806
+2024-04-28;Corinthians - SP;1;0.02168
+2024-04-28;Corinthians - SP;2;0.02609
+2024-04-28;Corinthians - SP;3;0.03105
+2024-04-28;Corinthians - SP;4;0.03295
+2024-04-28;Corinthians - SP;5;0.03464
+2024-04-28;Corinthians - SP;6;0.03904
+2024-04-28;Corinthians - SP;7;0.04163
+2024-04-28;Corinthians - SP;8;0.04283
+2024-04-28;Corinthians - SP;9;0.0449
+2024-04-28;Corinthians - SP;10;0.04738
+2024-04-28;Corinthians - SP;11;0.05034
+2024-04-28;Corinthians - SP;12;0.05298
+2024-04-28;Corinthians - SP;13;0.05434
+2024-04-28;Corinthians - SP;14;0.0564
+2024-04-28;Corinthians - SP;15;0.06
+2024-04-28;Corinthians - SP;16;0.06401
+2024-04-28;Corinthians - SP;17;0.06575
+2024-04-28;Corinthians - SP;18;0.07143
+2024-04-28;Corinthians - SP;19;0.07656
+2024-04-28;Corinthians - SP;20;0.086
+2024-04-28;Criciúma - SC;1;0.0362
+2024-04-28;Criciúma - SC;2;0.04093
+2024-04-28;Criciúma - SC;3;0.04256
+2024-04-28;Criciúma - SC;4;0.04423
+2024-04-28;Criciúma - SC;5;0.04472
+2024-04-28;Criciúma - SC;6;0.04606
+2024-04-28;Criciúma - SC;7;0.04793
+2024-04-28;Criciúma - SC;8;0.0477
+2024-04-28;Criciúma - SC;9;0.04877
+2024-04-28;Criciúma - SC;10;0.0509
+2024-04-28;Criciúma - SC;11;0.05206
+2024-04-28;Criciúma - SC;12;0.05195
+2024-04-28;Criciúma - SC;13;0.05207
+2024-04-28;Criciúma - SC;14;0.05471
+2024-04-28;Criciúma - SC;15;0.05415
+2024-04-28;Criciúma - SC;16;0.05515
+2024-04-28;Criciúma - SC;17;0.05552
+2024-04-28;Criciúma - SC;18;0.05741
+2024-04-28;Criciúma - SC;19;0.05814
+2024-04-28;Criciúma - SC;20;0.05884
+2024-04-28;Cruzeiro Saf - MG;1;0.04984
+2024-04-28;Cruzeiro Saf - MG;2;0.05183
+2024-04-28;Cruzeiro Saf - MG;3;0.05289
+2024-04-28;Cruzeiro Saf - MG;4;0.05264
+2024-04-28;Cruzeiro Saf - MG;5;0.05304
+2024-04-28;Cruzeiro Saf - MG;6;0.05258
+2024-04-28;Cruzeiro Saf - MG;7;0.05304
+2024-04-28;Cruzeiro Saf - MG;8;0.0546
+2024-04-28;Cruzeiro Saf - MG;9;0.05215
+2024-04-28;Cruzeiro Saf - MG;10;0.05276
+2024-04-28;Cruzeiro Saf - MG;11;0.05072
+2024-04-28;Cruzeiro Saf - MG;12;0.05219
+2024-04-28;Cruzeiro Saf - MG;13;0.05031
+2024-04-28;Cruzeiro Saf - MG;14;0.0496
+2024-04-28;Cruzeiro Saf - MG;15;0.04901
+2024-04-28;Cruzeiro Saf - MG;16;0.04747
+2024-04-28;Cruzeiro Saf - MG;17;0.04794
+2024-04-28;Cruzeiro Saf - MG;18;0.0458
+2024-04-28;Cruzeiro Saf - MG;19;0.0429
+2024-04-28;Cruzeiro Saf - MG;20;0.03869
+2024-04-28;Cuiabá Saf - MT;1;0.03139
+2024-04-28;Cuiabá Saf - MT;2;0.03663
+2024-04-28;Cuiabá Saf - MT;3;0.03887
+2024-04-28;Cuiabá Saf - MT;4;0.03969
+2024-04-28;Cuiabá Saf - MT;5;0.04209
+2024-04-28;Cuiabá Saf - MT;6;0.04411
+2024-04-28;Cuiabá Saf - MT;7;0.04621
+2024-04-28;Cuiabá Saf - MT;8;0.04733
+2024-04-28;Cuiabá Saf - MT;9;0.0464
+2024-04-28;Cuiabá Saf - MT;10;0.04922
+2024-04-28;Cuiabá Saf - MT;11;0.05099
+2024-04-28;Cuiabá Saf - MT;12;0.0507
+2024-04-28;Cuiabá Saf - MT;13;0.05363
+2024-04-28;Cuiabá Saf - MT;14;0.05449
+2024-04-28;Cuiabá Saf - MT;15;0.05683
+2024-04-28;Cuiabá Saf - MT;16;0.05777
+2024-04-28;Cuiabá Saf - MT;17;0.05933
+2024-04-28;Cuiabá Saf - MT;18;0.06142
+2024-04-28;Cuiabá Saf - MT;19;0.06427
+2024-04-28;Cuiabá Saf - MT;20;0.06863
+2024-04-28;Flamengo - RJ;1;0.10621
+2024-04-28;Flamengo - RJ;2;0.08932
+2024-04-28;Flamengo - RJ;3;0.07889
+2024-04-28;Flamengo - RJ;4;0.07197
+2024-04-28;Flamengo - RJ;5;0.06694
+2024-04-28;Flamengo - RJ;6;0.06195
+2024-04-28;Flamengo - RJ;7;0.05713
+2024-04-28;Flamengo - RJ;8;0.05299
+2024-04-28;Flamengo - RJ;9;0.05059
+2024-04-28;Flamengo - RJ;10;0.04857
+2024-04-28;Flamengo - RJ;11;0.04552
+2024-04-28;Flamengo - RJ;12;0.04164
+2024-04-28;Flamengo - RJ;13;0.04008
+2024-04-28;Flamengo - RJ;14;0.03571
+2024-04-28;Flamengo - RJ;15;0.03346
+2024-04-28;Flamengo - RJ;16;0.03013
+2024-04-28;Flamengo - RJ;17;0.0278
+2024-04-28;Flamengo - RJ;18;0.02478
+2024-04-28;Flamengo - RJ;19;0.02115
+2024-04-28;Flamengo - RJ;20;0.01517
+2024-04-28;Fluminense - RJ;1;0.0358
+2024-04-28;Fluminense - RJ;2;0.03998
+2024-04-28;Fluminense - RJ;3;0.04276
+2024-04-28;Fluminense - RJ;4;0.04463
+2024-04-28;Fluminense - RJ;5;0.04642
+2024-04-28;Fluminense - RJ;6;0.04754
+2024-04-28;Fluminense - RJ;7;0.04779
+2024-04-28;Fluminense - RJ;8;0.04875
+2024-04-28;Fluminense - RJ;9;0.05087
+2024-04-28;Fluminense - RJ;10;0.05157
+2024-04-28;Fluminense - RJ;11;0.05252
+2024-04-28;Fluminense - RJ;12;0.05221
+2024-04-28;Fluminense - RJ;13;0.05234
+2024-04-28;Fluminense - RJ;14;0.0549
+2024-04-28;Fluminense - RJ;15;0.05629
+2024-04-28;Fluminense - RJ;16;0.05515
+2024-04-28;Fluminense - RJ;17;0.05482
+2024-04-28;Fluminense - RJ;18;0.05561
+2024-04-28;Fluminense - RJ;19;0.0553
+2024-04-28;Fluminense - RJ;20;0.05475
+2024-04-28;Fortaleza - CE;1;0.06316
+2024-04-28;Fortaleza - CE;2;0.06055
+2024-04-28;Fortaleza - CE;3;0.05918
+2024-04-28;Fortaleza - CE;4;0.05786
+2024-04-28;Fortaleza - CE;5;0.05654
+2024-04-28;Fortaleza - CE;6;0.0552
+2024-04-28;Fortaleza - CE;7;0.05391
+2024-04-28;Fortaleza - CE;8;0.05333
+2024-04-28;Fortaleza - CE;9;0.052
+2024-04-28;Fortaleza - CE;10;0.05205
+2024-04-28;Fortaleza - CE;11;0.04851
+2024-04-28;Fortaleza - CE;12;0.04972
+2024-04-28;Fortaleza - CE;13;0.04845
+2024-04-28;Fortaleza - CE;14;0.04586
+2024-04-28;Fortaleza - CE;15;0.04483
+2024-04-28;Fortaleza - CE;16;0.04456
+2024-04-28;Fortaleza - CE;17;0.04278
+2024-04-28;Fortaleza - CE;18;0.04113
+2024-04-28;Fortaleza - CE;19;0.03781
+2024-04-28;Fortaleza - CE;20;0.03257
+2024-04-28;Grêmio - RS;1;0.06323
+2024-04-28;Grêmio - RS;2;0.06203
+2024-04-28;Grêmio - RS;3;0.061
+2024-04-28;Grêmio - RS;4;0.05862
+2024-04-28;Grêmio - RS;5;0.05754
+2024-04-28;Grêmio - RS;6;0.05655
+2024-04-28;Grêmio - RS;7;0.05679
+2024-04-28;Grêmio - RS;8;0.05329
+2024-04-28;Grêmio - RS;9;0.05306
+2024-04-28;Grêmio - RS;10;0.05245
+2024-04-28;Grêmio - RS;11;0.04964
+2024-04-28;Grêmio - RS;12;0.04915
+2024-04-28;Grêmio - RS;13;0.04746
+2024-04-28;Grêmio - RS;14;0.04602
+2024-04-28;Grêmio - RS;15;0.04496
+2024-04-28;Grêmio - RS;16;0.04257
+2024-04-28;Grêmio - RS;17;0.0416
+2024-04-28;Grêmio - RS;18;0.03933
+2024-04-28;Grêmio - RS;19;0.03561
+2024-04-28;Grêmio - RS;20;0.0291
+2024-04-28;Internacional - RS;1;0.08858
+2024-04-28;Internacional - RS;2;0.07637
+2024-04-28;Internacional - RS;3;0.07003
+2024-04-28;Internacional - RS;4;0.06773
+2024-04-28;Internacional - RS;5;0.06335
+2024-04-28;Internacional - RS;6;0.05986
+2024-04-28;Internacional - RS;7;0.05642
+2024-04-28;Internacional - RS;8;0.05345
+2024-04-28;Internacional - RS;9;0.05304
+2024-04-28;Internacional - RS;10;0.0505
+2024-04-28;Internacional - RS;11;0.04737
+2024-04-28;Internacional - RS;12;0.04387
+2024-04-28;Internacional - RS;13;0.04298
+2024-04-28;Internacional - RS;14;0.04118
+2024-04-28;Internacional - RS;15;0.0385
+2024-04-28;Internacional - RS;16;0.03639
+2024-04-28;Internacional - RS;17;0.03365
+2024-04-28;Internacional - RS;18;0.03009
+2024-04-28;Internacional - RS;19;0.02633
+2024-04-28;Internacional - RS;20;0.02031
+2024-04-28;Juventude - RS;1;0.05067
+2024-04-28;Juventude - RS;2;0.05281
+2024-04-28;Juventude - RS;3;0.05325
+2024-04-28;Juventude - RS;4;0.05244
+2024-04-28;Juventude - RS;5;0.05266
+2024-04-28;Juventude - RS;6;0.05233
+2024-04-28;Juventude - RS;7;0.05214
+2024-04-28;Juventude - RS;8;0.05352
+2024-04-28;Juventude - RS;9;0.05319
+2024-04-28;Juventude - RS;10;0.0509
+2024-04-28;Juventude - RS;11;0.05249
+2024-04-28;Juventude - RS;12;0.05191
+2024-04-28;Juventude - RS;13;0.04945
+2024-04-28;Juventude - RS;14;0.05091
+2024-04-28;Juventude - RS;15;0.04746
+2024-04-28;Juventude - RS;16;0.04953
+2024-04-28;Juventude - RS;17;0.04713
+2024-04-28;Juventude - RS;18;0.04538
+2024-04-28;Juventude - RS;19;0.04268
+2024-04-28;Juventude - RS;20;0.03915
+2024-04-28;Palmeiras - SP;1;0.03641
+2024-04-28;Palmeiras - SP;2;0.03968
+2024-04-28;Palmeiras - SP;3;0.04194
+2024-04-28;Palmeiras - SP;4;0.04407
+2024-04-28;Palmeiras - SP;5;0.04497
+2024-04-28;Palmeiras - SP;6;0.04727
+2024-04-28;Palmeiras - SP;7;0.04825
+2024-04-28;Palmeiras - SP;8;0.0487
+2024-04-28;Palmeiras - SP;9;0.0506
+2024-04-28;Palmeiras - SP;10;0.05086
+2024-04-28;Palmeiras - SP;11;0.05103
+2024-04-28;Palmeiras - SP;12;0.05426
+2024-04-28;Palmeiras - SP;13;0.05445
+2024-04-28;Palmeiras - SP;14;0.0548
+2024-04-28;Palmeiras - SP;15;0.05459
+2024-04-28;Palmeiras - SP;16;0.05553
+2024-04-28;Palmeiras - SP;17;0.05582
+2024-04-28;Palmeiras - SP;18;0.05514
+2024-04-28;Palmeiras - SP;19;0.05742
+2024-04-28;Palmeiras - SP;20;0.05421
+2024-04-28;Red Bull Bragantino - SP;1;0.0789
+2024-04-28;Red Bull Bragantino - SP;2;0.07061
+2024-04-28;Red Bull Bragantino - SP;3;0.06778
+2024-04-28;Red Bull Bragantino - SP;4;0.06437
+2024-04-28;Red Bull Bragantino - SP;5;0.06228
+2024-04-28;Red Bull Bragantino - SP;6;0.05822
+2024-04-28;Red Bull Bragantino - SP;7;0.0578
+2024-04-28;Red Bull Bragantino - SP;8;0.05542
+2024-04-28;Red Bull Bragantino - SP;9;0.05324
+2024-04-28;Red Bull Bragantino - SP;10;0.0492
+2024-04-28;Red Bull Bragantino - SP;11;0.04862
+2024-04-28;Red Bull Bragantino - SP;12;0.04648
+2024-04-28;Red Bull Bragantino - SP;13;0.04599
+2024-04-28;Red Bull Bragantino - SP;14;0.04179
+2024-04-28;Red Bull Bragantino - SP;15;0.04006
+2024-04-28;Red Bull Bragantino - SP;16;0.03935
+2024-04-28;Red Bull Bragantino - SP;17;0.03662
+2024-04-28;Red Bull Bragantino - SP;18;0.03243
+2024-04-28;Red Bull Bragantino - SP;19;0.028
+2024-04-28;Red Bull Bragantino - SP;20;0.02284
+2024-04-28;São Paulo - SP;1;0.03965
+2024-04-28;São Paulo - SP;2;0.04427
+2024-04-28;São Paulo - SP;3;0.04552
+2024-04-28;São Paulo - SP;4;0.04615
+2024-04-28;São Paulo - SP;5;0.04892
+2024-04-28;São Paulo - SP;6;0.05005
+2024-04-28;São Paulo - SP;7;0.0492
+2024-04-28;São Paulo - SP;8;0.05123
+2024-04-28;São Paulo - SP;9;0.05201
+2024-04-28;São Paulo - SP;10;0.05117
+2024-04-28;São Paulo - SP;11;0.05116
+2024-04-28;São Paulo - SP;12;0.05325
+2024-04-28;São Paulo - SP;13;0.05295
+2024-04-28;São Paulo - SP;14;0.05312
+2024-04-28;São Paulo - SP;15;0.05319
+2024-04-28;São Paulo - SP;16;0.0523
+2024-04-28;São Paulo - SP;17;0.05325
+2024-04-28;São Paulo - SP;18;0.05244
+2024-04-28;São Paulo - SP;19;0.05123
+2024-04-28;São Paulo - SP;20;0.04894
+2024-04-28;Vasco da Gama S.a.f. - RJ;1;0.04014
+2024-04-28;Vasco da Gama S.a.f. - RJ;2;0.04338
+2024-04-28;Vasco da Gama S.a.f. - RJ;3;0.04661
+2024-04-28;Vasco da Gama S.a.f. - RJ;4;0.04666
+2024-04-28;Vasco da Gama S.a.f. - RJ;5;0.04792
+2024-04-28;Vasco da Gama S.a.f. - RJ;6;0.04825
+2024-04-28;Vasco da Gama S.a.f. - RJ;7;0.04883
+2024-04-28;Vasco da Gama S.a.f. - RJ;8;0.05121
+2024-04-28;Vasco da Gama S.a.f. - RJ;9;0.05169
+2024-04-28;Vasco da Gama S.a.f. - RJ;10;0.05298
+2024-04-28;Vasco da Gama S.a.f. - RJ;11;0.05206
+2024-04-28;Vasco da Gama S.a.f. - RJ;12;0.05256
+2024-04-28;Vasco da Gama S.a.f. - RJ;13;0.05234
+2024-04-28;Vasco da Gama S.a.f. - RJ;14;0.05255
+2024-04-28;Vasco da Gama S.a.f. - RJ;15;0.05364
+2024-04-28;Vasco da Gama S.a.f. - RJ;16;0.05357
+2024-04-28;Vasco da Gama S.a.f. - RJ;17;0.05236
+2024-04-28;Vasco da Gama S.a.f. - RJ;18;0.05125
+2024-04-28;Vasco da Gama S.a.f. - RJ;19;0.05222
+2024-04-28;Vasco da Gama S.a.f. - RJ;20;0.04978
+2024-04-28;Vitória - BA;1;0.01942
+2024-04-28;Vitória - BA;2;0.02425
+2024-04-28;Vitória - BA;3;0.02741
+2024-04-28;Vitória - BA;4;0.03074
+2024-04-28;Vitória - BA;5;0.03367
+2024-04-28;Vitória - BA;6;0.03496
+2024-04-28;Vitória - BA;7;0.03771
+2024-04-28;Vitória - BA;8;0.041
+2024-04-28;Vitória - BA;9;0.0408
+2024-04-28;Vitória - BA;10;0.04552
+2024-04-28;Vitória - BA;11;0.04911
+2024-04-28;Vitória - BA;12;0.04932
+2024-04-28;Vitória - BA;13;0.0539
+2024-04-28;Vitória - BA;14;0.05635
+2024-04-28;Vitória - BA;15;0.06112
+2024-04-28;Vitória - BA;16;0.06283
+2024-04-28;Vitória - BA;17;0.06933
+2024-04-28;Vitória - BA;18;0.07793
+2024-04-28;Vitória - BA;19;0.08391
+2024-04-28;Vitória - BA;20;0.10072
