@@ -153,11 +153,14 @@ plt.savefig(figuras / f'short_final_{ano}.png')
 #%%
 
 long = pd.read_csv(f'brasileirao_long_{ano}.txt',sep=';', index_col=False, decimal='.')
+long = pd.DataFrame(long.groupby(['data','time','pos'])['chance'].mean()).reset_index()
 long.data = pd.to_datetime(long.data)
 long['points'] = (20-long['pos']) * long['chance']
 long2 = long.groupby(['data','time'])['points'].mean().unstack()
-long2.sort_values(long2.columns.max()).plot(kind='area',stacked=True,figsize=(15,20), colormap='brg')
+long2.sort_values(long2.index[-1],axis=1).plot(kind='area',stacked=True,figsize=(15,20), colormap='brg')
 plt.savefig(figuras / f'long2_stacked_{ano}.png')
+#%%
+long2
 
 #%%
 long2 = long.groupby(['time','data'])['points'].mean().unstack()
