@@ -5,6 +5,7 @@ import numpy as np
 import copy
 from datetime import date
 from pathlib import Path
+import json
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -16,33 +17,43 @@ print('iniciando script')
 num_sim = 100000
 ano = 2024
 
-def get_line(c):
-    '''
-    Extrair conteúdo do HTML da CBF e retornar em um dicionário.
-    '''
-    line = {}
-    line['mandante']  = c.find(attrs={'class':'icon escudo x45 pull-right'})['title']
-    line['visitante'] = c.find(attrs={'class':'icon escudo x45 pull-left'})['title']
-    try:
-        cell = c.find('strong').find('span')
-        line['placar_mandante'], line['placar_visitante'] = [int(x) for x in cell.text.strip().split(' x ')]
-    except:
-        line['placar_mandante']  = None
-        line['placar_visitante'] = None 
-    return line
+# def get_line(c):
+#     '''
+#     Extrair conteúdo do HTML da CBF e retornar em um dicionário.
+#     '''
+#     line = {}
+#     line['mandante']  = c.find(attrs={'class':'icon escudo x45 pull-right'})['title']
+#     line['visitante'] = c.find(attrs={'class':'icon escudo x45 pull-left'})['title']
+#     try:
+#         cell = c.find('strong').find('span')
+#         line['placar_mandante'], line['placar_visitante'] = [int(x) for x in cell.text.strip().split(' x ')]
+#     except:
+#         line['placar_mandante']  = None
+#         line['placar_visitante'] = None 
+#     return line
+
+# def pega_jogos():
+#     '''
+#     Pegar HTML da CBF e retornar lista de dicionários.
+#     '''
+#     r = requests.get(f'https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/{ano}', verify=False)
+#     soup = BeautifulSoup(r.content, 'html.parser')
+#     table = soup.find(attrs={'class':'swiper-wrapper'})
+#     content = table.find_all('li')
+#     jogos = []
+#     for c1 in content:
+#         line = get_line(c1)
+#         jogos.append(line)
+#     return jogos
 
 def pega_jogos():
-    '''
-    Pegar HTML da CBF e retornar lista de dicionários.
-    '''
-    r = requests.get(f'https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/{ano}', verify=False)
-    soup = BeautifulSoup(r.content, 'html.parser')
-    table = soup.find(attrs={'class':'swiper-wrapper'})
-    content = table.find_all('li')
-    jogos = []
-    for c1 in content:
-        line = get_line(c1)
-        jogos.append(line)
+    r = requests.get(f'https://jsuol.com.br/c/monaco/utils/gestor/commons.js?callback=simulador_dados_jsonp&file=commons.uol.com.br/sistemas/esporte/modalidades/futebol/campeonatos/dados/{ano}/30/dados.json', verify=False)
+    j = json.loads(r.content[22:-4])
+    equipes = {e:j['equipes'][e]['nome-comum'] for e in j['equipes']}
+    jogos = j['fases']['3908']['jogos']['id'].values()
+    jogos = [{'mandante':equipes[j['time1']],'placar_mandante':j['placar1'],
+        'visitante':equipes[j['time2']],'placar_visitante':j['placar2']
+        } for j in jogos]
     return jogos
 
 def get_times(jogos):
@@ -190,4 +201,3 @@ plt.savefig(figuras / f'long3_{ano}.png')
 # %%
 print('finalizando script')
 
-# %%
