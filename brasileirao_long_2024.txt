@@ -79999,3 +79999,403 @@ data;time;pos;chance
 2024-12-06;Vitória;18;0.0
 2024-12-06;Vitória;19;0.0
 2024-12-06;Vitória;20;0.0
+2024-12-07;Athletico;1;0.0
+2024-12-07;Athletico;2;0.0
+2024-12-07;Athletico;3;0.0
+2024-12-07;Athletico;4;0.0
+2024-12-07;Athletico;5;0.0
+2024-12-07;Athletico;6;0.0
+2024-12-07;Athletico;7;0.0
+2024-12-07;Athletico;8;0.0
+2024-12-07;Athletico;9;0.0
+2024-12-07;Athletico;10;0.0
+2024-12-07;Athletico;11;0.0
+2024-12-07;Athletico;12;0.00374
+2024-12-07;Athletico;13;0.04045
+2024-12-07;Athletico;14;0.11312
+2024-12-07;Athletico;15;0.07432
+2024-12-07;Athletico;16;0.35079
+2024-12-07;Athletico;17;0.41758
+2024-12-07;Athletico;18;0.0
+2024-12-07;Athletico;19;0.0
+2024-12-07;Athletico;20;0.0
+2024-12-07;Atlético-GO;1;0.0
+2024-12-07;Atlético-GO;2;0.0
+2024-12-07;Atlético-GO;3;0.0
+2024-12-07;Atlético-GO;4;0.0
+2024-12-07;Atlético-GO;5;0.0
+2024-12-07;Atlético-GO;6;0.0
+2024-12-07;Atlético-GO;7;0.0
+2024-12-07;Atlético-GO;8;0.0
+2024-12-07;Atlético-GO;9;0.0
+2024-12-07;Atlético-GO;10;0.0
+2024-12-07;Atlético-GO;11;0.0
+2024-12-07;Atlético-GO;12;0.0
+2024-12-07;Atlético-GO;13;0.0
+2024-12-07;Atlético-GO;14;0.0
+2024-12-07;Atlético-GO;15;0.0
+2024-12-07;Atlético-GO;16;0.0
+2024-12-07;Atlético-GO;17;0.0
+2024-12-07;Atlético-GO;18;0.0
+2024-12-07;Atlético-GO;19;0.37623
+2024-12-07;Atlético-GO;20;0.62377
+2024-12-07;Atlético-MG;1;0.0
+2024-12-07;Atlético-MG;2;0.0
+2024-12-07;Atlético-MG;3;0.0
+2024-12-07;Atlético-MG;4;0.0
+2024-12-07;Atlético-MG;5;0.0
+2024-12-07;Atlético-MG;6;0.0
+2024-12-07;Atlético-MG;7;0.0
+2024-12-07;Atlético-MG;8;0.0
+2024-12-07;Atlético-MG;9;0.0
+2024-12-07;Atlético-MG;10;0.0
+2024-12-07;Atlético-MG;11;0.05686
+2024-12-07;Atlético-MG;12;0.21247
+2024-12-07;Atlético-MG;13;0.25068
+2024-12-07;Atlético-MG;14;0.26027
+2024-12-07;Atlético-MG;15;0.08125
+2024-12-07;Atlético-MG;16;0.09498
+2024-12-07;Atlético-MG;17;0.04349
+2024-12-07;Atlético-MG;18;0.0
+2024-12-07;Atlético-MG;19;0.0
+2024-12-07;Atlético-MG;20;0.0
+2024-12-07;Bahia;1;0.0
+2024-12-07;Bahia;2;0.0
+2024-12-07;Bahia;3;0.0
+2024-12-07;Bahia;4;0.0
+2024-12-07;Bahia;5;0.0
+2024-12-07;Bahia;6;0.0
+2024-12-07;Bahia;7;0.36479
+2024-12-07;Bahia;8;0.56386
+2024-12-07;Bahia;9;0.07135
+2024-12-07;Bahia;10;0.0
+2024-12-07;Bahia;11;0.0
+2024-12-07;Bahia;12;0.0
+2024-12-07;Bahia;13;0.0
+2024-12-07;Bahia;14;0.0
+2024-12-07;Bahia;15;0.0
+2024-12-07;Bahia;16;0.0
+2024-12-07;Bahia;17;0.0
+2024-12-07;Bahia;18;0.0
+2024-12-07;Bahia;19;0.0
+2024-12-07;Bahia;20;0.0
+2024-12-07;Botafogo;1;0.89023
+2024-12-07;Botafogo;2;0.10977
+2024-12-07;Botafogo;3;0.0
+2024-12-07;Botafogo;4;0.0
+2024-12-07;Botafogo;5;0.0
+2024-12-07;Botafogo;6;0.0
+2024-12-07;Botafogo;7;0.0
+2024-12-07;Botafogo;8;0.0
+2024-12-07;Botafogo;9;0.0
+2024-12-07;Botafogo;10;0.0
+2024-12-07;Botafogo;11;0.0
+2024-12-07;Botafogo;12;0.0
+2024-12-07;Botafogo;13;0.0
+2024-12-07;Botafogo;14;0.0
+2024-12-07;Botafogo;15;0.0
+2024-12-07;Botafogo;16;0.0
+2024-12-07;Botafogo;17;0.0
+2024-12-07;Botafogo;18;0.0
+2024-12-07;Botafogo;19;0.0
+2024-12-07;Botafogo;20;0.0
+2024-12-07;Corinthians;1;0.0
+2024-12-07;Corinthians;2;0.0
+2024-12-07;Corinthians;3;0.0
+2024-12-07;Corinthians;4;0.0
+2024-12-07;Corinthians;5;0.0
+2024-12-07;Corinthians;6;0.0
+2024-12-07;Corinthians;7;0.63521
+2024-12-07;Corinthians;8;0.36479
+2024-12-07;Corinthians;9;0.0
+2024-12-07;Corinthians;10;0.0
+2024-12-07;Corinthians;11;0.0
+2024-12-07;Corinthians;12;0.0
+2024-12-07;Corinthians;13;0.0
+2024-12-07;Corinthians;14;0.0
+2024-12-07;Corinthians;15;0.0
+2024-12-07;Corinthians;16;0.0
+2024-12-07;Corinthians;17;0.0
+2024-12-07;Corinthians;18;0.0
+2024-12-07;Corinthians;19;0.0
+2024-12-07;Corinthians;20;0.0
+2024-12-07;Criciúma;1;0.0
+2024-12-07;Criciúma;2;0.0
+2024-12-07;Criciúma;3;0.0
+2024-12-07;Criciúma;4;0.0
+2024-12-07;Criciúma;5;0.0
+2024-12-07;Criciúma;6;0.0
+2024-12-07;Criciúma;7;0.0
+2024-12-07;Criciúma;8;0.0
+2024-12-07;Criciúma;9;0.0
+2024-12-07;Criciúma;10;0.0
+2024-12-07;Criciúma;11;0.0
+2024-12-07;Criciúma;12;0.0
+2024-12-07;Criciúma;13;0.0
+2024-12-07;Criciúma;14;0.0
+2024-12-07;Criciúma;15;0.0
+2024-12-07;Criciúma;16;0.0
+2024-12-07;Criciúma;17;0.1828
+2024-12-07;Criciúma;18;0.8172
+2024-12-07;Criciúma;19;0.0
+2024-12-07;Criciúma;20;0.0
+2024-12-07;Cruzeiro;1;0.0
+2024-12-07;Cruzeiro;2;0.0
+2024-12-07;Cruzeiro;3;0.0
+2024-12-07;Cruzeiro;4;0.0
+2024-12-07;Cruzeiro;5;0.0
+2024-12-07;Cruzeiro;6;0.0
+2024-12-07;Cruzeiro;7;0.0
+2024-12-07;Cruzeiro;8;0.07135
+2024-12-07;Cruzeiro;9;0.68666
+2024-12-07;Cruzeiro;10;0.2227
+2024-12-07;Cruzeiro;11;0.01929
+2024-12-07;Cruzeiro;12;0.0
+2024-12-07;Cruzeiro;13;0.0
+2024-12-07;Cruzeiro;14;0.0
+2024-12-07;Cruzeiro;15;0.0
+2024-12-07;Cruzeiro;16;0.0
+2024-12-07;Cruzeiro;17;0.0
+2024-12-07;Cruzeiro;18;0.0
+2024-12-07;Cruzeiro;19;0.0
+2024-12-07;Cruzeiro;20;0.0
+2024-12-07;Cuiabá;1;0.0
+2024-12-07;Cuiabá;2;0.0
+2024-12-07;Cuiabá;3;0.0
+2024-12-07;Cuiabá;4;0.0
+2024-12-07;Cuiabá;5;0.0
+2024-12-07;Cuiabá;6;0.0
+2024-12-07;Cuiabá;7;0.0
+2024-12-07;Cuiabá;8;0.0
+2024-12-07;Cuiabá;9;0.0
+2024-12-07;Cuiabá;10;0.0
+2024-12-07;Cuiabá;11;0.0
+2024-12-07;Cuiabá;12;0.0
+2024-12-07;Cuiabá;13;0.0
+2024-12-07;Cuiabá;14;0.0
+2024-12-07;Cuiabá;15;0.0
+2024-12-07;Cuiabá;16;0.0
+2024-12-07;Cuiabá;17;0.0
+2024-12-07;Cuiabá;18;0.0
+2024-12-07;Cuiabá;19;0.62377
+2024-12-07;Cuiabá;20;0.37623
+2024-12-07;Flamengo;1;0.0
+2024-12-07;Flamengo;2;0.0
+2024-12-07;Flamengo;3;1.0
+2024-12-07;Flamengo;4;0.0
+2024-12-07;Flamengo;5;0.0
+2024-12-07;Flamengo;6;0.0
+2024-12-07;Flamengo;7;0.0
+2024-12-07;Flamengo;8;0.0
+2024-12-07;Flamengo;9;0.0
+2024-12-07;Flamengo;10;0.0
+2024-12-07;Flamengo;11;0.0
+2024-12-07;Flamengo;12;0.0
+2024-12-07;Flamengo;13;0.0
+2024-12-07;Flamengo;14;0.0
+2024-12-07;Flamengo;15;0.0
+2024-12-07;Flamengo;16;0.0
+2024-12-07;Flamengo;17;0.0
+2024-12-07;Flamengo;18;0.0
+2024-12-07;Flamengo;19;0.0
+2024-12-07;Flamengo;20;0.0
+2024-12-07;Fluminense;1;0.0
+2024-12-07;Fluminense;2;0.0
+2024-12-07;Fluminense;3;0.0
+2024-12-07;Fluminense;4;0.0
+2024-12-07;Fluminense;5;0.0
+2024-12-07;Fluminense;6;0.0
+2024-12-07;Fluminense;7;0.0
+2024-12-07;Fluminense;8;0.0
+2024-12-07;Fluminense;9;0.0
+2024-12-07;Fluminense;10;0.0
+2024-12-07;Fluminense;11;0.0
+2024-12-07;Fluminense;12;0.005
+2024-12-07;Fluminense;13;0.03943
+2024-12-07;Fluminense;14;0.08416
+2024-12-07;Fluminense;15;0.4124
+2024-12-07;Fluminense;16;0.3141
+2024-12-07;Fluminense;17;0.14491
+2024-12-07;Fluminense;18;0.0
+2024-12-07;Fluminense;19;0.0
+2024-12-07;Fluminense;20;0.0
+2024-12-07;Fortaleza;1;0.0
+2024-12-07;Fortaleza;2;0.0
+2024-12-07;Fortaleza;3;0.0
+2024-12-07;Fortaleza;4;0.60992
+2024-12-07;Fortaleza;5;0.39008
+2024-12-07;Fortaleza;6;0.0
+2024-12-07;Fortaleza;7;0.0
+2024-12-07;Fortaleza;8;0.0
+2024-12-07;Fortaleza;9;0.0
+2024-12-07;Fortaleza;10;0.0
+2024-12-07;Fortaleza;11;0.0
+2024-12-07;Fortaleza;12;0.0
+2024-12-07;Fortaleza;13;0.0
+2024-12-07;Fortaleza;14;0.0
+2024-12-07;Fortaleza;15;0.0
+2024-12-07;Fortaleza;16;0.0
+2024-12-07;Fortaleza;17;0.0
+2024-12-07;Fortaleza;18;0.0
+2024-12-07;Fortaleza;19;0.0
+2024-12-07;Fortaleza;20;0.0
+2024-12-07;Grêmio;1;0.0
+2024-12-07;Grêmio;2;0.0
+2024-12-07;Grêmio;3;0.0
+2024-12-07;Grêmio;4;0.0
+2024-12-07;Grêmio;5;0.0
+2024-12-07;Grêmio;6;0.0
+2024-12-07;Grêmio;7;0.0
+2024-12-07;Grêmio;8;0.0
+2024-12-07;Grêmio;9;0.0
+2024-12-07;Grêmio;10;0.40111
+2024-12-07;Grêmio;11;0.1812
+2024-12-07;Grêmio;12;0.05838
+2024-12-07;Grêmio;13;0.15578
+2024-12-07;Grêmio;14;0.18254
+2024-12-07;Grêmio;15;0.02099
+2024-12-07;Grêmio;16;0.0
+2024-12-07;Grêmio;17;0.0
+2024-12-07;Grêmio;18;0.0
+2024-12-07;Grêmio;19;0.0
+2024-12-07;Grêmio;20;0.0
+2024-12-07;Internacional;1;0.0
+2024-12-07;Internacional;2;0.0
+2024-12-07;Internacional;3;0.0
+2024-12-07;Internacional;4;0.39008
+2024-12-07;Internacional;5;0.60992
+2024-12-07;Internacional;6;0.0
+2024-12-07;Internacional;7;0.0
+2024-12-07;Internacional;8;0.0
+2024-12-07;Internacional;9;0.0
+2024-12-07;Internacional;10;0.0
+2024-12-07;Internacional;11;0.0
+2024-12-07;Internacional;12;0.0
+2024-12-07;Internacional;13;0.0
+2024-12-07;Internacional;14;0.0
+2024-12-07;Internacional;15;0.0
+2024-12-07;Internacional;16;0.0
+2024-12-07;Internacional;17;0.0
+2024-12-07;Internacional;18;0.0
+2024-12-07;Internacional;19;0.0
+2024-12-07;Internacional;20;0.0
+2024-12-07;Juventude;1;0.0
+2024-12-07;Juventude;2;0.0
+2024-12-07;Juventude;3;0.0
+2024-12-07;Juventude;4;0.0
+2024-12-07;Juventude;5;0.0
+2024-12-07;Juventude;6;0.0
+2024-12-07;Juventude;7;0.0
+2024-12-07;Juventude;8;0.0
+2024-12-07;Juventude;9;0.0
+2024-12-07;Juventude;10;0.11857
+2024-12-07;Juventude;11;0.28761
+2024-12-07;Juventude;12;0.19094
+2024-12-07;Juventude;13;0.13469
+2024-12-07;Juventude;14;0.223
+2024-12-07;Juventude;15;0.04519
+2024-12-07;Juventude;16;0.0
+2024-12-07;Juventude;17;0.0
+2024-12-07;Juventude;18;0.0
+2024-12-07;Juventude;19;0.0
+2024-12-07;Juventude;20;0.0
+2024-12-07;Palmeiras;1;0.10977
+2024-12-07;Palmeiras;2;0.89023
+2024-12-07;Palmeiras;3;0.0
+2024-12-07;Palmeiras;4;0.0
+2024-12-07;Palmeiras;5;0.0
+2024-12-07;Palmeiras;6;0.0
+2024-12-07;Palmeiras;7;0.0
+2024-12-07;Palmeiras;8;0.0
+2024-12-07;Palmeiras;9;0.0
+2024-12-07;Palmeiras;10;0.0
+2024-12-07;Palmeiras;11;0.0
+2024-12-07;Palmeiras;12;0.0
+2024-12-07;Palmeiras;13;0.0
+2024-12-07;Palmeiras;14;0.0
+2024-12-07;Palmeiras;15;0.0
+2024-12-07;Palmeiras;16;0.0
+2024-12-07;Palmeiras;17;0.0
+2024-12-07;Palmeiras;18;0.0
+2024-12-07;Palmeiras;19;0.0
+2024-12-07;Palmeiras;20;0.0
+2024-12-07;Red Bull Bragantino;1;0.0
+2024-12-07;Red Bull Bragantino;2;0.0
+2024-12-07;Red Bull Bragantino;3;0.0
+2024-12-07;Red Bull Bragantino;4;0.0
+2024-12-07;Red Bull Bragantino;5;0.0
+2024-12-07;Red Bull Bragantino;6;0.0
+2024-12-07;Red Bull Bragantino;7;0.0
+2024-12-07;Red Bull Bragantino;8;0.0
+2024-12-07;Red Bull Bragantino;9;0.0
+2024-12-07;Red Bull Bragantino;10;0.0
+2024-12-07;Red Bull Bragantino;11;0.0
+2024-12-07;Red Bull Bragantino;12;0.0
+2024-12-07;Red Bull Bragantino;13;0.0
+2024-12-07;Red Bull Bragantino;14;0.0
+2024-12-07;Red Bull Bragantino;15;0.36585
+2024-12-07;Red Bull Bragantino;16;0.24013
+2024-12-07;Red Bull Bragantino;17;0.21122
+2024-12-07;Red Bull Bragantino;18;0.1828
+2024-12-07;Red Bull Bragantino;19;0.0
+2024-12-07;Red Bull Bragantino;20;0.0
+2024-12-07;São Paulo;1;0.0
+2024-12-07;São Paulo;2;0.0
+2024-12-07;São Paulo;3;0.0
+2024-12-07;São Paulo;4;0.0
+2024-12-07;São Paulo;5;0.0
+2024-12-07;São Paulo;6;1.0
+2024-12-07;São Paulo;7;0.0
+2024-12-07;São Paulo;8;0.0
+2024-12-07;São Paulo;9;0.0
+2024-12-07;São Paulo;10;0.0
+2024-12-07;São Paulo;11;0.0
+2024-12-07;São Paulo;12;0.0
+2024-12-07;São Paulo;13;0.0
+2024-12-07;São Paulo;14;0.0
+2024-12-07;São Paulo;15;0.0
+2024-12-07;São Paulo;16;0.0
+2024-12-07;São Paulo;17;0.0
+2024-12-07;São Paulo;18;0.0
+2024-12-07;São Paulo;19;0.0
+2024-12-07;São Paulo;20;0.0
+2024-12-07;Vasco;1;0.0
+2024-12-07;Vasco;2;0.0
+2024-12-07;Vasco;3;0.0
+2024-12-07;Vasco;4;0.0
+2024-12-07;Vasco;5;0.0
+2024-12-07;Vasco;6;0.0
+2024-12-07;Vasco;7;0.0
+2024-12-07;Vasco;8;0.0
+2024-12-07;Vasco;9;0.14996
+2024-12-07;Vasco;10;0.15927
+2024-12-07;Vasco;11;0.3319
+2024-12-07;Vasco;12;0.27124
+2024-12-07;Vasco;13;0.08763
+2024-12-07;Vasco;14;0.0
+2024-12-07;Vasco;15;0.0
+2024-12-07;Vasco;16;0.0
+2024-12-07;Vasco;17;0.0
+2024-12-07;Vasco;18;0.0
+2024-12-07;Vasco;19;0.0
+2024-12-07;Vasco;20;0.0
+2024-12-07;Vitória;1;0.0
+2024-12-07;Vitória;2;0.0
+2024-12-07;Vitória;3;0.0
+2024-12-07;Vitória;4;0.0
+2024-12-07;Vitória;5;0.0
+2024-12-07;Vitória;6;0.0
+2024-12-07;Vitória;7;0.0
+2024-12-07;Vitória;8;0.0
+2024-12-07;Vitória;9;0.09203
+2024-12-07;Vitória;10;0.09835
+2024-12-07;Vitória;11;0.12314
+2024-12-07;Vitória;12;0.25823
+2024-12-07;Vitória;13;0.29134
+2024-12-07;Vitória;14;0.13691
+2024-12-07;Vitória;15;0.0
+2024-12-07;Vitória;16;0.0
+2024-12-07;Vitória;17;0.0
+2024-12-07;Vitória;18;0.0
+2024-12-07;Vitória;19;0.0
+2024-12-07;Vitória;20;0.0
