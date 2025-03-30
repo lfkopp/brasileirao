@@ -1,5 +1,5 @@
 #%%
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import requests
 import numpy as np
 import copy
@@ -15,7 +15,7 @@ from scipy.ndimage import gaussian_filter1d
 
 print('iniciando script')
 num_sim = 100000
-ano = 2024
+ano = 2025
 
 # def get_line(c):
 #     '''
@@ -50,7 +50,8 @@ def pega_jogos():
     r = requests.get(f'https://jsuol.com.br/c/monaco/utils/gestor/commons.js?callback=simulador_dados_jsonp&file=commons.uol.com.br/sistemas/esporte/modalidades/futebol/campeonatos/dados/{ano}/30/dados.json', verify=False)
     j = json.loads(r.content[22:-4])
     equipes = {e:j['equipes'][e]['nome-comum'] for e in j['equipes']}
-    jogos = j['fases']['3908']['jogos']['id'].values()
+
+    jogos = j['fases']['4139']['jogos']['id'].values()
     jogos = [{'mandante':equipes[j['time1']],'placar_mandante':j['placar1'],
         'visitante':equipes[j['time2']],'placar_visitante':j['placar2']
         } for j in jogos]
@@ -201,3 +202,4 @@ plt.savefig(figuras / f'long3_{ano}.png')
 # %%
 print('finalizando script')
 
+#%%
