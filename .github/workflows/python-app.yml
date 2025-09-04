@@ -1,34 +1,37 @@
-name: "Workflow run brasileirao"
+name: "Update Brasileirão Data"
 on:
   push:
+    branches:
+      - main
   schedule:
     - cron: '0 1 * * *'
+  workflow_dispatch: {}
 permissions:
   contents: write
 jobs:
-  python-job:
-    name: "Python job"
+  update-data-job:
+    name: "Update Brasileirão Data"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Setup python
-        uses: actions/setup-python@v3
+        uses: actions/checkout@v4
+      - name: Setup Python environment
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10.6'
+          cache: 'pip'
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Run python script
+      - name: Run Python script to fetch data
         run: python brasileirao_2025.py
-#      - name: Upload file as artifact
-#        uses: actions/upload-artifact@v3
-#        with:
-#          name: job-result
-#          path: brasileirao_2023.txt
-      - name: Commit and push changes
+      - name: Commit and push if there are changes
         run: |
-          git config --global user.name "lfkopp"
-          git config --global user.email "lfkopp@gmail.com"
-          git add -A
-          git commit -m "commit message"
-          git push
+          git config user.name "lfkopp"
+          git config user.email "lfkopp@gmail.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes detected. Working tree is clean."
+          else
+            git commit -m "feat:Automated Brasileirão data update"
+            git push
+          fi
