@@ -1,60 +1,42 @@
 name: "CI/CD - Deploy Prefect Brasileirão"
-
-# Agenda o DEPLOYMENT uma vez por dia (manhã)
 on:
   push:
     branches:
       - main
-  # Remove o schedule daqui, pois o agendamento real será feito pelo Prefect Server
   workflow_dispatch: {} 
-
 permissions:
-  contents: write # Necessário para Checkout
-  packages: write # Necessário para Push em Registries
-
+  contents: write
+  packages: write
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # --- 1. BUILD E PUSH DA IMAGEM ---
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
-
       - name: Login to Docker Hub/Registry
         uses: docker/login-action@v3
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v5
         with:
-          context: . # Assume que o Dockerfile está na raiz do repo
+          context: . 
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/brasileirao-flows:latest # Nome da Imagem
-          cache-from: type=gha # Usa o cache do GitHub Actions
-
-      # --- 2. DEPLOYMENT DO FLOW NO PREFECT SERVER ---
+          tags: ${{ secrets.DOCKER_USERNAME }}/brasileirao-flows:latest 
+          cache-from: type=gha
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip'
-
       - name: Install Prefect CLI
         run: pip install -U prefect
-
       - name: Execute Prefect Deploy
         run: |
-          # Define as variáveis de ambiente necessárias para o CLI
           export PREFECT_API_URL=${{ secrets.PREFECT_API_URL }}
           export PREFECT_API_AUTH_STRING=${{ secrets.PREFECT_API_AUTH_STRING }}
-          
-          # Executa o deploy (o Prefect lê o prefect.yaml e registra no seu servidor)
           prefect deploy --file ./prefect.yaml
-          
           echo "Deployment registrado com sucesso no Prefect Server!"
