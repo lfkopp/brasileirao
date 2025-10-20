@@ -64,7 +64,7 @@ jobs:
           
           # 2. Executa o comando de deploy, registrando a definição do Flow no Server
           prefect deploy \
-            --work-pool notebooks-pool \
+            --pool notebooks-pool \
             --prefect-file ./prefect.yaml \
             ./flows/brasileirao_flow.py:brasileirao_update_flow
           
