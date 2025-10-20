@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 from scipy.ndimage import gaussian_filter1d
 import subprocess
 from typing import List, Dict, Any, Tuple
+import os
 
 ANO_CAMPEONATO = 2025
 NUM_SIMULACOES = 100000
@@ -163,23 +164,37 @@ def generate_and_save_plots(ano: int):
 @task(name="Git_Commit_Data_Files", log_prints=True)
 def commit_and_push_data():
     logger = get_run_logger()
+    GIT_TOKEN = os.getenv('GIT_PUSH_TOKEN')
+    if not GIT_TOKEN:
+        logger.error("GIT_PUSH_TOKEN não foi encontrado no ambiente. O push irá falhar.")
+        raise ValueError("GIT_PUSH_TOKEN está ausente.")
     try:
-        GIT_TOKEN = os.getenv('GIT_PUSH_TOKEN') 
+        subprocess.run(["git", "init"], check=True, capture_output=True)
         REPO_URL = "github.com/lfkopp/brasileirao.git"
-        PUSH_URL = f"https://lfkopp:{GIT_TOKEN}@{REPO_URL}" 
+        PUSH_URL = f"https://lfkopp:{GIT_TOKEN}@{REPO_URL}"
         subprocess.run(["git", "config", "user.name", "lfkopp"], check=True)
-        subprocess.run(["git", "config", "user.email", "lfkopp@gmail.com"], check=True)
+        subprocess.run(["git", "config", "user.email", "lfkopp@gmail.com"], check=True)      
+    except subprocess.CalledProcessError as e:
+        logger.error(f"Falha na configuração do Git: {e.stderr.decode()}")
+        raise
+    try:
         subprocess.run(["git", "add", "."], check=True)
         commit_check = subprocess.run(["git", "diff", "--staged", "--quiet"], check=False, capture_output=True)
         if commit_check.returncode == 0:
             logger.info("Nenhuma mudança nos dados detectada. Commit ignorado.")
-        else:
-            logger.info("Arquivos TXT/PNG atualizados. Commitando e enviando para o GitHub.")
-            subprocess.run(["git", "commit", "-m", f"feat:Automated Brasileirão data update ({date.today()})"], check=True)
-            subprocess.run(["git", "push", PUSH_URL], check=True) 
             return True
+        else:
+            commit_message = f"feat:Automated Brasileirão data update ({date.today()})"
+            logger.info(f"Arquivos TXT/PNG atualizados. Commitando: '{commit_message}'")
+            subprocess.run(["git", "commit", "-m", commit_message], check=True)
+            subprocess.run(["git", "push", PUSH_URL], check=True)
+            logger.info("Push para o GitHub concluído com sucesso.")
+            return True
+    except subprocess.CalledProcessError as e:
+        logger.error(f"Falha crítica no Git Commit/Push: {e.stderr.decode()}")
+        raise
     except Exception as e:
-        logger.error(f"Falha no Git Commit/Push: {e}")
+        logger.error(f"Erro inesperado durante a operação Git: {e}")
         raise
 
 @flow(name="Brasileirao-Update-Diario", log_prints=True)
