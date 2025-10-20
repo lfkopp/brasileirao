@@ -9,3 +9,5 @@ job_variables:
     image: "mrkopp/brasileirao-flows:latest" 
     container_name: "brasileirao-flow-run-{flow_run_id}"
     network: "pg_foco_default"
+    env:
+      GIT_PUSH_TOKEN: "{{ secrets.GITHUB_PAT_TOKEN }}"
