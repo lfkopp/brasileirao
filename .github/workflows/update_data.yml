@@ -40,7 +40,7 @@ jobs:
           push: true
           tags: mrkopp/brasileirao-flows:latest 
           cache-from: type=gha # Usa cache para builds rápidos
-
+          platforms: linux/amd64,linux/arm64/v8
       # ====================================================================
       # 2. DEPLOYMENT DO FLOW NO PREFECT SERVER (ORACLE CLOUD)
       # ====================================================================
