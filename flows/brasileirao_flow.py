@@ -160,10 +160,13 @@ def generate_and_save_plots(ano: int):
         logger.error(f"Erro na plotagem/leitura dos dados: {e}")
         raise 
 @task(name="Git_Commit_Data_Files", log_prints=True)
+@task(name="Git_Commit_Data_Files", log_prints=True)
 def commit_and_push_data():
-    """Commita os arquivos TXT e PNG gerados de volta para o GitHub."""
-    logger = get_run_logger()
+        logger = get_run_logger()
     try:
+        GIT_TOKEN = os.getenv('GIT_PUSH_TOKEN') 
+        REPO_URL = "github.com/lfkopp/brasileirao.git"
+        PUSH_URL = f"https://lfkopp:{GIT_TOKEN}@{REPO_URL}" 
         subprocess.run(["git", "config", "user.name", "lfkopp"], check=True)
         subprocess.run(["git", "config", "user.email", "lfkopp@gmail.com"], check=True)
         subprocess.run(["git", "add", "."], check=True)
@@ -173,8 +176,8 @@ def commit_and_push_data():
         else:
             logger.info("Arquivos TXT/PNG atualizados. Commitando e enviando para o GitHub.")
             subprocess.run(["git", "commit", "-m", f"feat:Automated Brasileirão data update ({date.today()})"], check=True)
-            subprocess.run(["git", "push"], check=True)
-        return True
+            subprocess.run(["git", "push", PUSH_URL], check=True) 
+            return True
     except Exception as e:
         logger.error(f"Falha no Git Commit/Push: {e}")
         raise
