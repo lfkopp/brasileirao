@@ -1,42 +1,68 @@
-name: "CI/CD - Deploy Prefect Brasileirão"
+name: CI/CD - Prefect Data Pipeline Deploy
+
+# O Pipeline de CI/CD roda quando há um push no branch 'main'
 on:
   push:
     branches:
       - master
-  workflow_dispatch: {} 
-permissions:
-  contents: write
-  packages: write
+  workflow_dispatch: {} # Permite acionamento manual pela UI do GitHub
+
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
+    
+    # Garante que o job possa escrever no Container Registry
+    permissions:
+      contents: read
+      packages: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      # ====================================================================
+      # 1. BUILD E PUSH DA IMAGEM PARA O DOCKER HUB/REGISTRY
+      # ====================================================================
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
-      - name: Login to Docker Hub/Registry
+
+      - name: Login to Docker Hub
         uses: docker/login-action@v3
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
+          # Senha: Token de Acesso Pessoal (PAT) para o Registry
+          password: ${{ secrets.DOCKER_PASSWORD }} 
+
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v5
         with:
-          context: . 
+          context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/brasileirao-flows:latest 
-          cache-from: type=gha
+          tags: mrkopp/brasileirao-flows:latest 
+          cache-from: type=gha # Usa cache para builds rápidos
+
+      # ====================================================================
+      # 2. DEPLOYMENT DO FLOW NO PREFECT SERVER (ORACLE CLOUD)
+      # ====================================================================
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip'
-      - name: Install Prefect CLI
-        run: pip install -U prefect
-      - name: Execute Prefect Deploy
+
+      - name: Install Prefect CLI e Dependências
         run: |
+          pip install -U prefect 
+          # Instala dependências (importante para o Prefect CLI ler o Flow)
+          pip install -r requirements.txt 
+
+      - name: Execute Prefect Deploy (Registro no Server)
+        run: |
+          # 1. Configura a URL e a autenticação do Servidor Prefect (Oracle Cloud)
           export PREFECT_API_URL=${{ secrets.PREFECT_API_URL }}
           export PREFECT_API_AUTH_STRING=${{ secrets.PREFECT_API_AUTH_STRING }}
+          
+          # 2. Executa o comando de deploy, registrando a definição do Flow no Server
           prefect deploy --prefect-file ./prefect.yaml
-          echo "Deployment registrado com sucesso no Prefect Server!"
+          
+          echo "✅ Deployment pipeline-brasileirao-diario registrado com sucesso no Prefect Server!"
