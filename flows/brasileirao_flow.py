@@ -43,8 +43,7 @@ def pontua(line: Dict[str, Any], dados_time: Dict[str, Dict[str, Any]]) -> Dict[
         placar_v = int(np.random.poisson(1))
     else:
         placar_m = int(line['placar_mandante'])
-        placar_v = int(line['placar_visitante'])
-        
+        placar_v = int(line['placar_visitante'])  
     if placar_m > placar_v:
         dados_time[line['mandante']]['pontos'] += 3
         dados_time[line['mandante']]['vitorias'] += 1
@@ -184,11 +183,16 @@ def commit_and_push_data():
             logger.info("Nenhuma mudança nos dados detectada. Commit ignorado.")
             return True
         else:
-            commit_message = f"feat:Automated Brasileirão data update ({date.today()})"
-            logger.info(f"Arquivos TXT/PNG atualizados. Commitando: '{commit_message}'")
-            subprocess.run(["git", "commit", "-m", commit_message], check=True)
-            subprocess.run(["git", "push", PUSH_URL], check=True)
-            logger.info("Push para o GitHub concluído com sucesso.")
+            logger.info("Arquivos TXT/PNG atualizados. Commitando e enviando para o GitHub.")
+            try:
+                subprocess.run(["git", "commit", "-m", f"feat:Automated data update ({date.today()})"], check=True)
+                push_result = subprocess.run(["git", "push", PUSH_URL],check=True,capture_output=True,text=True)
+                logger.info("Push para o GitHub concluído com sucesso.")
+                logger.debug(f"Git Push STDOUT: {push_result.stdout}")
+            except subprocess.CalledProcessError as e:
+                logger.error(f"FALHA NO GIT PUSH! Status Code: {e.returncode}")
+                logger.error(f"STDERR: {e.stderr}")
+                raise 
             return True
     except subprocess.CalledProcessError as e:
         logger.error(f"Falha crítica no Git Commit/Push: {e.stderr.decode()}")
@@ -207,6 +211,8 @@ def brasileirao_update_flow(ano=ANO_CAMPEONATO, num_sim=NUM_SIMULACOES):
         logger.critical("Simulação falhou. Abortando Flow.")
         return 
     plot_success = generate_and_save_plots(ano)
+    with open('teste.txt','w+') as f:
+        f.write('conseguiu')
     if plot_success:
         commit_success = commit_and_push_data()
         if commit_success:
