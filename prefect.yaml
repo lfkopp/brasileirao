@@ -1,10 +1,12 @@
 deployments:
   - name: pipeline-brasileirao-diario
     description: Simulação de Monte Carlo e atualização diária dos dados do Brasileirão.
-    work_pool: notebooks-pool
     schedule:
       cron: "0 1 * * *"
       timezone: "America/Sao_Paulo" 
     entrypoint: flows/brasileirao_flow.py:brasileirao_update_flow 
-    job_variables:
-      image: "registry.hub.docker.com/mrkopp/brasileirao-flows:latest"
+job_variables:
+    work_pool_name: notebooks-pool 
+    image: "mrkopp/brasileirao-flows:latest" 
+    container_name: "brasileirao-flow-run-{flow_run_id}"
+    network: "pg_foco_default"
