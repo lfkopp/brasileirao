@@ -5,6 +5,10 @@ deployments:
       cron: "0 1 * * *"
       timezone: "America/Sao_Paulo" 
     entrypoint: flows/brasileirao_flow.py:brasileirao_update_flow 
+    pull:
+      - prefect.deployments.steps.git_clone:
+          repository: "https://github.com/lfkopp/brasileirao.git"
+          credentials: "{{ secrets.GITHUB_PAT }}"
     job_variables:
       work_pool_name: notebooks-pool
       image: "mrkopp/brasileirao-flows:latest"
