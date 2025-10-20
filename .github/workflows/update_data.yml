@@ -63,6 +63,9 @@ jobs:
           export PREFECT_API_AUTH_STRING=${{ secrets.PREFECT_API_AUTH_STRING }}
           
           # 2. Executa o comando de deploy, registrando a definição do Flow no Server
-          prefect deploy --prefect-file ./prefect.yaml
+          prefect deploy \
+            --work-pool notebooks-pool \
+            --prefect-file ./prefect.yaml \
+            ./flows/brasileirao_flow.py:brasileirao_update_flow
           
           echo "✅ Deployment pipeline-brasileirao-diario registrado com sucesso no Prefect Server!"
