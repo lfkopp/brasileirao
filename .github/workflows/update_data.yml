@@ -38,5 +38,5 @@ jobs:
         run: |
           export PREFECT_API_URL=${{ secrets.PREFECT_API_URL }}
           export PREFECT_API_AUTH_STRING=${{ secrets.PREFECT_API_AUTH_STRING }}
-          prefect deploy --file ./prefect.yaml
+          prefect deploy --prefect-file ./prefect.yaml
           echo "Deployment registrado com sucesso no Prefect Server!"
