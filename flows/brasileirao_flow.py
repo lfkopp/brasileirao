@@ -159,10 +159,10 @@ def generate_and_save_plots(ano: int):
     except Exception as e:
         logger.error(f"Erro na plotagem/leitura dos dados: {e}")
         raise 
-@task(name="Git_Commit_Data_Files", log_prints=True)
+
 @task(name="Git_Commit_Data_Files", log_prints=True)
 def commit_and_push_data():
-        logger = get_run_logger()
+    logger = get_run_logger()
     try:
         GIT_TOKEN = os.getenv('GIT_PUSH_TOKEN') 
         REPO_URL = "github.com/lfkopp/brasileirao.git"
