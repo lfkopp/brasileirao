@@ -10,4 +10,4 @@ job_variables:
     container_name: "brasileirao-flow-run-{flow_run_id}"
     network: "pg_foco_default"
     env:
-      GIT_PUSH_TOKEN: "{{ secrets.GITHUB_PAT_TOKEN }}"
+      GIT_PUSH_TOKEN: "{{ secrets.GITHUB_PAT }}"
