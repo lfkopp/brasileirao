@@ -22,9 +22,14 @@ jobs:
           cache: 'pip'
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Run Python script to fetch data
-        run: python brasileirao_2025.py
-      - name: Commit and push if there are changes
+      - name: Run python script
+        run: python brasileirao_2026.py
+#      - name: Upload file as artifact
+#        uses: actions/upload-artifact@v3
+#        with:
+#          name: job-result
+#          path: brasileirao_2023.txt
+      - name: Commit and push changes
         run: |
           git config user.name "lfkopp"
           git config user.email "lfkopp@gmail.com"
