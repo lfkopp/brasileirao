@@ -6,7 +6,14 @@ We are downloading the results from Brazilian National Soccer Championship ("Bra
 - We use Poisson distribution to guess the match score.
 
 
-## 2025 (under development)
+## 2026 (under development)
+![long2_2026](figs/long2_2026.png)
+![long2_stacked_2026](figs/long2_stacked_2026.png)
+![short_final_2026](figs/short_final_2026.png)
+![long3_2026](figs/long3_2026.png)
+
+
+## 2025 
 ![long2_2025](figs/long2_2025.png)
 ![long2_stacked_2025](figs/long2_stacked_2025.png)
 ![short_final_2025](figs/short_final_2025.png)
