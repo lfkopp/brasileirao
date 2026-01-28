@@ -15,8 +15,28 @@ from scipy.ndimage import gaussian_filter1d
 
 print('iniciando script')
 num_sim = 100000
-ano = 2025
+ano = 2026
 
+
+
+def pega_jogos():
+    js = []
+    times = []
+    for rodada in range(1,39):
+        jogos = requests.get(f'https://www.cbf.com.br/api/proxy?path=/jogos/campeonato/1260611/rodada/{rodada}/fase', verify=False).json()['jogos']
+        for jogo in jogos[0]['jogo']:
+            j = {'mandante':jogo['mandante']['nome'], 'visitante':jogo['visitante']['nome'],
+                'placar_mandante':jogo['mandante']['gols'], 'placar_visitante':jogo['visitante']['gols']}
+            js.append(j)
+            if rodada == 1:
+                if jogo['mandante']['nome'] not in times:
+                    times.append(jogo['mandante']['nome'])
+                if jogo['visitante']['nome'] not in times:
+                    times.append(jogo['visitante']['nome'])
+    return js, times
+
+
+#%%
 # def get_line(c):
 #     '''
 #     Extrair conteúdo do HTML da CBF e retornar em um dicionário.
@@ -46,29 +66,29 @@ ano = 2025
 #         jogos.append(line)
 #     return jogos
 
-def pega_jogos():
-    r = requests.get(f'https://jsuol.com.br/c/monaco/utils/gestor/commons.js?callback=simulador_dados_jsonp&file=commons.uol.com.br/sistemas/esporte/modalidades/futebol/campeonatos/dados/{ano}/30/dados.json', verify=False)
-    j = json.loads(r.content[22:-4])
-    equipes = {e:j['equipes'][e]['nome-comum'] for e in j['equipes']}
+# def pega_jogos():
+#     r = requests.get(f'https://jsuol.com.br/c/monaco/utils/gestor/commons.js?callback=simulador_dados_jsonp&file=commons.uol.com.br/sistemas/esporte/modalidades/futebol/campeonatos/dados/{ano}/30/dados.json', verify=False)
+#     j = json.loads(r.content[22:-4])
+#     equipes = {e:j['equipes'][e]['nome-comum'] for e in j['equipes']}
 
-    jogos = j['fases']['4139']['jogos']['id'].values()
-    jogos = [{'mandante':equipes[j['time1']],'placar_mandante':j['placar1'],
-        'visitante':equipes[j['time2']],'placar_visitante':j['placar2']
-        } for j in jogos]
-    return jogos
+#     jogos = j['fases']['4139']['jogos']['id'].values()
+#     jogos = [{'mandante':equipes[j['time1']],'placar_mandante':j['placar1'],
+#         'visitante':equipes[j['time2']],'placar_visitante':j['placar2']
+#         } for j in jogos]
+#     return jogos
 
-def get_times(jogos):
-    '''
-    Retornar lista com nomes dos times
-    '''
-    times=[]
-    for j in jogos:
-        if j['mandante'] not in times:
-            times.append(j['mandante'])
-        if j['visitante'] not in times:
-            times.append(j['visitante'])
-    times.sort()
-    return times
+# def get_times(jogos):
+#     '''
+#     Retornar lista com nomes dos times
+#     '''
+#     times=[]
+#     for j in jogos:
+#         if j['mandante'] not in times:
+#             times.append(j['mandante'])
+#         if j['visitante'] not in times:
+#             times.append(j['visitante'])
+#     times.sort()
+#     return times
 
 def gera_dados(times):
     '''
@@ -83,12 +103,7 @@ def gera_dados(times):
                             }
     return dados_time
 # %%
-jogos = pega_jogos()
-print('jogos',jogos)
-# %%
-times = get_times(jogos)
-print('times',times)
-# %%
+jogos, times = pega_jogos()
 dados_time_orig = gera_dados(times)
 print('dados_time_orig',dados_time_orig)
 # %%
