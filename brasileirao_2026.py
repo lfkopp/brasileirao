@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.ndimage import gaussian_filter1d
-
+from time import sleep
 #%% 
 
 print('iniciando script')
@@ -23,10 +23,14 @@ def pega_jogos():
     js = []
     times = []
     for rodada in range(1,39):
+        print('rodada',rodada)
         jogos = requests.get(f'https://www.cbf.com.br/api/proxy?path=/jogos/campeonato/1260611/rodada/{rodada}/fase', verify=False).json()['jogos']
+        print(jogos)
+        sleep(1)
         for jogo in jogos[0]['jogo']:
             j = {'mandante':jogo['mandante']['nome'], 'visitante':jogo['visitante']['nome'],
                 'placar_mandante':jogo['mandante']['gols'], 'placar_visitante':jogo['visitante']['gols']}
+            print('j',j)
             js.append(j)
             if rodada == 1:
                 if jogo['mandante']['nome'] not in times:
