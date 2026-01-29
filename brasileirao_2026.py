@@ -17,6 +17,13 @@ print('iniciando script')
 num_sim = 100000
 ano = 2026
 
+def pega(rodada):
+    for i in range(10):
+        try:
+            return requests.get(f'https://www.cbf.com.br/api/proxy?path=/jogos/campeonato/1260611/rodada/{rodada}/fase', verify=False).json()['jogos']
+        except:
+            print('erro ao pegar rodada',rodada,'tentativa',i+1)
+            sleep(2)
 
 
 def pega_jogos():
@@ -24,9 +31,8 @@ def pega_jogos():
     times = []
     for rodada in range(1,39):
         print('rodada',rodada)
-        jogos = requests.get(f'https://www.cbf.com.br/api/proxy?path=/jogos/campeonato/1260611/rodada/{rodada}/fase', verify=False).json()['jogos']
+        jogos = pega(rodada)
         print(jogos)
-        sleep(1)
         for jogo in jogos[0]['jogo']:
             j = {'mandante':jogo['mandante']['nome'], 'visitante':jogo['visitante']['nome'],
                 'placar_mandante':jogo['mandante']['gols'], 'placar_visitante':jogo['visitante']['gols']}
