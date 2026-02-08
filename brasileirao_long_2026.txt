@@ -4799,3 +4799,403 @@ data;time;pos;chance
 2026-02-07;Cruzeiro Saf;18;0.07143
 2026-02-07;Cruzeiro Saf;19;0.07832
 2026-02-07;Cruzeiro Saf;20;0.09019
+2026-02-08;Atlético Mineiro Saf;1;0.02878
+2026-02-08;Atlético Mineiro Saf;2;0.03376
+2026-02-08;Atlético Mineiro Saf;3;0.03631
+2026-02-08;Atlético Mineiro Saf;4;0.03854
+2026-02-08;Atlético Mineiro Saf;5;0.04097
+2026-02-08;Atlético Mineiro Saf;6;0.04315
+2026-02-08;Atlético Mineiro Saf;7;0.04521
+2026-02-08;Atlético Mineiro Saf;8;0.04605
+2026-02-08;Atlético Mineiro Saf;9;0.04677
+2026-02-08;Atlético Mineiro Saf;10;0.04992
+2026-02-08;Atlético Mineiro Saf;11;0.0511
+2026-02-08;Atlético Mineiro Saf;12;0.05183
+2026-02-08;Atlético Mineiro Saf;13;0.05373
+2026-02-08;Atlético Mineiro Saf;14;0.05565
+2026-02-08;Atlético Mineiro Saf;15;0.05714
+2026-02-08;Atlético Mineiro Saf;16;0.05881
+2026-02-08;Atlético Mineiro Saf;17;0.0611
+2026-02-08;Atlético Mineiro Saf;18;0.06264
+2026-02-08;Atlético Mineiro Saf;19;0.06642
+2026-02-08;Atlético Mineiro Saf;20;0.07212
+2026-02-08;Palmeiras;1;0.06292
+2026-02-08;Palmeiras;2;0.06219
+2026-02-08;Palmeiras;3;0.05894
+2026-02-08;Palmeiras;4;0.05671
+2026-02-08;Palmeiras;5;0.05863
+2026-02-08;Palmeiras;6;0.0556
+2026-02-08;Palmeiras;7;0.05557
+2026-02-08;Palmeiras;8;0.05451
+2026-02-08;Palmeiras;9;0.0523
+2026-02-08;Palmeiras;10;0.05213
+2026-02-08;Palmeiras;11;0.05042
+2026-02-08;Palmeiras;12;0.04783
+2026-02-08;Palmeiras;13;0.04883
+2026-02-08;Palmeiras;14;0.04641
+2026-02-08;Palmeiras;15;0.04451
+2026-02-08;Palmeiras;16;0.04356
+2026-02-08;Palmeiras;17;0.04149
+2026-02-08;Palmeiras;18;0.03874
+2026-02-08;Palmeiras;19;0.03673
+2026-02-08;Palmeiras;20;0.03198
+2026-02-08;Internacional;1;0.02823
+2026-02-08;Internacional;2;0.0331
+2026-02-08;Internacional;3;0.03645
+2026-02-08;Internacional;4;0.0387
+2026-02-08;Internacional;5;0.0402
+2026-02-08;Internacional;6;0.04243
+2026-02-08;Internacional;7;0.04457
+2026-02-08;Internacional;8;0.0465
+2026-02-08;Internacional;9;0.04682
+2026-02-08;Internacional;10;0.04902
+2026-02-08;Internacional;11;0.05023
+2026-02-08;Internacional;12;0.0516
+2026-02-08;Internacional;13;0.05445
+2026-02-08;Internacional;14;0.05511
+2026-02-08;Internacional;15;0.05719
+2026-02-08;Internacional;16;0.0586
+2026-02-08;Internacional;17;0.06189
+2026-02-08;Internacional;18;0.06454
+2026-02-08;Internacional;19;0.06816
+2026-02-08;Internacional;20;0.07221
+2026-02-08;Athletico Paranaense;1;0.08787
+2026-02-08;Athletico Paranaense;2;0.07524
+2026-02-08;Athletico Paranaense;3;0.06953
+2026-02-08;Athletico Paranaense;4;0.06505
+2026-02-08;Athletico Paranaense;5;0.06208
+2026-02-08;Athletico Paranaense;6;0.05913
+2026-02-08;Athletico Paranaense;7;0.05474
+2026-02-08;Athletico Paranaense;8;0.05255
+2026-02-08;Athletico Paranaense;9;0.0501
+2026-02-08;Athletico Paranaense;10;0.04949
+2026-02-08;Athletico Paranaense;11;0.0465
+2026-02-08;Athletico Paranaense;12;0.04495
+2026-02-08;Athletico Paranaense;13;0.04234
+2026-02-08;Athletico Paranaense;14;0.04149
+2026-02-08;Athletico Paranaense;15;0.04055
+2026-02-08;Athletico Paranaense;16;0.03644
+2026-02-08;Athletico Paranaense;17;0.03581
+2026-02-08;Athletico Paranaense;18;0.0322
+2026-02-08;Athletico Paranaense;19;0.02911
+2026-02-08;Athletico Paranaense;20;0.02483
+2026-02-08;Coritiba S.a.f.;1;0.05032
+2026-02-08;Coritiba S.a.f.;2;0.05215
+2026-02-08;Coritiba S.a.f.;3;0.05165
+2026-02-08;Coritiba S.a.f.;4;0.05328
+2026-02-08;Coritiba S.a.f.;5;0.05438
+2026-02-08;Coritiba S.a.f.;6;0.05289
+2026-02-08;Coritiba S.a.f.;7;0.05235
+2026-02-08;Coritiba S.a.f.;8;0.05215
+2026-02-08;Coritiba S.a.f.;9;0.05141
+2026-02-08;Coritiba S.a.f.;10;0.0516
+2026-02-08;Coritiba S.a.f.;11;0.05071
+2026-02-08;Coritiba S.a.f.;12;0.05111
+2026-02-08;Coritiba S.a.f.;13;0.05149
+2026-02-08;Coritiba S.a.f.;14;0.04932
+2026-02-08;Coritiba S.a.f.;15;0.04914
+2026-02-08;Coritiba S.a.f.;16;0.0483
+2026-02-08;Coritiba S.a.f.;17;0.04613
+2026-02-08;Coritiba S.a.f.;18;0.04635
+2026-02-08;Coritiba S.a.f.;19;0.04371
+2026-02-08;Coritiba S.a.f.;20;0.04156
+2026-02-08;Red Bull Bragantino;1;0.10464
+2026-02-08;Red Bull Bragantino;2;0.0877
+2026-02-08;Red Bull Bragantino;3;0.07778
+2026-02-08;Red Bull Bragantino;4;0.07182
+2026-02-08;Red Bull Bragantino;5;0.06643
+2026-02-08;Red Bull Bragantino;6;0.06113
+2026-02-08;Red Bull Bragantino;7;0.05757
+2026-02-08;Red Bull Bragantino;8;0.0535
+2026-02-08;Red Bull Bragantino;9;0.05127
+2026-02-08;Red Bull Bragantino;10;0.04728
+2026-02-08;Red Bull Bragantino;11;0.04541
+2026-02-08;Red Bull Bragantino;12;0.04174
+2026-02-08;Red Bull Bragantino;13;0.03879
+2026-02-08;Red Bull Bragantino;14;0.03623
+2026-02-08;Red Bull Bragantino;15;0.03494
+2026-02-08;Red Bull Bragantino;16;0.03134
+2026-02-08;Red Bull Bragantino;17;0.02908
+2026-02-08;Red Bull Bragantino;18;0.02506
+2026-02-08;Red Bull Bragantino;19;0.02166
+2026-02-08;Red Bull Bragantino;20;0.01663
+2026-02-08;Vitória;1;0.04912
+2026-02-08;Vitória;2;0.05214
+2026-02-08;Vitória;3;0.05325
+2026-02-08;Vitória;4;0.05315
+2026-02-08;Vitória;5;0.05067
+2026-02-08;Vitória;6;0.05145
+2026-02-08;Vitória;7;0.05152
+2026-02-08;Vitória;8;0.05133
+2026-02-08;Vitória;9;0.05119
+2026-02-08;Vitória;10;0.05081
+2026-02-08;Vitória;11;0.05182
+2026-02-08;Vitória;12;0.05191
+2026-02-08;Vitória;13;0.05116
+2026-02-08;Vitória;14;0.05015
+2026-02-08;Vitória;15;0.04873
+2026-02-08;Vitória;16;0.05061
+2026-02-08;Vitória;17;0.04826
+2026-02-08;Vitória;18;0.04629
+2026-02-08;Vitória;19;0.04441
+2026-02-08;Vitória;20;0.04203
+2026-02-08;Remo;1;0.02893
+2026-02-08;Remo;2;0.03194
+2026-02-08;Remo;3;0.03711
+2026-02-08;Remo;4;0.03857
+2026-02-08;Remo;5;0.04069
+2026-02-08;Remo;6;0.04277
+2026-02-08;Remo;7;0.04423
+2026-02-08;Remo;8;0.046
+2026-02-08;Remo;9;0.04814
+2026-02-08;Remo;10;0.05022
+2026-02-08;Remo;11;0.05158
+2026-02-08;Remo;12;0.05259
+2026-02-08;Remo;13;0.05321
+2026-02-08;Remo;14;0.05477
+2026-02-08;Remo;15;0.05721
+2026-02-08;Remo;16;0.05905
+2026-02-08;Remo;17;0.06082
+2026-02-08;Remo;18;0.06223
+2026-02-08;Remo;19;0.06783
+2026-02-08;Remo;20;0.07211
+2026-02-08;Fluminense;1;0.06514
+2026-02-08;Fluminense;2;0.06037
+2026-02-08;Fluminense;3;0.06121
+2026-02-08;Fluminense;4;0.05745
+2026-02-08;Fluminense;5;0.05643
+2026-02-08;Fluminense;6;0.05526
+2026-02-08;Fluminense;7;0.05539
+2026-02-08;Fluminense;8;0.05252
+2026-02-08;Fluminense;9;0.05125
+2026-02-08;Fluminense;10;0.05176
+2026-02-08;Fluminense;11;0.04998
+2026-02-08;Fluminense;12;0.04996
+2026-02-08;Fluminense;13;0.04692
+2026-02-08;Fluminense;14;0.04627
+2026-02-08;Fluminense;15;0.04491
+2026-02-08;Fluminense;16;0.04367
+2026-02-08;Fluminense;17;0.04243
+2026-02-08;Fluminense;18;0.03964
+2026-02-08;Fluminense;19;0.03684
+2026-02-08;Fluminense;20;0.0326
+2026-02-08;Grêmio;1;0.05166
+2026-02-08;Grêmio;2;0.05224
+2026-02-08;Grêmio;3;0.05337
+2026-02-08;Grêmio;4;0.05245
+2026-02-08;Grêmio;5;0.05254
+2026-02-08;Grêmio;6;0.05305
+2026-02-08;Grêmio;7;0.05272
+2026-02-08;Grêmio;8;0.05226
+2026-02-08;Grêmio;9;0.05153
+2026-02-08;Grêmio;10;0.05088
+2026-02-08;Grêmio;11;0.05048
+2026-02-08;Grêmio;12;0.05108
+2026-02-08;Grêmio;13;0.04897
+2026-02-08;Grêmio;14;0.05021
+2026-02-08;Grêmio;15;0.04819
+2026-02-08;Grêmio;16;0.04862
+2026-02-08;Grêmio;17;0.0477
+2026-02-08;Grêmio;18;0.0467
+2026-02-08;Grêmio;19;0.04432
+2026-02-08;Grêmio;20;0.04103
+2026-02-08;Corinthians;1;0.02828
+2026-02-08;Corinthians;2;0.03336
+2026-02-08;Corinthians;3;0.03538
+2026-02-08;Corinthians;4;0.03813
+2026-02-08;Corinthians;5;0.03976
+2026-02-08;Corinthians;6;0.04181
+2026-02-08;Corinthians;7;0.0442
+2026-02-08;Corinthians;8;0.04403
+2026-02-08;Corinthians;9;0.04707
+2026-02-08;Corinthians;10;0.04694
+2026-02-08;Corinthians;11;0.04929
+2026-02-08;Corinthians;12;0.05211
+2026-02-08;Corinthians;13;0.05417
+2026-02-08;Corinthians;14;0.05422
+2026-02-08;Corinthians;15;0.05725
+2026-02-08;Corinthians;16;0.05876
+2026-02-08;Corinthians;17;0.06152
+2026-02-08;Corinthians;18;0.06593
+2026-02-08;Corinthians;19;0.06983
+2026-02-08;Corinthians;20;0.07796
+2026-02-08;Bahia;1;0.06312
+2026-02-08;Bahia;2;0.06146
+2026-02-08;Bahia;3;0.06001
+2026-02-08;Bahia;4;0.05732
+2026-02-08;Bahia;5;0.05612
+2026-02-08;Bahia;6;0.0557
+2026-02-08;Bahia;7;0.05554
+2026-02-08;Bahia;8;0.05516
+2026-02-08;Bahia;9;0.05283
+2026-02-08;Bahia;10;0.0513
+2026-02-08;Bahia;11;0.05015
+2026-02-08;Bahia;12;0.04912
+2026-02-08;Bahia;13;0.0473
+2026-02-08;Bahia;14;0.04663
+2026-02-08;Bahia;15;0.04524
+2026-02-08;Bahia;16;0.04272
+2026-02-08;Bahia;17;0.04205
+2026-02-08;Bahia;18;0.03948
+2026-02-08;Bahia;19;0.03667
+2026-02-08;Bahia;20;0.03208
+2026-02-08;Chapecoense;1;0.06294
+2026-02-08;Chapecoense;2;0.06172
+2026-02-08;Chapecoense;3;0.05945
+2026-02-08;Chapecoense;4;0.05857
+2026-02-08;Chapecoense;5;0.05702
+2026-02-08;Chapecoense;6;0.0562
+2026-02-08;Chapecoense;7;0.05522
+2026-02-08;Chapecoense;8;0.0534
+2026-02-08;Chapecoense;9;0.05218
+2026-02-08;Chapecoense;10;0.05218
+2026-02-08;Chapecoense;11;0.05088
+2026-02-08;Chapecoense;12;0.04899
+2026-02-08;Chapecoense;13;0.04729
+2026-02-08;Chapecoense;14;0.04557
+2026-02-08;Chapecoense;15;0.04495
+2026-02-08;Chapecoense;16;0.04387
+2026-02-08;Chapecoense;17;0.04216
+2026-02-08;Chapecoense;18;0.039
+2026-02-08;Chapecoense;19;0.03663
+2026-02-08;Chapecoense;20;0.03178
+2026-02-08;Santos Fc;1;0.02883
+2026-02-08;Santos Fc;2;0.03424
+2026-02-08;Santos Fc;3;0.03578
+2026-02-08;Santos Fc;4;0.03948
+2026-02-08;Santos Fc;5;0.03978
+2026-02-08;Santos Fc;6;0.04211
+2026-02-08;Santos Fc;7;0.04339
+2026-02-08;Santos Fc;8;0.04536
+2026-02-08;Santos Fc;9;0.04771
+2026-02-08;Santos Fc;10;0.04931
+2026-02-08;Santos Fc;11;0.05127
+2026-02-08;Santos Fc;12;0.05146
+2026-02-08;Santos Fc;13;0.05463
+2026-02-08;Santos Fc;14;0.05559
+2026-02-08;Santos Fc;15;0.05666
+2026-02-08;Santos Fc;16;0.05901
+2026-02-08;Santos Fc;17;0.06086
+2026-02-08;Santos Fc;18;0.06412
+2026-02-08;Santos Fc;19;0.06879
+2026-02-08;Santos Fc;20;0.07162
+2026-02-08;São Paulo;1;0.06423
+2026-02-08;São Paulo;2;0.06175
+2026-02-08;São Paulo;3;0.06004
+2026-02-08;São Paulo;4;0.05951
+2026-02-08;São Paulo;5;0.05829
+2026-02-08;São Paulo;6;0.05513
+2026-02-08;São Paulo;7;0.0538
+2026-02-08;São Paulo;8;0.05406
+2026-02-08;São Paulo;9;0.05149
+2026-02-08;São Paulo;10;0.05155
+2026-02-08;São Paulo;11;0.04994
+2026-02-08;São Paulo;12;0.0477
+2026-02-08;São Paulo;13;0.04813
+2026-02-08;São Paulo;14;0.04641
+2026-02-08;São Paulo;15;0.04551
+2026-02-08;São Paulo;16;0.04355
+2026-02-08;São Paulo;17;0.04018
+2026-02-08;São Paulo;18;0.03987
+2026-02-08;São Paulo;19;0.03711
+2026-02-08;São Paulo;20;0.03175
+2026-02-08;Flamengo;1;0.02835
+2026-02-08;Flamengo;2;0.03387
+2026-02-08;Flamengo;3;0.03623
+2026-02-08;Flamengo;4;0.03935
+2026-02-08;Flamengo;5;0.04028
+2026-02-08;Flamengo;6;0.04265
+2026-02-08;Flamengo;7;0.04432
+2026-02-08;Flamengo;8;0.04491
+2026-02-08;Flamengo;9;0.04796
+2026-02-08;Flamengo;10;0.04939
+2026-02-08;Flamengo;11;0.05087
+2026-02-08;Flamengo;12;0.05207
+2026-02-08;Flamengo;13;0.05383
+2026-02-08;Flamengo;14;0.05544
+2026-02-08;Flamengo;15;0.05756
+2026-02-08;Flamengo;16;0.05958
+2026-02-08;Flamengo;17;0.06192
+2026-02-08;Flamengo;18;0.06367
+2026-02-08;Flamengo;19;0.06648
+2026-02-08;Flamengo;20;0.07127
+2026-02-08;Mirassol;1;0.0641
+2026-02-08;Mirassol;2;0.061
+2026-02-08;Mirassol;3;0.05893
+2026-02-08;Mirassol;4;0.05809
+2026-02-08;Mirassol;5;0.05705
+2026-02-08;Mirassol;6;0.05612
+2026-02-08;Mirassol;7;0.0541
+2026-02-08;Mirassol;8;0.05342
+2026-02-08;Mirassol;9;0.05441
+2026-02-08;Mirassol;10;0.05173
+2026-02-08;Mirassol;11;0.05035
+2026-02-08;Mirassol;12;0.04908
+2026-02-08;Mirassol;13;0.04801
+2026-02-08;Mirassol;14;0.04733
+2026-02-08;Mirassol;15;0.04439
+2026-02-08;Mirassol;16;0.04236
+2026-02-08;Mirassol;17;0.04261
+2026-02-08;Mirassol;18;0.03939
+2026-02-08;Mirassol;19;0.03518
+2026-02-08;Mirassol;20;0.03235
+2026-02-08;Vasco da Gama Saf;1;0.02889
+2026-02-08;Vasco da Gama Saf;2;0.03352
+2026-02-08;Vasco da Gama Saf;3;0.03626
+2026-02-08;Vasco da Gama Saf;4;0.038
+2026-02-08;Vasco da Gama Saf;5;0.04106
+2026-02-08;Vasco da Gama Saf;6;0.04278
+2026-02-08;Vasco da Gama Saf;7;0.04461
+2026-02-08;Vasco da Gama Saf;8;0.04572
+2026-02-08;Vasco da Gama Saf;9;0.04822
+2026-02-08;Vasco da Gama Saf;10;0.0478
+2026-02-08;Vasco da Gama Saf;11;0.04907
+2026-02-08;Vasco da Gama Saf;12;0.05316
+2026-02-08;Vasco da Gama Saf;13;0.05348
+2026-02-08;Vasco da Gama Saf;14;0.05527
+2026-02-08;Vasco da Gama Saf;15;0.0569
+2026-02-08;Vasco da Gama Saf;16;0.05985
+2026-02-08;Vasco da Gama Saf;17;0.06086
+2026-02-08;Vasco da Gama Saf;18;0.06433
+2026-02-08;Vasco da Gama Saf;19;0.06749
+2026-02-08;Vasco da Gama Saf;20;0.07273
+2026-02-08;Botafogo;1;0.05207
+2026-02-08;Botafogo;2;0.05259
+2026-02-08;Botafogo;3;0.05248
+2026-02-08;Botafogo;4;0.05338
+2026-02-08;Botafogo;5;0.05193
+2026-02-08;Botafogo;6;0.05253
+2026-02-08;Botafogo;7;0.05175
+2026-02-08;Botafogo;8;0.0528
+2026-02-08;Botafogo;9;0.05253
+2026-02-08;Botafogo;10;0.05118
+2026-02-08;Botafogo;11;0.0506
+2026-02-08;Botafogo;12;0.05067
+2026-02-08;Botafogo;13;0.05045
+2026-02-08;Botafogo;14;0.0506
+2026-02-08;Botafogo;15;0.04999
+2026-02-08;Botafogo;16;0.04807
+2026-02-08;Botafogo;17;0.04589
+2026-02-08;Botafogo;18;0.04604
+2026-02-08;Botafogo;19;0.04374
+2026-02-08;Botafogo;20;0.04071
+2026-02-08;Cruzeiro Saf;1;0.02158
+2026-02-08;Cruzeiro Saf;2;0.02566
+2026-02-08;Cruzeiro Saf;3;0.02984
+2026-02-08;Cruzeiro Saf;4;0.03245
+2026-02-08;Cruzeiro Saf;5;0.03569
+2026-02-08;Cruzeiro Saf;6;0.03811
+2026-02-08;Cruzeiro Saf;7;0.0392
+2026-02-08;Cruzeiro Saf;8;0.04377
+2026-02-08;Cruzeiro Saf;9;0.04482
+2026-02-08;Cruzeiro Saf;10;0.04551
+2026-02-08;Cruzeiro Saf;11;0.04935
+2026-02-08;Cruzeiro Saf;12;0.05104
+2026-02-08;Cruzeiro Saf;13;0.05282
+2026-02-08;Cruzeiro Saf;14;0.05733
+2026-02-08;Cruzeiro Saf;15;0.05904
+2026-02-08;Cruzeiro Saf;16;0.06323
+2026-02-08;Cruzeiro Saf;17;0.06724
+2026-02-08;Cruzeiro Saf;18;0.07378
+2026-02-08;Cruzeiro Saf;19;0.07889
+2026-02-08;Cruzeiro Saf;20;0.09065
