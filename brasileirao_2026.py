@@ -25,7 +25,12 @@ def pega(rodada):
             print('erro ao pegar rodada',rodada,'tentativa',i+1)
             sleep(2)
 
-
+def limpa_nome(nome):
+    if nome:
+        return nome.replace(' Saf','').replace(' S.a.f.','').replace(' Fc','')
+    else:
+        return None
+        
 def pega_jogos():
     js = []
     times = []
@@ -34,15 +39,15 @@ def pega_jogos():
         jogos = pega(rodada)
         print(jogos)
         for jogo in jogos[0]['jogo']:
-            j = {'mandante':jogo['mandante']['nome'], 'visitante':jogo['visitante']['nome'],
+            j = {'mandante':limpa_nome(jogo['mandante']['nome']), 'visitante':limpa_nome(jogo['visitante']['nome']),
                 'placar_mandante':jogo['mandante']['gols'], 'placar_visitante':jogo['visitante']['gols']}
             print('j',j)
             js.append(j)
             if rodada == 1:
-                if jogo['mandante']['nome'] not in times:
-                    times.append(jogo['mandante']['nome'])
-                if jogo['visitante']['nome'] not in times:
-                    times.append(jogo['visitante']['nome'])
+                if limpa_nome(jogo['mandante']['nome']) not in times:
+                    times.append(limpa_nome(jogo['mandante']['nome']))
+                if limpa_nome(jogo['visitante']['nome']) not in times:
+                    times.append(limpa_nome(jogo['visitante']['nome']))
     return js, times
 
 
@@ -106,9 +111,9 @@ def gera_dados(times):
     '''
     dados_time = {}
     for t in times:
-        dados_time[t] = {   'nome':t,
+        dados_time[t] = {   'nome':limpa_nome(t),
                             'pontos':0,
-                            'saldo_gols':0, ## gols pró mandante
+                            'saldo_gols':0, 
                             'vitorias':0,
                             }
     return dados_time
