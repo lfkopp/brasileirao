@@ -1,24 +1,24 @@
 data;time;pos;chance
-2026-01-28;Atlético Mineiro Saf;1;0.05047
-2026-01-28;Atlético Mineiro Saf;2;0.04997
-2026-01-28;Atlético Mineiro Saf;3;0.04979
-2026-01-28;Atlético Mineiro Saf;4;0.05003
-2026-01-28;Atlético Mineiro Saf;5;0.04981
-2026-01-28;Atlético Mineiro Saf;6;0.05065
-2026-01-28;Atlético Mineiro Saf;7;0.04914
-2026-01-28;Atlético Mineiro Saf;8;0.0486
-2026-01-28;Atlético Mineiro Saf;9;0.05096
-2026-01-28;Atlético Mineiro Saf;10;0.05128
-2026-01-28;Atlético Mineiro Saf;11;0.05044
-2026-01-28;Atlético Mineiro Saf;12;0.0506
-2026-01-28;Atlético Mineiro Saf;13;0.04927
-2026-01-28;Atlético Mineiro Saf;14;0.0505
-2026-01-28;Atlético Mineiro Saf;15;0.04918
-2026-01-28;Atlético Mineiro Saf;16;0.05
-2026-01-28;Atlético Mineiro Saf;17;0.04894
-2026-01-28;Atlético Mineiro Saf;18;0.05141
-2026-01-28;Atlético Mineiro Saf;19;0.04885
-2026-01-28;Atlético Mineiro Saf;20;0.05011
+2026-01-28;Atlético Mineiro;1;0.05047
+2026-01-28;Atlético Mineiro;2;0.04997
+2026-01-28;Atlético Mineiro;3;0.04979
+2026-01-28;Atlético Mineiro;4;0.05003
+2026-01-28;Atlético Mineiro;5;0.04981
+2026-01-28;Atlético Mineiro;6;0.05065
+2026-01-28;Atlético Mineiro;7;0.04914
+2026-01-28;Atlético Mineiro;8;0.0486
+2026-01-28;Atlético Mineiro;9;0.05096
+2026-01-28;Atlético Mineiro;10;0.05128
+2026-01-28;Atlético Mineiro;11;0.05044
+2026-01-28;Atlético Mineiro;12;0.0506
+2026-01-28;Atlético Mineiro;13;0.04927
+2026-01-28;Atlético Mineiro;14;0.0505
+2026-01-28;Atlético Mineiro;15;0.04918
+2026-01-28;Atlético Mineiro;16;0.05
+2026-01-28;Atlético Mineiro;17;0.04894
+2026-01-28;Atlético Mineiro;18;0.05141
+2026-01-28;Atlético Mineiro;19;0.04885
+2026-01-28;Atlético Mineiro;20;0.05011
 2026-01-28;Palmeiras;1;0.05001
 2026-01-28;Palmeiras;2;0.04998
 2026-01-28;Palmeiras;3;0.05221
@@ -379,46 +379,46 @@ data;time;pos;chance
 2026-01-28;Botafogo;18;0.04952
 2026-01-28;Botafogo;19;0.05013
 2026-01-28;Botafogo;20;0.05059
-2026-01-28;Cruzeiro Saf;1;0.0497
-2026-01-28;Cruzeiro Saf;2;0.05082
-2026-01-28;Cruzeiro Saf;3;0.05025
-2026-01-28;Cruzeiro Saf;4;0.04968
-2026-01-28;Cruzeiro Saf;5;0.04937
-2026-01-28;Cruzeiro Saf;6;0.05043
-2026-01-28;Cruzeiro Saf;7;0.05059
-2026-01-28;Cruzeiro Saf;8;0.05063
-2026-01-28;Cruzeiro Saf;9;0.0499
-2026-01-28;Cruzeiro Saf;10;0.0492
-2026-01-28;Cruzeiro Saf;11;0.05061
-2026-01-28;Cruzeiro Saf;12;0.04993
-2026-01-28;Cruzeiro Saf;13;0.04875
-2026-01-28;Cruzeiro Saf;14;0.05014
-2026-01-28;Cruzeiro Saf;15;0.04934
-2026-01-28;Cruzeiro Saf;16;0.05009
-2026-01-28;Cruzeiro Saf;17;0.05026
-2026-01-28;Cruzeiro Saf;18;0.05049
-2026-01-28;Cruzeiro Saf;19;0.05008
-2026-01-28;Cruzeiro Saf;20;0.04974
-2026-01-29;Atlético Mineiro Saf;1;0.04969
-2026-01-29;Atlético Mineiro Saf;2;0.0497
-2026-01-29;Atlético Mineiro Saf;3;0.0513
-2026-01-29;Atlético Mineiro Saf;4;0.05139
-2026-01-29;Atlético Mineiro Saf;5;0.04897
-2026-01-29;Atlético Mineiro Saf;6;0.04995
-2026-01-29;Atlético Mineiro Saf;7;0.04981
-2026-01-29;Atlético Mineiro Saf;8;0.0494
-2026-01-29;Atlético Mineiro Saf;9;0.04973
-2026-01-29;Atlético Mineiro Saf;10;0.05106
-2026-01-29;Atlético Mineiro Saf;11;0.04815
-2026-01-29;Atlético Mineiro Saf;12;0.05091
-2026-01-29;Atlético Mineiro Saf;13;0.0503
-2026-01-29;Atlético Mineiro Saf;14;0.05015
-2026-01-29;Atlético Mineiro Saf;15;0.05034
-2026-01-29;Atlético Mineiro Saf;16;0.05061
-2026-01-29;Atlético Mineiro Saf;17;0.04944
-2026-01-29;Atlético Mineiro Saf;18;0.0504
-2026-01-29;Atlético Mineiro Saf;19;0.04932
-2026-01-29;Atlético Mineiro Saf;20;0.04938
+2026-01-28;Cruzeiro;1;0.0497
+2026-01-28;Cruzeiro;2;0.05082
+2026-01-28;Cruzeiro;3;0.05025
+2026-01-28;Cruzeiro;4;0.04968
+2026-01-28;Cruzeiro;5;0.04937
+2026-01-28;Cruzeiro;6;0.05043
+2026-01-28;Cruzeiro;7;0.05059
+2026-01-28;Cruzeiro;8;0.05063
+2026-01-28;Cruzeiro;9;0.0499
+2026-01-28;Cruzeiro;10;0.0492
+2026-01-28;Cruzeiro;11;0.05061
+2026-01-28;Cruzeiro;12;0.04993
+2026-01-28;Cruzeiro;13;0.04875
+2026-01-28;Cruzeiro;14;0.05014
+2026-01-28;Cruzeiro;15;0.04934
+2026-01-28;Cruzeiro;16;0.05009
+2026-01-28;Cruzeiro;17;0.05026
+2026-01-28;Cruzeiro;18;0.05049
+2026-01-28;Cruzeiro;19;0.05008
+2026-01-28;Cruzeiro;20;0.04974
+2026-01-29;Atlético Mineiro;1;0.04969
+2026-01-29;Atlético Mineiro;2;0.0497
+2026-01-29;Atlético Mineiro;3;0.0513
+2026-01-29;Atlético Mineiro;4;0.05139
+2026-01-29;Atlético Mineiro;5;0.04897
+2026-01-29;Atlético Mineiro;6;0.04995
+2026-01-29;Atlético Mineiro;7;0.04981
+2026-01-29;Atlético Mineiro;8;0.0494
+2026-01-29;Atlético Mineiro;9;0.04973
+2026-01-29;Atlético Mineiro;10;0.05106
+2026-01-29;Atlético Mineiro;11;0.04815
+2026-01-29;Atlético Mineiro;12;0.05091
+2026-01-29;Atlético Mineiro;13;0.0503
+2026-01-29;Atlético Mineiro;14;0.05015
+2026-01-29;Atlético Mineiro;15;0.05034
+2026-01-29;Atlético Mineiro;16;0.05061
+2026-01-29;Atlético Mineiro;17;0.04944
+2026-01-29;Atlético Mineiro;18;0.0504
+2026-01-29;Atlético Mineiro;19;0.04932
+2026-01-29;Atlético Mineiro;20;0.04938
 2026-01-29;Palmeiras;1;0.04961
 2026-01-29;Palmeiras;2;0.05054
 2026-01-29;Palmeiras;3;0.05091
@@ -779,46 +779,46 @@ data;time;pos;chance
 2026-01-29;Botafogo;18;0.05087
 2026-01-29;Botafogo;19;0.05135
 2026-01-29;Botafogo;20;0.04954
-2026-01-29;Cruzeiro Saf;1;0.04972
-2026-01-29;Cruzeiro Saf;2;0.05021
-2026-01-29;Cruzeiro Saf;3;0.04922
-2026-01-29;Cruzeiro Saf;4;0.04946
-2026-01-29;Cruzeiro Saf;5;0.05067
-2026-01-29;Cruzeiro Saf;6;0.05035
-2026-01-29;Cruzeiro Saf;7;0.04906
-2026-01-29;Cruzeiro Saf;8;0.05051
-2026-01-29;Cruzeiro Saf;9;0.05038
-2026-01-29;Cruzeiro Saf;10;0.05025
-2026-01-29;Cruzeiro Saf;11;0.04877
-2026-01-29;Cruzeiro Saf;12;0.05054
-2026-01-29;Cruzeiro Saf;13;0.05
-2026-01-29;Cruzeiro Saf;14;0.0504
-2026-01-29;Cruzeiro Saf;15;0.05032
-2026-01-29;Cruzeiro Saf;16;0.04956
-2026-01-29;Cruzeiro Saf;17;0.0508
-2026-01-29;Cruzeiro Saf;18;0.0509
-2026-01-29;Cruzeiro Saf;19;0.04961
-2026-01-29;Cruzeiro Saf;20;0.04927
-2026-01-29;Atlético Mineiro Saf;1;0.03501
-2026-01-29;Atlético Mineiro Saf;2;0.03743
-2026-01-29;Atlético Mineiro Saf;3;0.04035
-2026-01-29;Atlético Mineiro Saf;4;0.04175
-2026-01-29;Atlético Mineiro Saf;5;0.04434
-2026-01-29;Atlético Mineiro Saf;6;0.04503
-2026-01-29;Atlético Mineiro Saf;7;0.0465
-2026-01-29;Atlético Mineiro Saf;8;0.04738
-2026-01-29;Atlético Mineiro Saf;9;0.04974
-2026-01-29;Atlético Mineiro Saf;10;0.04882
-2026-01-29;Atlético Mineiro Saf;11;0.05113
-2026-01-29;Atlético Mineiro Saf;12;0.05211
-2026-01-29;Atlético Mineiro Saf;13;0.05259
-2026-01-29;Atlético Mineiro Saf;14;0.055
-2026-01-29;Atlético Mineiro Saf;15;0.05461
-2026-01-29;Atlético Mineiro Saf;16;0.05648
-2026-01-29;Atlético Mineiro Saf;17;0.05793
-2026-01-29;Atlético Mineiro Saf;18;0.06016
-2026-01-29;Atlético Mineiro Saf;19;0.06014
-2026-01-29;Atlético Mineiro Saf;20;0.0635
+2026-01-29;Cruzeiro;1;0.04972
+2026-01-29;Cruzeiro;2;0.05021
+2026-01-29;Cruzeiro;3;0.04922
+2026-01-29;Cruzeiro;4;0.04946
+2026-01-29;Cruzeiro;5;0.05067
+2026-01-29;Cruzeiro;6;0.05035
+2026-01-29;Cruzeiro;7;0.04906
+2026-01-29;Cruzeiro;8;0.05051
+2026-01-29;Cruzeiro;9;0.05038
+2026-01-29;Cruzeiro;10;0.05025
+2026-01-29;Cruzeiro;11;0.04877
+2026-01-29;Cruzeiro;12;0.05054
+2026-01-29;Cruzeiro;13;0.05
+2026-01-29;Cruzeiro;14;0.0504
+2026-01-29;Cruzeiro;15;0.05032
+2026-01-29;Cruzeiro;16;0.04956
+2026-01-29;Cruzeiro;17;0.0508
+2026-01-29;Cruzeiro;18;0.0509
+2026-01-29;Cruzeiro;19;0.04961
+2026-01-29;Cruzeiro;20;0.04927
+2026-01-29;Atlético Mineiro;1;0.03501
+2026-01-29;Atlético Mineiro;2;0.03743
+2026-01-29;Atlético Mineiro;3;0.04035
+2026-01-29;Atlético Mineiro;4;0.04175
+2026-01-29;Atlético Mineiro;5;0.04434
+2026-01-29;Atlético Mineiro;6;0.04503
+2026-01-29;Atlético Mineiro;7;0.0465
+2026-01-29;Atlético Mineiro;8;0.04738
+2026-01-29;Atlético Mineiro;9;0.04974
+2026-01-29;Atlético Mineiro;10;0.04882
+2026-01-29;Atlético Mineiro;11;0.05113
+2026-01-29;Atlético Mineiro;12;0.05211
+2026-01-29;Atlético Mineiro;13;0.05259
+2026-01-29;Atlético Mineiro;14;0.055
+2026-01-29;Atlético Mineiro;15;0.05461
+2026-01-29;Atlético Mineiro;16;0.05648
+2026-01-29;Atlético Mineiro;17;0.05793
+2026-01-29;Atlético Mineiro;18;0.06016
+2026-01-29;Atlético Mineiro;19;0.06014
+2026-01-29;Atlético Mineiro;20;0.0635
 2026-01-29;Palmeiras;1;0.04842
 2026-01-29;Palmeiras;2;0.05094
 2026-01-29;Palmeiras;3;0.05028
@@ -1179,46 +1179,46 @@ data;time;pos;chance
 2026-01-29;Botafogo;18;0.05014
 2026-01-29;Botafogo;19;0.05037
 2026-01-29;Botafogo;20;0.04916
-2026-01-29;Cruzeiro Saf;1;0.04911
-2026-01-29;Cruzeiro Saf;2;0.04933
-2026-01-29;Cruzeiro Saf;3;0.04948
-2026-01-29;Cruzeiro Saf;4;0.04956
-2026-01-29;Cruzeiro Saf;5;0.05066
-2026-01-29;Cruzeiro Saf;6;0.0498
-2026-01-29;Cruzeiro Saf;7;0.04912
-2026-01-29;Cruzeiro Saf;8;0.05001
-2026-01-29;Cruzeiro Saf;9;0.05036
-2026-01-29;Cruzeiro Saf;10;0.0507
-2026-01-29;Cruzeiro Saf;11;0.05036
-2026-01-29;Cruzeiro Saf;12;0.05019
-2026-01-29;Cruzeiro Saf;13;0.05032
-2026-01-29;Cruzeiro Saf;14;0.04969
-2026-01-29;Cruzeiro Saf;15;0.05079
-2026-01-29;Cruzeiro Saf;16;0.0502
-2026-01-29;Cruzeiro Saf;17;0.05006
-2026-01-29;Cruzeiro Saf;18;0.04973
-2026-01-29;Cruzeiro Saf;19;0.0518
-2026-01-29;Cruzeiro Saf;20;0.04873
-2026-01-30;Atlético Mineiro Saf;1;0.03458
-2026-01-30;Atlético Mineiro Saf;2;0.03759
-2026-01-30;Atlético Mineiro Saf;3;0.03977
-2026-01-30;Atlético Mineiro Saf;4;0.04144
-2026-01-30;Atlético Mineiro Saf;5;0.04327
-2026-01-30;Atlético Mineiro Saf;6;0.04617
-2026-01-30;Atlético Mineiro Saf;7;0.04667
-2026-01-30;Atlético Mineiro Saf;8;0.04758
-2026-01-30;Atlético Mineiro Saf;9;0.04937
-2026-01-30;Atlético Mineiro Saf;10;0.05001
-2026-01-30;Atlético Mineiro Saf;11;0.05023
-2026-01-30;Atlético Mineiro Saf;12;0.05127
-2026-01-30;Atlético Mineiro Saf;13;0.05325
-2026-01-30;Atlético Mineiro Saf;14;0.05383
-2026-01-30;Atlético Mineiro Saf;15;0.05421
-2026-01-30;Atlético Mineiro Saf;16;0.05693
-2026-01-30;Atlético Mineiro Saf;17;0.05892
-2026-01-30;Atlético Mineiro Saf;18;0.05967
-2026-01-30;Atlético Mineiro Saf;19;0.06103
-2026-01-30;Atlético Mineiro Saf;20;0.06421
+2026-01-29;Cruzeiro;1;0.04911
+2026-01-29;Cruzeiro;2;0.04933
+2026-01-29;Cruzeiro;3;0.04948
+2026-01-29;Cruzeiro;4;0.04956
+2026-01-29;Cruzeiro;5;0.05066
+2026-01-29;Cruzeiro;6;0.0498
+2026-01-29;Cruzeiro;7;0.04912
+2026-01-29;Cruzeiro;8;0.05001
+2026-01-29;Cruzeiro;9;0.05036
+2026-01-29;Cruzeiro;10;0.0507
+2026-01-29;Cruzeiro;11;0.05036
+2026-01-29;Cruzeiro;12;0.05019
+2026-01-29;Cruzeiro;13;0.05032
+2026-01-29;Cruzeiro;14;0.04969
+2026-01-29;Cruzeiro;15;0.05079
+2026-01-29;Cruzeiro;16;0.0502
+2026-01-29;Cruzeiro;17;0.05006
+2026-01-29;Cruzeiro;18;0.04973
+2026-01-29;Cruzeiro;19;0.0518
+2026-01-29;Cruzeiro;20;0.04873
+2026-01-30;Atlético Mineiro;1;0.03458
+2026-01-30;Atlético Mineiro;2;0.03759
+2026-01-30;Atlético Mineiro;3;0.03977
+2026-01-30;Atlético Mineiro;4;0.04144
+2026-01-30;Atlético Mineiro;5;0.04327
+2026-01-30;Atlético Mineiro;6;0.04617
+2026-01-30;Atlético Mineiro;7;0.04667
+2026-01-30;Atlético Mineiro;8;0.04758
+2026-01-30;Atlético Mineiro;9;0.04937
+2026-01-30;Atlético Mineiro;10;0.05001
+2026-01-30;Atlético Mineiro;11;0.05023
+2026-01-30;Atlético Mineiro;12;0.05127
+2026-01-30;Atlético Mineiro;13;0.05325
+2026-01-30;Atlético Mineiro;14;0.05383
+2026-01-30;Atlético Mineiro;15;0.05421
+2026-01-30;Atlético Mineiro;16;0.05693
+2026-01-30;Atlético Mineiro;17;0.05892
+2026-01-30;Atlético Mineiro;18;0.05967
+2026-01-30;Atlético Mineiro;19;0.06103
+2026-01-30;Atlético Mineiro;20;0.06421
 2026-01-30;Palmeiras;1;0.04999
 2026-01-30;Palmeiras;2;0.04948
 2026-01-30;Palmeiras;3;0.04983
@@ -1579,46 +1579,46 @@ data;time;pos;chance
 2026-01-30;Botafogo;18;0.04066
 2026-01-30;Botafogo;19;0.03992
 2026-01-30;Botafogo;20;0.03636
-2026-01-30;Cruzeiro Saf;1;0.03675
-2026-01-30;Cruzeiro Saf;2;0.04137
-2026-01-30;Cruzeiro Saf;3;0.04219
-2026-01-30;Cruzeiro Saf;4;0.04593
-2026-01-30;Cruzeiro Saf;5;0.04525
-2026-01-30;Cruzeiro Saf;6;0.04714
-2026-01-30;Cruzeiro Saf;7;0.04792
-2026-01-30;Cruzeiro Saf;8;0.04873
-2026-01-30;Cruzeiro Saf;9;0.04994
-2026-01-30;Cruzeiro Saf;10;0.05034
-2026-01-30;Cruzeiro Saf;11;0.05103
-2026-01-30;Cruzeiro Saf;12;0.05176
-2026-01-30;Cruzeiro Saf;13;0.05107
-2026-01-30;Cruzeiro Saf;14;0.05327
-2026-01-30;Cruzeiro Saf;15;0.05497
-2026-01-30;Cruzeiro Saf;16;0.05412
-2026-01-30;Cruzeiro Saf;17;0.05413
-2026-01-30;Cruzeiro Saf;18;0.05679
-2026-01-30;Cruzeiro Saf;19;0.05677
-2026-01-30;Cruzeiro Saf;20;0.06053
-2026-01-31;Atlético Mineiro Saf;1;0.03487
-2026-01-31;Atlético Mineiro Saf;2;0.03801
-2026-01-31;Atlético Mineiro Saf;3;0.03865
-2026-01-31;Atlético Mineiro Saf;4;0.04247
-2026-01-31;Atlético Mineiro Saf;5;0.04383
-2026-01-31;Atlético Mineiro Saf;6;0.04534
-2026-01-31;Atlético Mineiro Saf;7;0.04621
-2026-01-31;Atlético Mineiro Saf;8;0.04785
-2026-01-31;Atlético Mineiro Saf;9;0.0479
-2026-01-31;Atlético Mineiro Saf;10;0.0492
-2026-01-31;Atlético Mineiro Saf;11;0.05013
-2026-01-31;Atlético Mineiro Saf;12;0.05286
-2026-01-31;Atlético Mineiro Saf;13;0.05354
-2026-01-31;Atlético Mineiro Saf;14;0.05392
-2026-01-31;Atlético Mineiro Saf;15;0.05577
-2026-01-31;Atlético Mineiro Saf;16;0.05567
-2026-01-31;Atlético Mineiro Saf;17;0.05882
-2026-01-31;Atlético Mineiro Saf;18;0.05939
-2026-01-31;Atlético Mineiro Saf;19;0.06121
-2026-01-31;Atlético Mineiro Saf;20;0.06436
+2026-01-30;Cruzeiro;1;0.03675
+2026-01-30;Cruzeiro;2;0.04137
+2026-01-30;Cruzeiro;3;0.04219
+2026-01-30;Cruzeiro;4;0.04593
+2026-01-30;Cruzeiro;5;0.04525
+2026-01-30;Cruzeiro;6;0.04714
+2026-01-30;Cruzeiro;7;0.04792
+2026-01-30;Cruzeiro;8;0.04873
+2026-01-30;Cruzeiro;9;0.04994
+2026-01-30;Cruzeiro;10;0.05034
+2026-01-30;Cruzeiro;11;0.05103
+2026-01-30;Cruzeiro;12;0.05176
+2026-01-30;Cruzeiro;13;0.05107
+2026-01-30;Cruzeiro;14;0.05327
+2026-01-30;Cruzeiro;15;0.05497
+2026-01-30;Cruzeiro;16;0.05412
+2026-01-30;Cruzeiro;17;0.05413
+2026-01-30;Cruzeiro;18;0.05679
+2026-01-30;Cruzeiro;19;0.05677
+2026-01-30;Cruzeiro;20;0.06053
+2026-01-31;Atlético Mineiro;1;0.03487
+2026-01-31;Atlético Mineiro;2;0.03801
+2026-01-31;Atlético Mineiro;3;0.03865
+2026-01-31;Atlético Mineiro;4;0.04247
+2026-01-31;Atlético Mineiro;5;0.04383
+2026-01-31;Atlético Mineiro;6;0.04534
+2026-01-31;Atlético Mineiro;7;0.04621
+2026-01-31;Atlético Mineiro;8;0.04785
+2026-01-31;Atlético Mineiro;9;0.0479
+2026-01-31;Atlético Mineiro;10;0.0492
+2026-01-31;Atlético Mineiro;11;0.05013
+2026-01-31;Atlético Mineiro;12;0.05286
+2026-01-31;Atlético Mineiro;13;0.05354
+2026-01-31;Atlético Mineiro;14;0.05392
+2026-01-31;Atlético Mineiro;15;0.05577
+2026-01-31;Atlético Mineiro;16;0.05567
+2026-01-31;Atlético Mineiro;17;0.05882
+2026-01-31;Atlético Mineiro;18;0.05939
+2026-01-31;Atlético Mineiro;19;0.06121
+2026-01-31;Atlético Mineiro;20;0.06436
 2026-01-31;Palmeiras;1;0.04826
 2026-01-31;Palmeiras;2;0.04952
 2026-01-31;Palmeiras;3;0.04941
@@ -1979,46 +1979,46 @@ data;time;pos;chance
 2026-01-31;Botafogo;18;0.04111
 2026-01-31;Botafogo;19;0.03944
 2026-01-31;Botafogo;20;0.03607
-2026-01-31;Cruzeiro Saf;1;0.03781
-2026-01-31;Cruzeiro Saf;2;0.04125
-2026-01-31;Cruzeiro Saf;3;0.04253
-2026-01-31;Cruzeiro Saf;4;0.04646
-2026-01-31;Cruzeiro Saf;5;0.04546
-2026-01-31;Cruzeiro Saf;6;0.04679
-2026-01-31;Cruzeiro Saf;7;0.04755
-2026-01-31;Cruzeiro Saf;8;0.04878
-2026-01-31;Cruzeiro Saf;9;0.04838
-2026-01-31;Cruzeiro Saf;10;0.05095
-2026-01-31;Cruzeiro Saf;11;0.05124
-2026-01-31;Cruzeiro Saf;12;0.05113
-2026-01-31;Cruzeiro Saf;13;0.0517
-2026-01-31;Cruzeiro Saf;14;0.05202
-2026-01-31;Cruzeiro Saf;15;0.05404
-2026-01-31;Cruzeiro Saf;16;0.05429
-2026-01-31;Cruzeiro Saf;17;0.05583
-2026-01-31;Cruzeiro Saf;18;0.05569
-2026-01-31;Cruzeiro Saf;19;0.05773
-2026-01-31;Cruzeiro Saf;20;0.06037
-2026-02-01;Atlético Mineiro Saf;1;0.03486
-2026-02-01;Atlético Mineiro Saf;2;0.03855
-2026-02-01;Atlético Mineiro Saf;3;0.0398
-2026-02-01;Atlético Mineiro Saf;4;0.04129
-2026-02-01;Atlético Mineiro Saf;5;0.04434
-2026-02-01;Atlético Mineiro Saf;6;0.044
-2026-02-01;Atlético Mineiro Saf;7;0.04552
-2026-02-01;Atlético Mineiro Saf;8;0.04793
-2026-02-01;Atlético Mineiro Saf;9;0.04955
-2026-02-01;Atlético Mineiro Saf;10;0.05027
-2026-02-01;Atlético Mineiro Saf;11;0.05083
-2026-02-01;Atlético Mineiro Saf;12;0.05187
-2026-02-01;Atlético Mineiro Saf;13;0.05233
-2026-02-01;Atlético Mineiro Saf;14;0.05377
-2026-02-01;Atlético Mineiro Saf;15;0.05434
-2026-02-01;Atlético Mineiro Saf;16;0.05583
-2026-02-01;Atlético Mineiro Saf;17;0.05875
-2026-02-01;Atlético Mineiro Saf;18;0.06031
-2026-02-01;Atlético Mineiro Saf;19;0.06137
-2026-02-01;Atlético Mineiro Saf;20;0.06449
+2026-01-31;Cruzeiro;1;0.03781
+2026-01-31;Cruzeiro;2;0.04125
+2026-01-31;Cruzeiro;3;0.04253
+2026-01-31;Cruzeiro;4;0.04646
+2026-01-31;Cruzeiro;5;0.04546
+2026-01-31;Cruzeiro;6;0.04679
+2026-01-31;Cruzeiro;7;0.04755
+2026-01-31;Cruzeiro;8;0.04878
+2026-01-31;Cruzeiro;9;0.04838
+2026-01-31;Cruzeiro;10;0.05095
+2026-01-31;Cruzeiro;11;0.05124
+2026-01-31;Cruzeiro;12;0.05113
+2026-01-31;Cruzeiro;13;0.0517
+2026-01-31;Cruzeiro;14;0.05202
+2026-01-31;Cruzeiro;15;0.05404
+2026-01-31;Cruzeiro;16;0.05429
+2026-01-31;Cruzeiro;17;0.05583
+2026-01-31;Cruzeiro;18;0.05569
+2026-01-31;Cruzeiro;19;0.05773
+2026-01-31;Cruzeiro;20;0.06037
+2026-02-01;Atlético Mineiro;1;0.03486
+2026-02-01;Atlético Mineiro;2;0.03855
+2026-02-01;Atlético Mineiro;3;0.0398
+2026-02-01;Atlético Mineiro;4;0.04129
+2026-02-01;Atlético Mineiro;5;0.04434
+2026-02-01;Atlético Mineiro;6;0.044
+2026-02-01;Atlético Mineiro;7;0.04552
+2026-02-01;Atlético Mineiro;8;0.04793
+2026-02-01;Atlético Mineiro;9;0.04955
+2026-02-01;Atlético Mineiro;10;0.05027
+2026-02-01;Atlético Mineiro;11;0.05083
+2026-02-01;Atlético Mineiro;12;0.05187
+2026-02-01;Atlético Mineiro;13;0.05233
+2026-02-01;Atlético Mineiro;14;0.05377
+2026-02-01;Atlético Mineiro;15;0.05434
+2026-02-01;Atlético Mineiro;16;0.05583
+2026-02-01;Atlético Mineiro;17;0.05875
+2026-02-01;Atlético Mineiro;18;0.06031
+2026-02-01;Atlético Mineiro;19;0.06137
+2026-02-01;Atlético Mineiro;20;0.06449
 2026-02-01;Palmeiras;1;0.04957
 2026-02-01;Palmeiras;2;0.04988
 2026-02-01;Palmeiras;3;0.05007
@@ -2379,46 +2379,46 @@ data;time;pos;chance
 2026-02-01;Botafogo;18;0.04246
 2026-02-01;Botafogo;19;0.03918
 2026-02-01;Botafogo;20;0.0355
-2026-02-01;Cruzeiro Saf;1;0.03789
-2026-02-01;Cruzeiro Saf;2;0.04142
-2026-02-01;Cruzeiro Saf;3;0.04264
-2026-02-01;Cruzeiro Saf;4;0.04439
-2026-02-01;Cruzeiro Saf;5;0.04579
-2026-02-01;Cruzeiro Saf;6;0.04616
-2026-02-01;Cruzeiro Saf;7;0.04701
-2026-02-01;Cruzeiro Saf;8;0.04912
-2026-02-01;Cruzeiro Saf;9;0.04949
-2026-02-01;Cruzeiro Saf;10;0.0492
-2026-02-01;Cruzeiro Saf;11;0.0502
-2026-02-01;Cruzeiro Saf;12;0.05377
-2026-02-01;Cruzeiro Saf;13;0.05347
-2026-02-01;Cruzeiro Saf;14;0.05235
-2026-02-01;Cruzeiro Saf;15;0.05386
-2026-02-01;Cruzeiro Saf;16;0.05399
-2026-02-01;Cruzeiro Saf;17;0.05502
-2026-02-01;Cruzeiro Saf;18;0.05645
-2026-02-01;Cruzeiro Saf;19;0.05835
-2026-02-01;Cruzeiro Saf;20;0.05943
-2026-02-02;Atlético Mineiro Saf;1;0.03475
-2026-02-02;Atlético Mineiro Saf;2;0.03818
-2026-02-02;Atlético Mineiro Saf;3;0.04032
-2026-02-02;Atlético Mineiro Saf;4;0.04205
-2026-02-02;Atlético Mineiro Saf;5;0.04407
-2026-02-02;Atlético Mineiro Saf;6;0.04525
-2026-02-02;Atlético Mineiro Saf;7;0.04572
-2026-02-02;Atlético Mineiro Saf;8;0.04676
-2026-02-02;Atlético Mineiro Saf;9;0.04913
-2026-02-02;Atlético Mineiro Saf;10;0.04909
-2026-02-02;Atlético Mineiro Saf;11;0.05046
-2026-02-02;Atlético Mineiro Saf;12;0.0519
-2026-02-02;Atlético Mineiro Saf;13;0.05175
-2026-02-02;Atlético Mineiro Saf;14;0.05416
-2026-02-02;Atlético Mineiro Saf;15;0.05468
-2026-02-02;Atlético Mineiro Saf;16;0.05635
-2026-02-02;Atlético Mineiro Saf;17;0.05942
-2026-02-02;Atlético Mineiro Saf;18;0.0604
-2026-02-02;Atlético Mineiro Saf;19;0.06182
-2026-02-02;Atlético Mineiro Saf;20;0.06374
+2026-02-01;Cruzeiro;1;0.03789
+2026-02-01;Cruzeiro;2;0.04142
+2026-02-01;Cruzeiro;3;0.04264
+2026-02-01;Cruzeiro;4;0.04439
+2026-02-01;Cruzeiro;5;0.04579
+2026-02-01;Cruzeiro;6;0.04616
+2026-02-01;Cruzeiro;7;0.04701
+2026-02-01;Cruzeiro;8;0.04912
+2026-02-01;Cruzeiro;9;0.04949
+2026-02-01;Cruzeiro;10;0.0492
+2026-02-01;Cruzeiro;11;0.0502
+2026-02-01;Cruzeiro;12;0.05377
+2026-02-01;Cruzeiro;13;0.05347
+2026-02-01;Cruzeiro;14;0.05235
+2026-02-01;Cruzeiro;15;0.05386
+2026-02-01;Cruzeiro;16;0.05399
+2026-02-01;Cruzeiro;17;0.05502
+2026-02-01;Cruzeiro;18;0.05645
+2026-02-01;Cruzeiro;19;0.05835
+2026-02-01;Cruzeiro;20;0.05943
+2026-02-02;Atlético Mineiro;1;0.03475
+2026-02-02;Atlético Mineiro;2;0.03818
+2026-02-02;Atlético Mineiro;3;0.04032
+2026-02-02;Atlético Mineiro;4;0.04205
+2026-02-02;Atlético Mineiro;5;0.04407
+2026-02-02;Atlético Mineiro;6;0.04525
+2026-02-02;Atlético Mineiro;7;0.04572
+2026-02-02;Atlético Mineiro;8;0.04676
+2026-02-02;Atlético Mineiro;9;0.04913
+2026-02-02;Atlético Mineiro;10;0.04909
+2026-02-02;Atlético Mineiro;11;0.05046
+2026-02-02;Atlético Mineiro;12;0.0519
+2026-02-02;Atlético Mineiro;13;0.05175
+2026-02-02;Atlético Mineiro;14;0.05416
+2026-02-02;Atlético Mineiro;15;0.05468
+2026-02-02;Atlético Mineiro;16;0.05635
+2026-02-02;Atlético Mineiro;17;0.05942
+2026-02-02;Atlético Mineiro;18;0.0604
+2026-02-02;Atlético Mineiro;19;0.06182
+2026-02-02;Atlético Mineiro;20;0.06374
 2026-02-02;Palmeiras;1;0.04822
 2026-02-02;Palmeiras;2;0.05088
 2026-02-02;Palmeiras;3;0.04971
@@ -2779,46 +2779,46 @@ data;time;pos;chance
 2026-02-02;Botafogo;18;0.04462
 2026-02-02;Botafogo;19;0.03938
 2026-02-02;Botafogo;20;0.03648
-2026-02-02;Cruzeiro Saf;1;0.03787
-2026-02-02;Cruzeiro Saf;2;0.0407
-2026-02-02;Cruzeiro Saf;3;0.04325
-2026-02-02;Cruzeiro Saf;4;0.044
-2026-02-02;Cruzeiro Saf;5;0.0459
-2026-02-02;Cruzeiro Saf;6;0.04644
-2026-02-02;Cruzeiro Saf;7;0.04772
-2026-02-02;Cruzeiro Saf;8;0.04889
-2026-02-02;Cruzeiro Saf;9;0.04921
-2026-02-02;Cruzeiro Saf;10;0.05084
-2026-02-02;Cruzeiro Saf;11;0.05059
-2026-02-02;Cruzeiro Saf;12;0.0528
-2026-02-02;Cruzeiro Saf;13;0.05284
-2026-02-02;Cruzeiro Saf;14;0.05376
-2026-02-02;Cruzeiro Saf;15;0.05427
-2026-02-02;Cruzeiro Saf;16;0.05499
-2026-02-02;Cruzeiro Saf;17;0.05497
-2026-02-02;Cruzeiro Saf;18;0.05541
-2026-02-02;Cruzeiro Saf;19;0.05771
-2026-02-02;Cruzeiro Saf;20;0.05784
-2026-02-03;Atlético Mineiro Saf;1;0.03461
-2026-02-03;Atlético Mineiro Saf;2;0.0375
-2026-02-03;Atlético Mineiro Saf;3;0.04059
-2026-02-03;Atlético Mineiro Saf;4;0.04213
-2026-02-03;Atlético Mineiro Saf;5;0.04383
-2026-02-03;Atlético Mineiro Saf;6;0.04508
-2026-02-03;Atlético Mineiro Saf;7;0.04661
-2026-02-03;Atlético Mineiro Saf;8;0.04736
-2026-02-03;Atlético Mineiro Saf;9;0.04926
-2026-02-03;Atlético Mineiro Saf;10;0.04898
-2026-02-03;Atlético Mineiro Saf;11;0.0508
-2026-02-03;Atlético Mineiro Saf;12;0.0516
-2026-02-03;Atlético Mineiro Saf;13;0.05212
-2026-02-03;Atlético Mineiro Saf;14;0.05517
-2026-02-03;Atlético Mineiro Saf;15;0.0553
-2026-02-03;Atlético Mineiro Saf;16;0.05458
-2026-02-03;Atlético Mineiro Saf;17;0.05828
-2026-02-03;Atlético Mineiro Saf;18;0.0588
-2026-02-03;Atlético Mineiro Saf;19;0.06315
-2026-02-03;Atlético Mineiro Saf;20;0.06425
+2026-02-02;Cruzeiro;1;0.03787
+2026-02-02;Cruzeiro;2;0.0407
+2026-02-02;Cruzeiro;3;0.04325
+2026-02-02;Cruzeiro;4;0.044
+2026-02-02;Cruzeiro;5;0.0459
+2026-02-02;Cruzeiro;6;0.04644
+2026-02-02;Cruzeiro;7;0.04772
+2026-02-02;Cruzeiro;8;0.04889
+2026-02-02;Cruzeiro;9;0.04921
+2026-02-02;Cruzeiro;10;0.05084
+2026-02-02;Cruzeiro;11;0.05059
+2026-02-02;Cruzeiro;12;0.0528
+2026-02-02;Cruzeiro;13;0.05284
+2026-02-02;Cruzeiro;14;0.05376
+2026-02-02;Cruzeiro;15;0.05427
+2026-02-02;Cruzeiro;16;0.05499
+2026-02-02;Cruzeiro;17;0.05497
+2026-02-02;Cruzeiro;18;0.05541
+2026-02-02;Cruzeiro;19;0.05771
+2026-02-02;Cruzeiro;20;0.05784
+2026-02-03;Atlético Mineiro;1;0.03461
+2026-02-03;Atlético Mineiro;2;0.0375
+2026-02-03;Atlético Mineiro;3;0.04059
+2026-02-03;Atlético Mineiro;4;0.04213
+2026-02-03;Atlético Mineiro;5;0.04383
+2026-02-03;Atlético Mineiro;6;0.04508
+2026-02-03;Atlético Mineiro;7;0.04661
+2026-02-03;Atlético Mineiro;8;0.04736
+2026-02-03;Atlético Mineiro;9;0.04926
+2026-02-03;Atlético Mineiro;10;0.04898
+2026-02-03;Atlético Mineiro;11;0.0508
+2026-02-03;Atlético Mineiro;12;0.0516
+2026-02-03;Atlético Mineiro;13;0.05212
+2026-02-03;Atlético Mineiro;14;0.05517
+2026-02-03;Atlético Mineiro;15;0.0553
+2026-02-03;Atlético Mineiro;16;0.05458
+2026-02-03;Atlético Mineiro;17;0.05828
+2026-02-03;Atlético Mineiro;18;0.0588
+2026-02-03;Atlético Mineiro;19;0.06315
+2026-02-03;Atlético Mineiro;20;0.06425
 2026-02-03;Palmeiras;1;0.04878
 2026-02-03;Palmeiras;2;0.05035
 2026-02-03;Palmeiras;3;0.05136
@@ -3179,46 +3179,46 @@ data;time;pos;chance
 2026-02-03;Botafogo;18;0.04083
 2026-02-03;Botafogo;19;0.03937
 2026-02-03;Botafogo;20;0.03677
-2026-02-03;Cruzeiro Saf;1;0.03758
-2026-02-03;Cruzeiro Saf;2;0.0412
-2026-02-03;Cruzeiro Saf;3;0.04207
-2026-02-03;Cruzeiro Saf;4;0.04395
-2026-02-03;Cruzeiro Saf;5;0.04628
-2026-02-03;Cruzeiro Saf;6;0.04728
-2026-02-03;Cruzeiro Saf;7;0.04824
-2026-02-03;Cruzeiro Saf;8;0.04887
-2026-02-03;Cruzeiro Saf;9;0.04871
-2026-02-03;Cruzeiro Saf;10;0.04883
-2026-02-03;Cruzeiro Saf;11;0.05202
-2026-02-03;Cruzeiro Saf;12;0.05134
-2026-02-03;Cruzeiro Saf;13;0.05233
-2026-02-03;Cruzeiro Saf;14;0.05308
-2026-02-03;Cruzeiro Saf;15;0.05469
-2026-02-03;Cruzeiro Saf;16;0.05502
-2026-02-03;Cruzeiro Saf;17;0.05555
-2026-02-03;Cruzeiro Saf;18;0.05557
-2026-02-03;Cruzeiro Saf;19;0.05848
-2026-02-03;Cruzeiro Saf;20;0.05891
-2026-02-04;Atlético Mineiro Saf;1;0.03415
-2026-02-04;Atlético Mineiro Saf;2;0.0385
-2026-02-04;Atlético Mineiro Saf;3;0.04076
-2026-02-04;Atlético Mineiro Saf;4;0.04254
-2026-02-04;Atlético Mineiro Saf;5;0.04316
-2026-02-04;Atlético Mineiro Saf;6;0.04512
-2026-02-04;Atlético Mineiro Saf;7;0.04605
-2026-02-04;Atlético Mineiro Saf;8;0.0484
-2026-02-04;Atlético Mineiro Saf;9;0.04791
-2026-02-04;Atlético Mineiro Saf;10;0.0504
-2026-02-04;Atlético Mineiro Saf;11;0.05009
-2026-02-04;Atlético Mineiro Saf;12;0.05154
-2026-02-04;Atlético Mineiro Saf;13;0.05317
-2026-02-04;Atlético Mineiro Saf;14;0.05425
-2026-02-04;Atlético Mineiro Saf;15;0.05567
-2026-02-04;Atlético Mineiro Saf;16;0.05683
-2026-02-04;Atlético Mineiro Saf;17;0.05724
-2026-02-04;Atlético Mineiro Saf;18;0.06048
-2026-02-04;Atlético Mineiro Saf;19;0.06096
-2026-02-04;Atlético Mineiro Saf;20;0.06278
+2026-02-03;Cruzeiro;1;0.03758
+2026-02-03;Cruzeiro;2;0.0412
+2026-02-03;Cruzeiro;3;0.04207
+2026-02-03;Cruzeiro;4;0.04395
+2026-02-03;Cruzeiro;5;0.04628
+2026-02-03;Cruzeiro;6;0.04728
+2026-02-03;Cruzeiro;7;0.04824
+2026-02-03;Cruzeiro;8;0.04887
+2026-02-03;Cruzeiro;9;0.04871
+2026-02-03;Cruzeiro;10;0.04883
+2026-02-03;Cruzeiro;11;0.05202
+2026-02-03;Cruzeiro;12;0.05134
+2026-02-03;Cruzeiro;13;0.05233
+2026-02-03;Cruzeiro;14;0.05308
+2026-02-03;Cruzeiro;15;0.05469
+2026-02-03;Cruzeiro;16;0.05502
+2026-02-03;Cruzeiro;17;0.05555
+2026-02-03;Cruzeiro;18;0.05557
+2026-02-03;Cruzeiro;19;0.05848
+2026-02-03;Cruzeiro;20;0.05891
+2026-02-04;Atlético Mineiro;1;0.03415
+2026-02-04;Atlético Mineiro;2;0.0385
+2026-02-04;Atlético Mineiro;3;0.04076
+2026-02-04;Atlético Mineiro;4;0.04254
+2026-02-04;Atlético Mineiro;5;0.04316
+2026-02-04;Atlético Mineiro;6;0.04512
+2026-02-04;Atlético Mineiro;7;0.04605
+2026-02-04;Atlético Mineiro;8;0.0484
+2026-02-04;Atlético Mineiro;9;0.04791
+2026-02-04;Atlético Mineiro;10;0.0504
+2026-02-04;Atlético Mineiro;11;0.05009
+2026-02-04;Atlético Mineiro;12;0.05154
+2026-02-04;Atlético Mineiro;13;0.05317
+2026-02-04;Atlético Mineiro;14;0.05425
+2026-02-04;Atlético Mineiro;15;0.05567
+2026-02-04;Atlético Mineiro;16;0.05683
+2026-02-04;Atlético Mineiro;17;0.05724
+2026-02-04;Atlético Mineiro;18;0.06048
+2026-02-04;Atlético Mineiro;19;0.06096
+2026-02-04;Atlético Mineiro;20;0.06278
 2026-02-04;Palmeiras;1;0.04874
 2026-02-04;Palmeiras;2;0.04898
 2026-02-04;Palmeiras;3;0.05006
@@ -3579,46 +3579,46 @@ data;time;pos;chance
 2026-02-04;Botafogo;18;0.04216
 2026-02-04;Botafogo;19;0.04063
 2026-02-04;Botafogo;20;0.03572
-2026-02-04;Cruzeiro Saf;1;0.03912
-2026-02-04;Cruzeiro Saf;2;0.0412
-2026-02-04;Cruzeiro Saf;3;0.04296
-2026-02-04;Cruzeiro Saf;4;0.04443
-2026-02-04;Cruzeiro Saf;5;0.04644
-2026-02-04;Cruzeiro Saf;6;0.04703
-2026-02-04;Cruzeiro Saf;7;0.04913
-2026-02-04;Cruzeiro Saf;8;0.04751
-2026-02-04;Cruzeiro Saf;9;0.04848
-2026-02-04;Cruzeiro Saf;10;0.05028
-2026-02-04;Cruzeiro Saf;11;0.05029
-2026-02-04;Cruzeiro Saf;12;0.05178
-2026-02-04;Cruzeiro Saf;13;0.05252
-2026-02-04;Cruzeiro Saf;14;0.05338
-2026-02-04;Cruzeiro Saf;15;0.05228
-2026-02-04;Cruzeiro Saf;16;0.05571
-2026-02-04;Cruzeiro Saf;17;0.0538
-2026-02-04;Cruzeiro Saf;18;0.05648
-2026-02-04;Cruzeiro Saf;19;0.05831
-2026-02-04;Cruzeiro Saf;20;0.05887
-2026-02-05;Atlético Mineiro Saf;1;0.02715
-2026-02-05;Atlético Mineiro Saf;2;0.03321
-2026-02-05;Atlético Mineiro Saf;3;0.03513
-2026-02-05;Atlético Mineiro Saf;4;0.03605
-2026-02-05;Atlético Mineiro Saf;5;0.04022
-2026-02-05;Atlético Mineiro Saf;6;0.0425
-2026-02-05;Atlético Mineiro Saf;7;0.04406
-2026-02-05;Atlético Mineiro Saf;8;0.04566
-2026-02-05;Atlético Mineiro Saf;9;0.04813
-2026-02-05;Atlético Mineiro Saf;10;0.0491
-2026-02-05;Atlético Mineiro Saf;11;0.05061
-2026-02-05;Atlético Mineiro Saf;12;0.05294
-2026-02-05;Atlético Mineiro Saf;13;0.05398
-2026-02-05;Atlético Mineiro Saf;14;0.05567
-2026-02-05;Atlético Mineiro Saf;15;0.05772
-2026-02-05;Atlético Mineiro Saf;16;0.06053
-2026-02-05;Atlético Mineiro Saf;17;0.06242
-2026-02-05;Atlético Mineiro Saf;18;0.06421
-2026-02-05;Atlético Mineiro Saf;19;0.06789
-2026-02-05;Atlético Mineiro Saf;20;0.07282
+2026-02-04;Cruzeiro;1;0.03912
+2026-02-04;Cruzeiro;2;0.0412
+2026-02-04;Cruzeiro;3;0.04296
+2026-02-04;Cruzeiro;4;0.04443
+2026-02-04;Cruzeiro;5;0.04644
+2026-02-04;Cruzeiro;6;0.04703
+2026-02-04;Cruzeiro;7;0.04913
+2026-02-04;Cruzeiro;8;0.04751
+2026-02-04;Cruzeiro;9;0.04848
+2026-02-04;Cruzeiro;10;0.05028
+2026-02-04;Cruzeiro;11;0.05029
+2026-02-04;Cruzeiro;12;0.05178
+2026-02-04;Cruzeiro;13;0.05252
+2026-02-04;Cruzeiro;14;0.05338
+2026-02-04;Cruzeiro;15;0.05228
+2026-02-04;Cruzeiro;16;0.05571
+2026-02-04;Cruzeiro;17;0.0538
+2026-02-04;Cruzeiro;18;0.05648
+2026-02-04;Cruzeiro;19;0.05831
+2026-02-04;Cruzeiro;20;0.05887
+2026-02-05;Atlético Mineiro;1;0.02715
+2026-02-05;Atlético Mineiro;2;0.03321
+2026-02-05;Atlético Mineiro;3;0.03513
+2026-02-05;Atlético Mineiro;4;0.03605
+2026-02-05;Atlético Mineiro;5;0.04022
+2026-02-05;Atlético Mineiro;6;0.0425
+2026-02-05;Atlético Mineiro;7;0.04406
+2026-02-05;Atlético Mineiro;8;0.04566
+2026-02-05;Atlético Mineiro;9;0.04813
+2026-02-05;Atlético Mineiro;10;0.0491
+2026-02-05;Atlético Mineiro;11;0.05061
+2026-02-05;Atlético Mineiro;12;0.05294
+2026-02-05;Atlético Mineiro;13;0.05398
+2026-02-05;Atlético Mineiro;14;0.05567
+2026-02-05;Atlético Mineiro;15;0.05772
+2026-02-05;Atlético Mineiro;16;0.06053
+2026-02-05;Atlético Mineiro;17;0.06242
+2026-02-05;Atlético Mineiro;18;0.06421
+2026-02-05;Atlético Mineiro;19;0.06789
+2026-02-05;Atlético Mineiro;20;0.07282
 2026-02-05;Palmeiras;1;0.06176
 2026-02-05;Palmeiras;2;0.06178
 2026-02-05;Palmeiras;3;0.06029
@@ -3979,46 +3979,46 @@ data;time;pos;chance
 2026-02-05;Botafogo;18;0.04661
 2026-02-05;Botafogo;19;0.04568
 2026-02-05;Botafogo;20;0.04233
-2026-02-05;Cruzeiro Saf;1;0.04091
-2026-02-05;Cruzeiro Saf;2;0.04218
-2026-02-05;Cruzeiro Saf;3;0.04461
-2026-02-05;Cruzeiro Saf;4;0.04483
-2026-02-05;Cruzeiro Saf;5;0.04684
-2026-02-05;Cruzeiro Saf;6;0.04656
-2026-02-05;Cruzeiro Saf;7;0.04795
-2026-02-05;Cruzeiro Saf;8;0.04845
-2026-02-05;Cruzeiro Saf;9;0.04992
-2026-02-05;Cruzeiro Saf;10;0.05112
-2026-02-05;Cruzeiro Saf;11;0.04995
-2026-02-05;Cruzeiro Saf;12;0.0509
-2026-02-05;Cruzeiro Saf;13;0.05193
-2026-02-05;Cruzeiro Saf;14;0.05195
-2026-02-05;Cruzeiro Saf;15;0.05298
-2026-02-05;Cruzeiro Saf;16;0.05462
-2026-02-05;Cruzeiro Saf;17;0.05416
-2026-02-05;Cruzeiro Saf;18;0.05496
-2026-02-05;Cruzeiro Saf;19;0.05758
-2026-02-05;Cruzeiro Saf;20;0.0576
-2026-02-06;Atlético Mineiro Saf;1;0.02931
-2026-02-06;Atlético Mineiro Saf;2;0.0331
-2026-02-06;Atlético Mineiro Saf;3;0.03579
-2026-02-06;Atlético Mineiro Saf;4;0.03883
-2026-02-06;Atlético Mineiro Saf;5;0.03994
-2026-02-06;Atlético Mineiro Saf;6;0.04203
-2026-02-06;Atlético Mineiro Saf;7;0.04489
-2026-02-06;Atlético Mineiro Saf;8;0.04697
-2026-02-06;Atlético Mineiro Saf;9;0.04752
-2026-02-06;Atlético Mineiro Saf;10;0.04938
-2026-02-06;Atlético Mineiro Saf;11;0.05002
-2026-02-06;Atlético Mineiro Saf;12;0.05309
-2026-02-06;Atlético Mineiro Saf;13;0.05327
-2026-02-06;Atlético Mineiro Saf;14;0.05688
-2026-02-06;Atlético Mineiro Saf;15;0.05772
-2026-02-06;Atlético Mineiro Saf;16;0.05901
-2026-02-06;Atlético Mineiro Saf;17;0.06034
-2026-02-06;Atlético Mineiro Saf;18;0.06422
-2026-02-06;Atlético Mineiro Saf;19;0.06703
-2026-02-06;Atlético Mineiro Saf;20;0.07066
+2026-02-05;Cruzeiro;1;0.04091
+2026-02-05;Cruzeiro;2;0.04218
+2026-02-05;Cruzeiro;3;0.04461
+2026-02-05;Cruzeiro;4;0.04483
+2026-02-05;Cruzeiro;5;0.04684
+2026-02-05;Cruzeiro;6;0.04656
+2026-02-05;Cruzeiro;7;0.04795
+2026-02-05;Cruzeiro;8;0.04845
+2026-02-05;Cruzeiro;9;0.04992
+2026-02-05;Cruzeiro;10;0.05112
+2026-02-05;Cruzeiro;11;0.04995
+2026-02-05;Cruzeiro;12;0.0509
+2026-02-05;Cruzeiro;13;0.05193
+2026-02-05;Cruzeiro;14;0.05195
+2026-02-05;Cruzeiro;15;0.05298
+2026-02-05;Cruzeiro;16;0.05462
+2026-02-05;Cruzeiro;17;0.05416
+2026-02-05;Cruzeiro;18;0.05496
+2026-02-05;Cruzeiro;19;0.05758
+2026-02-05;Cruzeiro;20;0.0576
+2026-02-06;Atlético Mineiro;1;0.02931
+2026-02-06;Atlético Mineiro;2;0.0331
+2026-02-06;Atlético Mineiro;3;0.03579
+2026-02-06;Atlético Mineiro;4;0.03883
+2026-02-06;Atlético Mineiro;5;0.03994
+2026-02-06;Atlético Mineiro;6;0.04203
+2026-02-06;Atlético Mineiro;7;0.04489
+2026-02-06;Atlético Mineiro;8;0.04697
+2026-02-06;Atlético Mineiro;9;0.04752
+2026-02-06;Atlético Mineiro;10;0.04938
+2026-02-06;Atlético Mineiro;11;0.05002
+2026-02-06;Atlético Mineiro;12;0.05309
+2026-02-06;Atlético Mineiro;13;0.05327
+2026-02-06;Atlético Mineiro;14;0.05688
+2026-02-06;Atlético Mineiro;15;0.05772
+2026-02-06;Atlético Mineiro;16;0.05901
+2026-02-06;Atlético Mineiro;17;0.06034
+2026-02-06;Atlético Mineiro;18;0.06422
+2026-02-06;Atlético Mineiro;19;0.06703
+2026-02-06;Atlético Mineiro;20;0.07066
 2026-02-06;Palmeiras;1;0.06488
 2026-02-06;Palmeiras;2;0.06245
 2026-02-06;Palmeiras;3;0.05959
@@ -4379,46 +4379,46 @@ data;time;pos;chance
 2026-02-06;Botafogo;18;0.04628
 2026-02-06;Botafogo;19;0.04397
 2026-02-06;Botafogo;20;0.04049
-2026-02-06;Cruzeiro Saf;1;0.02171
-2026-02-06;Cruzeiro Saf;2;0.02579
-2026-02-06;Cruzeiro Saf;3;0.03053
-2026-02-06;Cruzeiro Saf;4;0.03261
-2026-02-06;Cruzeiro Saf;5;0.03497
-2026-02-06;Cruzeiro Saf;6;0.03859
-2026-02-06;Cruzeiro Saf;7;0.03997
-2026-02-06;Cruzeiro Saf;8;0.04326
-2026-02-06;Cruzeiro Saf;9;0.04328
-2026-02-06;Cruzeiro Saf;10;0.04619
-2026-02-06;Cruzeiro Saf;11;0.04974
-2026-02-06;Cruzeiro Saf;12;0.05066
-2026-02-06;Cruzeiro Saf;13;0.05409
-2026-02-06;Cruzeiro Saf;14;0.05775
-2026-02-06;Cruzeiro Saf;15;0.05808
-2026-02-06;Cruzeiro Saf;16;0.06326
-2026-02-06;Cruzeiro Saf;17;0.06691
-2026-02-06;Cruzeiro Saf;18;0.07273
-2026-02-06;Cruzeiro Saf;19;0.0793
-2026-02-06;Cruzeiro Saf;20;0.09058
-2026-02-07;Atlético Mineiro Saf;1;0.02927
-2026-02-07;Atlético Mineiro Saf;2;0.03344
-2026-02-07;Atlético Mineiro Saf;3;0.03582
-2026-02-07;Atlético Mineiro Saf;4;0.03862
-2026-02-07;Atlético Mineiro Saf;5;0.041
-2026-02-07;Atlético Mineiro Saf;6;0.04257
-2026-02-07;Atlético Mineiro Saf;7;0.04414
-2026-02-07;Atlético Mineiro Saf;8;0.04692
-2026-02-07;Atlético Mineiro Saf;9;0.04726
-2026-02-07;Atlético Mineiro Saf;10;0.04814
-2026-02-07;Atlético Mineiro Saf;11;0.05014
-2026-02-07;Atlético Mineiro Saf;12;0.05227
-2026-02-07;Atlético Mineiro Saf;13;0.05439
-2026-02-07;Atlético Mineiro Saf;14;0.05602
-2026-02-07;Atlético Mineiro Saf;15;0.05593
-2026-02-07;Atlético Mineiro Saf;16;0.05782
-2026-02-07;Atlético Mineiro Saf;17;0.06208
-2026-02-07;Atlético Mineiro Saf;18;0.06429
-2026-02-07;Atlético Mineiro Saf;19;0.06776
-2026-02-07;Atlético Mineiro Saf;20;0.07212
+2026-02-06;Cruzeiro;1;0.02171
+2026-02-06;Cruzeiro;2;0.02579
+2026-02-06;Cruzeiro;3;0.03053
+2026-02-06;Cruzeiro;4;0.03261
+2026-02-06;Cruzeiro;5;0.03497
+2026-02-06;Cruzeiro;6;0.03859
+2026-02-06;Cruzeiro;7;0.03997
+2026-02-06;Cruzeiro;8;0.04326
+2026-02-06;Cruzeiro;9;0.04328
+2026-02-06;Cruzeiro;10;0.04619
+2026-02-06;Cruzeiro;11;0.04974
+2026-02-06;Cruzeiro;12;0.05066
+2026-02-06;Cruzeiro;13;0.05409
+2026-02-06;Cruzeiro;14;0.05775
+2026-02-06;Cruzeiro;15;0.05808
+2026-02-06;Cruzeiro;16;0.06326
+2026-02-06;Cruzeiro;17;0.06691
+2026-02-06;Cruzeiro;18;0.07273
+2026-02-06;Cruzeiro;19;0.0793
+2026-02-06;Cruzeiro;20;0.09058
+2026-02-07;Atlético Mineiro;1;0.02927
+2026-02-07;Atlético Mineiro;2;0.03344
+2026-02-07;Atlético Mineiro;3;0.03582
+2026-02-07;Atlético Mineiro;4;0.03862
+2026-02-07;Atlético Mineiro;5;0.041
+2026-02-07;Atlético Mineiro;6;0.04257
+2026-02-07;Atlético Mineiro;7;0.04414
+2026-02-07;Atlético Mineiro;8;0.04692
+2026-02-07;Atlético Mineiro;9;0.04726
+2026-02-07;Atlético Mineiro;10;0.04814
+2026-02-07;Atlético Mineiro;11;0.05014
+2026-02-07;Atlético Mineiro;12;0.05227
+2026-02-07;Atlético Mineiro;13;0.05439
+2026-02-07;Atlético Mineiro;14;0.05602
+2026-02-07;Atlético Mineiro;15;0.05593
+2026-02-07;Atlético Mineiro;16;0.05782
+2026-02-07;Atlético Mineiro;17;0.06208
+2026-02-07;Atlético Mineiro;18;0.06429
+2026-02-07;Atlético Mineiro;19;0.06776
+2026-02-07;Atlético Mineiro;20;0.07212
 2026-02-07;Palmeiras;1;0.06495
 2026-02-07;Palmeiras;2;0.06163
 2026-02-07;Palmeiras;3;0.06165
@@ -4779,46 +4779,46 @@ data;time;pos;chance
 2026-02-07;Botafogo;18;0.04565
 2026-02-07;Botafogo;19;0.04405
 2026-02-07;Botafogo;20;0.04073
-2026-02-07;Cruzeiro Saf;1;0.02169
-2026-02-07;Cruzeiro Saf;2;0.02657
-2026-02-07;Cruzeiro Saf;3;0.03086
-2026-02-07;Cruzeiro Saf;4;0.03293
-2026-02-07;Cruzeiro Saf;5;0.03615
-2026-02-07;Cruzeiro Saf;6;0.03771
-2026-02-07;Cruzeiro Saf;7;0.04089
-2026-02-07;Cruzeiro Saf;8;0.04256
-2026-02-07;Cruzeiro Saf;9;0.04373
-2026-02-07;Cruzeiro Saf;10;0.04685
-2026-02-07;Cruzeiro Saf;11;0.0482
-2026-02-07;Cruzeiro Saf;12;0.05181
-2026-02-07;Cruzeiro Saf;13;0.05372
-2026-02-07;Cruzeiro Saf;14;0.05684
-2026-02-07;Cruzeiro Saf;15;0.05879
-2026-02-07;Cruzeiro Saf;16;0.06347
-2026-02-07;Cruzeiro Saf;17;0.06729
-2026-02-07;Cruzeiro Saf;18;0.07143
-2026-02-07;Cruzeiro Saf;19;0.07832
-2026-02-07;Cruzeiro Saf;20;0.09019
-2026-02-08;Atlético Mineiro Saf;1;0.02878
-2026-02-08;Atlético Mineiro Saf;2;0.03376
-2026-02-08;Atlético Mineiro Saf;3;0.03631
-2026-02-08;Atlético Mineiro Saf;4;0.03854
-2026-02-08;Atlético Mineiro Saf;5;0.04097
-2026-02-08;Atlético Mineiro Saf;6;0.04315
-2026-02-08;Atlético Mineiro Saf;7;0.04521
-2026-02-08;Atlético Mineiro Saf;8;0.04605
-2026-02-08;Atlético Mineiro Saf;9;0.04677
-2026-02-08;Atlético Mineiro Saf;10;0.04992
-2026-02-08;Atlético Mineiro Saf;11;0.0511
-2026-02-08;Atlético Mineiro Saf;12;0.05183
-2026-02-08;Atlético Mineiro Saf;13;0.05373
-2026-02-08;Atlético Mineiro Saf;14;0.05565
-2026-02-08;Atlético Mineiro Saf;15;0.05714
-2026-02-08;Atlético Mineiro Saf;16;0.05881
-2026-02-08;Atlético Mineiro Saf;17;0.0611
-2026-02-08;Atlético Mineiro Saf;18;0.06264
-2026-02-08;Atlético Mineiro Saf;19;0.06642
-2026-02-08;Atlético Mineiro Saf;20;0.07212
+2026-02-07;Cruzeiro;1;0.02169
+2026-02-07;Cruzeiro;2;0.02657
+2026-02-07;Cruzeiro;3;0.03086
+2026-02-07;Cruzeiro;4;0.03293
+2026-02-07;Cruzeiro;5;0.03615
+2026-02-07;Cruzeiro;6;0.03771
+2026-02-07;Cruzeiro;7;0.04089
+2026-02-07;Cruzeiro;8;0.04256
+2026-02-07;Cruzeiro;9;0.04373
+2026-02-07;Cruzeiro;10;0.04685
+2026-02-07;Cruzeiro;11;0.0482
+2026-02-07;Cruzeiro;12;0.05181
+2026-02-07;Cruzeiro;13;0.05372
+2026-02-07;Cruzeiro;14;0.05684
+2026-02-07;Cruzeiro;15;0.05879
+2026-02-07;Cruzeiro;16;0.06347
+2026-02-07;Cruzeiro;17;0.06729
+2026-02-07;Cruzeiro;18;0.07143
+2026-02-07;Cruzeiro;19;0.07832
+2026-02-07;Cruzeiro;20;0.09019
+2026-02-08;Atlético Mineiro;1;0.02878
+2026-02-08;Atlético Mineiro;2;0.03376
+2026-02-08;Atlético Mineiro;3;0.03631
+2026-02-08;Atlético Mineiro;4;0.03854
+2026-02-08;Atlético Mineiro;5;0.04097
+2026-02-08;Atlético Mineiro;6;0.04315
+2026-02-08;Atlético Mineiro;7;0.04521
+2026-02-08;Atlético Mineiro;8;0.04605
+2026-02-08;Atlético Mineiro;9;0.04677
+2026-02-08;Atlético Mineiro;10;0.04992
+2026-02-08;Atlético Mineiro;11;0.0511
+2026-02-08;Atlético Mineiro;12;0.05183
+2026-02-08;Atlético Mineiro;13;0.05373
+2026-02-08;Atlético Mineiro;14;0.05565
+2026-02-08;Atlético Mineiro;15;0.05714
+2026-02-08;Atlético Mineiro;16;0.05881
+2026-02-08;Atlético Mineiro;17;0.0611
+2026-02-08;Atlético Mineiro;18;0.06264
+2026-02-08;Atlético Mineiro;19;0.06642
+2026-02-08;Atlético Mineiro;20;0.07212
 2026-02-08;Palmeiras;1;0.06292
 2026-02-08;Palmeiras;2;0.06219
 2026-02-08;Palmeiras;3;0.05894
@@ -5179,46 +5179,46 @@ data;time;pos;chance
 2026-02-08;Botafogo;18;0.04604
 2026-02-08;Botafogo;19;0.04374
 2026-02-08;Botafogo;20;0.04071
-2026-02-08;Cruzeiro Saf;1;0.02158
-2026-02-08;Cruzeiro Saf;2;0.02566
-2026-02-08;Cruzeiro Saf;3;0.02984
-2026-02-08;Cruzeiro Saf;4;0.03245
-2026-02-08;Cruzeiro Saf;5;0.03569
-2026-02-08;Cruzeiro Saf;6;0.03811
-2026-02-08;Cruzeiro Saf;7;0.0392
-2026-02-08;Cruzeiro Saf;8;0.04377
-2026-02-08;Cruzeiro Saf;9;0.04482
-2026-02-08;Cruzeiro Saf;10;0.04551
-2026-02-08;Cruzeiro Saf;11;0.04935
-2026-02-08;Cruzeiro Saf;12;0.05104
-2026-02-08;Cruzeiro Saf;13;0.05282
-2026-02-08;Cruzeiro Saf;14;0.05733
-2026-02-08;Cruzeiro Saf;15;0.05904
-2026-02-08;Cruzeiro Saf;16;0.06323
-2026-02-08;Cruzeiro Saf;17;0.06724
-2026-02-08;Cruzeiro Saf;18;0.07378
-2026-02-08;Cruzeiro Saf;19;0.07889
-2026-02-08;Cruzeiro Saf;20;0.09065
-2026-02-09;Atlético Mineiro Saf;1;0.02903
-2026-02-09;Atlético Mineiro Saf;2;0.03249
-2026-02-09;Atlético Mineiro Saf;3;0.03756
-2026-02-09;Atlético Mineiro Saf;4;0.03855
-2026-02-09;Atlético Mineiro Saf;5;0.04082
-2026-02-09;Atlético Mineiro Saf;6;0.04248
-2026-02-09;Atlético Mineiro Saf;7;0.04345
-2026-02-09;Atlético Mineiro Saf;8;0.04507
-2026-02-09;Atlético Mineiro Saf;9;0.04946
-2026-02-09;Atlético Mineiro Saf;10;0.04944
-2026-02-09;Atlético Mineiro Saf;11;0.05095
-2026-02-09;Atlético Mineiro Saf;12;0.05123
-2026-02-09;Atlético Mineiro Saf;13;0.05368
-2026-02-09;Atlético Mineiro Saf;14;0.05508
-2026-02-09;Atlético Mineiro Saf;15;0.05617
-2026-02-09;Atlético Mineiro Saf;16;0.05892
-2026-02-09;Atlético Mineiro Saf;17;0.06252
-2026-02-09;Atlético Mineiro Saf;18;0.06392
-2026-02-09;Atlético Mineiro Saf;19;0.06748
-2026-02-09;Atlético Mineiro Saf;20;0.0717
+2026-02-08;Cruzeiro;1;0.02158
+2026-02-08;Cruzeiro;2;0.02566
+2026-02-08;Cruzeiro;3;0.02984
+2026-02-08;Cruzeiro;4;0.03245
+2026-02-08;Cruzeiro;5;0.03569
+2026-02-08;Cruzeiro;6;0.03811
+2026-02-08;Cruzeiro;7;0.0392
+2026-02-08;Cruzeiro;8;0.04377
+2026-02-08;Cruzeiro;9;0.04482
+2026-02-08;Cruzeiro;10;0.04551
+2026-02-08;Cruzeiro;11;0.04935
+2026-02-08;Cruzeiro;12;0.05104
+2026-02-08;Cruzeiro;13;0.05282
+2026-02-08;Cruzeiro;14;0.05733
+2026-02-08;Cruzeiro;15;0.05904
+2026-02-08;Cruzeiro;16;0.06323
+2026-02-08;Cruzeiro;17;0.06724
+2026-02-08;Cruzeiro;18;0.07378
+2026-02-08;Cruzeiro;19;0.07889
+2026-02-08;Cruzeiro;20;0.09065
+2026-02-09;Atlético Mineiro;1;0.02903
+2026-02-09;Atlético Mineiro;2;0.03249
+2026-02-09;Atlético Mineiro;3;0.03756
+2026-02-09;Atlético Mineiro;4;0.03855
+2026-02-09;Atlético Mineiro;5;0.04082
+2026-02-09;Atlético Mineiro;6;0.04248
+2026-02-09;Atlético Mineiro;7;0.04345
+2026-02-09;Atlético Mineiro;8;0.04507
+2026-02-09;Atlético Mineiro;9;0.04946
+2026-02-09;Atlético Mineiro;10;0.04944
+2026-02-09;Atlético Mineiro;11;0.05095
+2026-02-09;Atlético Mineiro;12;0.05123
+2026-02-09;Atlético Mineiro;13;0.05368
+2026-02-09;Atlético Mineiro;14;0.05508
+2026-02-09;Atlético Mineiro;15;0.05617
+2026-02-09;Atlético Mineiro;16;0.05892
+2026-02-09;Atlético Mineiro;17;0.06252
+2026-02-09;Atlético Mineiro;18;0.06392
+2026-02-09;Atlético Mineiro;19;0.06748
+2026-02-09;Atlético Mineiro;20;0.0717
 2026-02-09;Palmeiras;1;0.06457
 2026-02-09;Palmeiras;2;0.06344
 2026-02-09;Palmeiras;3;0.06021
@@ -5579,26 +5579,26 @@ data;time;pos;chance
 2026-02-09;Botafogo;18;0.04617
 2026-02-09;Botafogo;19;0.0452
 2026-02-09;Botafogo;20;0.04094
-2026-02-09;Cruzeiro Saf;1;0.02093
-2026-02-09;Cruzeiro Saf;2;0.02615
-2026-02-09;Cruzeiro Saf;3;0.02973
-2026-02-09;Cruzeiro Saf;4;0.03332
-2026-02-09;Cruzeiro Saf;5;0.03613
-2026-02-09;Cruzeiro Saf;6;0.03791
-2026-02-09;Cruzeiro Saf;7;0.04024
-2026-02-09;Cruzeiro Saf;8;0.04257
-2026-02-09;Cruzeiro Saf;9;0.04355
-2026-02-09;Cruzeiro Saf;10;0.04738
-2026-02-09;Cruzeiro Saf;11;0.04836
-2026-02-09;Cruzeiro Saf;12;0.05142
-2026-02-09;Cruzeiro Saf;13;0.05396
-2026-02-09;Cruzeiro Saf;14;0.05732
-2026-02-09;Cruzeiro Saf;15;0.05773
-2026-02-09;Cruzeiro Saf;16;0.06211
-2026-02-09;Cruzeiro Saf;17;0.06622
-2026-02-09;Cruzeiro Saf;18;0.07312
-2026-02-09;Cruzeiro Saf;19;0.07936
-2026-02-09;Cruzeiro Saf;20;0.09249
+2026-02-09;Cruzeiro;1;0.02093
+2026-02-09;Cruzeiro;2;0.02615
+2026-02-09;Cruzeiro;3;0.02973
+2026-02-09;Cruzeiro;4;0.03332
+2026-02-09;Cruzeiro;5;0.03613
+2026-02-09;Cruzeiro;6;0.03791
+2026-02-09;Cruzeiro;7;0.04024
+2026-02-09;Cruzeiro;8;0.04257
+2026-02-09;Cruzeiro;9;0.04355
+2026-02-09;Cruzeiro;10;0.04738
+2026-02-09;Cruzeiro;11;0.04836
+2026-02-09;Cruzeiro;12;0.05142
+2026-02-09;Cruzeiro;13;0.05396
+2026-02-09;Cruzeiro;14;0.05732
+2026-02-09;Cruzeiro;15;0.05773
+2026-02-09;Cruzeiro;16;0.06211
+2026-02-09;Cruzeiro;17;0.06622
+2026-02-09;Cruzeiro;18;0.07312
+2026-02-09;Cruzeiro;19;0.07936
+2026-02-09;Cruzeiro;20;0.09249
 2026-02-12;Atlético Mineiro;1;0.02018
 2026-02-12;Atlético Mineiro;2;0.02533
 2026-02-12;Atlético Mineiro;3;0.02935
