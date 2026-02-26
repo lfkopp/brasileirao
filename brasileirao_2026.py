@@ -27,7 +27,7 @@ def pega(rodada):
 
 def limpa_nome(nome):
     if nome:
-        return nome.replace(' Saf','').replace(' S.a.f.','').replace(' Fc','')
+        return nome.replace(' Saf','').replace(' S.a.f.','').replace(' Fc','').replace(' SAF','')
     else:
         return None
         
