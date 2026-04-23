@@ -16,11 +16,30 @@ from time import sleep
 print('iniciando script')
 num_sim = 100000
 ano = 2026
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0',
+    'Accept': '*/*',
+    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+    # 'Accept-Encoding': 'gzip, deflate, br, zstd',
+    'Referer': 'https://www.cbf.com.br/',
+    'Content-Type': 'application/json',
+    'Authorization': 'Bearer Cbf@2022!',
+    'Origin': 'https://www.cbf.com.br',
+    'DNT': '1',
+    'Sec-GPC': '1',
+    'Connection': 'keep-alive',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'same-site',
+    'Priority': 'u=0',
+    'Pragma': 'no-cache',
+    'Cache-Control': 'no-cache',
+}
 
 def pega(rodada):
     for i in range(10):
         try:
-            return requests.get(f'https://www.cbf.com.br/api/proxy?path=/jogos/campeonato/1260611/rodada/{rodada}/fase', verify=False).json()['jogos']
+            return requests.get(f'https://gweb.cbf.com.br/api/site/v1/jogos/campeonato/1260611/rodada/{rodada}/fase', headers=headers verify=False).json()['jogos']
         except:
             print('erro ao pegar rodada',rodada,'tentativa',i+1)
             sleep(2)
