@@ -53,11 +53,15 @@ def limpa_nome(nome):
 def pega_jogos():
     js = []
     times = []
-    for rodada in range(1,39):
-        print('rodada',rodada)
+    for rodada in range(1, 39):
+        print('rodada', rodada)
         jogos = pega(rodada)
-        print(jogos)
-        for jogo in jogos[0]['jogo']:
+        
+        if not jogos or len(jogos) == 0:
+            print(f"Warning: No data found for round {rodada}")
+            continue # Skip this round instead of crashing
+            
+        for jogo in jogos[0].get('jogo', []):
             j = {'mandante':limpa_nome(jogo['mandante']['nome']), 'visitante':limpa_nome(jogo['visitante']['nome']),
                 'placar_mandante':jogo['mandante']['gols'], 'placar_visitante':jogo['visitante']['gols']}
             print('j',j)
