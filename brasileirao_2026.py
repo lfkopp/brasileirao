@@ -39,7 +39,7 @@ headers = {
 def pega(rodada):
     for i in range(10):
         try:
-            return requests.get(f'https://gweb.cbf.com.br/api/site/v1/jogos/campeonato/1260611/rodada/{rodada}/fase', headers=headers verify=False).json()['jogos']
+            return requests.get(f'https://gweb.cbf.com.br/api/site/v1/jogos/campeonato/1260611/rodada/{rodada}/fase', headers=headers, verify=False).json()['jogos']
         except:
             print('erro ao pegar rodada',rodada,'tentativa',i+1)
             sleep(2)
