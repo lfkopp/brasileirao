@@ -11,38 +11,40 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.ndimage import gaussian_filter1d
 from time import sleep
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 #%% 
 
 print('iniciando script')
 num_sim = 100000
 ano = 2026
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0',
-    'Accept': '*/*',
-    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-    # 'Accept-Encoding': 'gzip, deflate, br, zstd',
-    'Referer': 'https://www.cbf.com.br/',
-    'Content-Type': 'application/json',
-    'Authorization': 'Bearer Cbf@2022!',
-    'Origin': 'https://www.cbf.com.br',
-    'DNT': '1',
-    'Sec-GPC': '1',
-    'Connection': 'keep-alive',
-    'Sec-Fetch-Dest': 'empty',
-    'Sec-Fetch-Mode': 'cors',
-    'Sec-Fetch-Site': 'same-site',
-    'Priority': 'u=0',
-    'Pragma': 'no-cache',
-    'Cache-Control': 'no-cache',
-}
+#headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0',    'Accept': '*/*',    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',    'Referer': 'https://www.cbf.com.br/',    'Content-Type': 'application/json',    'Authorization': 'Bearer Cbf@2022!',    'Origin': 'https://www.cbf.com.br',    'DNT': '1',    'Sec-GPC': '1',    'Connection': 'keep-alive',    'Sec-Fetch-Site': 'same-site',}
 
+headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0',    'Accept': 'application/json',    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',    'Referer': 'https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/2026',    'content-type': 'application/json',    'Connection': 'keep-alive',    'Cookie': 'cookiesession1=678A3E0E2F39CA38863DD30D14D335D9; cookies_accepted_categories=technically_required%2Cpreferences%2Canalytics%2Cmarketing',    'Sec-Fetch-Dest': 'empty',    'Sec-Fetch-Mode': 'cors',    'Sec-Fetch-Site': 'same-origin',    'Priority': 'u=0',    'Pragma': 'no-cache',    'Cache-Control': 'no-cache',}
+
+
+#def pega(rodada):
+#    for i in range(10):
+#        try:
+#            return requests.get(f'https://gweb.cbf.com.br/api/site/v1/jogos/campeonato/1260611/rodada/{rodada}/fase', headers=headers, verify=False).json()['jogos']
+#        except:
+#            print('erro ao pegar rodada',rodada,'tentativa',i+1)
+#            sleep(2)
+            
 def pega(rodada):
     for i in range(10):
         try:
-            return requests.get(f'https://gweb.cbf.com.br/api/site/v1/jogos/campeonato/1260611/rodada/{rodada}/fase', headers=headers, verify=False).json()['jogos']
-        except:
-            print('erro ao pegar rodada',rodada,'tentativa',i+1)
-            sleep(2)
+            url = f'https://www.cbf.com.br/api/cbf/jogos/campeonato/1260611/rodada/{rodada}/fase'
+            response = requests.get(url, headers=headers)
+            if response.status_code == 200:
+                return response.json()['jogos']
+            else:
+                print(f'Erro HTTP {response.status_code} na rodada {rodada}, tentativa {i+1}')
+        except Exception as e:
+            print('erro ao pegar rodada', rodada, 'tentativa', i+1, '-', e)
+        sleep(2)
+
 
 def limpa_nome(nome):
     if nome:
