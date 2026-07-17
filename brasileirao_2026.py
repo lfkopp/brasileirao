@@ -36,7 +36,7 @@ def pega(rodada):
     for i in range(10):
         try:
             url = f'https://www.cbf.com.br/api/cbf/jogos/campeonato/1260611/rodada/{rodada}/fase'
-            response = requests.get(url, headers=headers)
+            response = requests.get(url, headers=headers, verify=False)
             if response.status_code == 200:
                 return response.json()['jogos']
             else:
