@@ -1,29 +1,16 @@
-FROM prefecthq/prefect:3-latest AS builder
+FROM python:3.11-slim
 
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends \
-    build-essential \
-    libpq-dev \
-    git \
-    && rm -rf /var/lib/apt/lists/*
-COPY requirements.txt /tmp/
-RUN pip install --no-cache-dir -r /tmp/requirements.txt \
-    && pip install --no-cache-dir \
-    asyncpg \
-    pandas \
-    matplotlib \
-    scipy \
-    requests \
-    "prefect-docker" \
-    "docker"
-
-FROM prefecthq/prefect:3-latest
-
-COPY --from=builder /usr/local/lib/python3.12/site-packages /usr/local/lib/python3.12/site-packages
-
-COPY ./flows /app/flows
-COPY ./tasks /app/tasks
-COPY ./*.txt /app/
-COPY ./assets/figs /app/assets/figs
+    apt-get install -y --no-install-recommends build-essential && \
+    rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY brasileirao_2026.py .
+COPY brasileirao_*.txt* ./
+COPY figs/ ./figs/
+
+CMD ["python", "brasileirao_2026.py"]
