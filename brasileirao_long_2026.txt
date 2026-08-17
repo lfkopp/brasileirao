@@ -17635,9 +17635,9 @@ data;time;pos;chance
 2026-05-02;Palmeiras;14;0.00047
 2026-05-02;Palmeiras;15;0.00037
 2026-05-02;Palmeiras;16;0.00017
-2026-05-02;Palmeiras;17;9e-05
-2026-05-02;Palmeiras;18;1e-05
-2026-05-02;Palmeiras;19;2e-05
+2026-05-02;Palmeiras;17;0.00009
+2026-05-02;Palmeiras;18;0.00001
+2026-05-02;Palmeiras;19;0.00002
 2026-05-02;Palmeiras;20;0.0
 2026-05-02;Internacional;1;0.00102
 2026-05-02;Internacional;2;0.00421
@@ -17839,7 +17839,7 @@ data;time;pos;chance
 2026-05-02;Bahia;18;0.00851
 2026-05-02;Bahia;19;0.00518
 2026-05-02;Bahia;20;0.00235
-2026-05-02;Chapecoense;1;4e-05
+2026-05-02;Chapecoense;1;0.00004
 2026-05-02;Chapecoense;2;0.00034
 2026-05-02;Chapecoense;3;0.00124
 2026-05-02;Chapecoense;4;0.00206
@@ -17918,7 +17918,7 @@ data;time;pos;chance
 2026-05-02;Flamengo;17;0.0009
 2026-05-02;Flamengo;18;0.00058
 2026-05-02;Flamengo;19;0.0002
-2026-05-02;Flamengo;20;5e-05
+2026-05-02;Flamengo;20;0.00005
 2026-05-02;Mirassol;1;0.00036
 2026-05-02;Mirassol;2;0.00146
 2026-05-02;Mirassol;3;0.00337
@@ -18032,10 +18032,10 @@ data;time;pos;chance
 2026-07-17;Palmeiras;11;0.00065
 2026-07-17;Palmeiras;12;0.00034
 2026-07-17;Palmeiras;13;0.00022
-2026-07-17;Palmeiras;14;6e-05
-2026-07-17;Palmeiras;15;4e-05
+2026-07-17;Palmeiras;14;0.00006
+2026-07-17;Palmeiras;15;0.00004
 2026-07-17;Palmeiras;16;0.0
-2026-07-17;Palmeiras;17;1e-05
+2026-07-17;Palmeiras;17;0.00001
 2026-07-17;Palmeiras;18;0.0
 2026-07-17;Palmeiras;19;0.0
 2026-07-17;Palmeiras;20;0.0
@@ -18241,8 +18241,8 @@ data;time;pos;chance
 2026-07-17;Bahia;20;0.0022
 2026-07-17;Chapecoense;1;0.0
 2026-07-17;Chapecoense;2;0.0
-2026-07-17;Chapecoense;3;4e-05
-2026-07-17;Chapecoense;4;5e-05
+2026-07-17;Chapecoense;3;0.00004
+2026-07-17;Chapecoense;4;0.00005
 2026-07-17;Chapecoense;5;0.00014
 2026-07-17;Chapecoense;6;0.00024
 2026-07-17;Chapecoense;7;0.00049
@@ -18316,10 +18316,10 @@ data;time;pos;chance
 2026-07-17;Flamengo;15;0.00117
 2026-07-17;Flamengo;16;0.00056
 2026-07-17;Flamengo;17;0.00032
-2026-07-17;Flamengo;18;9e-05
-2026-07-17;Flamengo;19;2e-05
+2026-07-17;Flamengo;18;0.00009
+2026-07-17;Flamengo;19;0.00002
 2026-07-17;Flamengo;20;0.0
-2026-07-17;Mirassol;1;7e-05
+2026-07-17;Mirassol;1;0.00007
 2026-07-17;Mirassol;2;0.00068
 2026-07-17;Mirassol;3;0.00157
 2026-07-17;Mirassol;4;0.00309
@@ -18339,7 +18339,7 @@ data;time;pos;chance
 2026-07-17;Mirassol;18;0.14584
 2026-07-17;Mirassol;19;0.17599
 2026-07-17;Mirassol;20;0.10387
-2026-07-17;Vasco da Gama;1;5e-05
+2026-07-17;Vasco da Gama;1;0.00005
 2026-07-17;Vasco da Gama;2;0.00067
 2026-07-17;Vasco da Gama;3;0.00219
 2026-07-17;Vasco da Gama;4;0.00356
@@ -18432,10 +18432,10 @@ data;time;pos;chance
 2026-07-17;Palmeiras;11;0.0007
 2026-07-17;Palmeiras;12;0.00033
 2026-07-17;Palmeiras;13;0.00019
-2026-07-17;Palmeiras;14;9e-05
-2026-07-17;Palmeiras;15;1e-05
-2026-07-17;Palmeiras;16;1e-05
-2026-07-17;Palmeiras;17;1e-05
+2026-07-17;Palmeiras;14;0.00009
+2026-07-17;Palmeiras;15;0.00001
+2026-07-17;Palmeiras;16;0.00001
+2026-07-17;Palmeiras;17;0.00001
 2026-07-17;Palmeiras;18;0.0
 2026-07-17;Palmeiras;19;0.0
 2026-07-17;Palmeiras;20;0.0
@@ -18578,7 +18578,7 @@ data;time;pos;chance
 2026-07-17;Fluminense;17;0.00353
 2026-07-17;Fluminense;18;0.00192
 2026-07-17;Fluminense;19;0.00067
-2026-07-17;Fluminense;20;9e-05
+2026-07-17;Fluminense;20;0.00009
 2026-07-17;Grêmio;1;0.00053
 2026-07-17;Grêmio;2;0.00326
 2026-07-17;Grêmio;3;0.00782
@@ -18641,8 +18641,8 @@ data;time;pos;chance
 2026-07-17;Bahia;20;0.00252
 2026-07-17;Chapecoense;1;0.0
 2026-07-17;Chapecoense;2;0.0
-2026-07-17;Chapecoense;3;4e-05
-2026-07-17;Chapecoense;4;6e-05
+2026-07-17;Chapecoense;3;0.00004
+2026-07-17;Chapecoense;4;0.00006
 2026-07-17;Chapecoense;5;0.00011
 2026-07-17;Chapecoense;6;0.00028
 2026-07-17;Chapecoense;7;0.00044
@@ -18716,10 +18716,10 @@ data;time;pos;chance
 2026-07-17;Flamengo;15;0.00111
 2026-07-17;Flamengo;16;0.00058
 2026-07-17;Flamengo;17;0.00031
-2026-07-17;Flamengo;18;9e-05
-2026-07-17;Flamengo;19;3e-05
-2026-07-17;Flamengo;20;3e-05
-2026-07-17;Mirassol;1;8e-05
+2026-07-17;Flamengo;18;0.00009
+2026-07-17;Flamengo;19;0.00003
+2026-07-17;Flamengo;20;0.00003
+2026-07-17;Mirassol;1;0.00008
 2026-07-17;Mirassol;2;0.00063
 2026-07-17;Mirassol;3;0.00155
 2026-07-17;Mirassol;4;0.00317
@@ -18832,9 +18832,9 @@ data;time;pos;chance
 2026-07-17;Palmeiras;11;0.00067
 2026-07-17;Palmeiras;12;0.0004
 2026-07-17;Palmeiras;13;0.00017
-2026-07-17;Palmeiras;14;4e-05
-2026-07-17;Palmeiras;15;6e-05
-2026-07-17;Palmeiras;16;1e-05
+2026-07-17;Palmeiras;14;0.00004
+2026-07-17;Palmeiras;15;0.00006
+2026-07-17;Palmeiras;16;0.00001
 2026-07-17;Palmeiras;17;0.0
 2026-07-17;Palmeiras;18;0.0
 2026-07-17;Palmeiras;19;0.0
@@ -18939,7 +18939,7 @@ data;time;pos;chance
 2026-07-17;Vitória;18;0.02693
 2026-07-17;Vitória;19;0.01522
 2026-07-17;Vitória;20;0.00403
-2026-07-17;Remo;1;6e-05
+2026-07-17;Remo;1;0.00006
 2026-07-17;Remo;2;0.0006
 2026-07-17;Remo;3;0.00231
 2026-07-17;Remo;4;0.00453
@@ -18978,7 +18978,7 @@ data;time;pos;chance
 2026-07-17;Fluminense;17;0.00384
 2026-07-17;Fluminense;18;0.00201
 2026-07-17;Fluminense;19;0.00071
-2026-07-17;Fluminense;20;6e-05
+2026-07-17;Fluminense;20;0.00006
 2026-07-17;Grêmio;1;0.0005
 2026-07-17;Grêmio;2;0.00324
 2026-07-17;Grêmio;3;0.00846
@@ -19039,10 +19039,10 @@ data;time;pos;chance
 2026-07-17;Bahia;18;0.01546
 2026-07-17;Bahia;19;0.00805
 2026-07-17;Bahia;20;0.00236
-2026-07-17;Chapecoense;1;1e-05
-2026-07-17;Chapecoense;2;1e-05
+2026-07-17;Chapecoense;1;0.00001
+2026-07-17;Chapecoense;2;0.00001
 2026-07-17;Chapecoense;3;0.0
-2026-07-17;Chapecoense;4;4e-05
+2026-07-17;Chapecoense;4;0.00004
 2026-07-17;Chapecoense;5;0.00014
 2026-07-17;Chapecoense;6;0.00016
 2026-07-17;Chapecoense;7;0.00057
@@ -19117,7 +19117,7 @@ data;time;pos;chance
 2026-07-17;Flamengo;16;0.00069
 2026-07-17;Flamengo;17;0.00024
 2026-07-17;Flamengo;18;0.00014
-2026-07-17;Flamengo;19;3e-05
+2026-07-17;Flamengo;19;0.00003
 2026-07-17;Flamengo;20;0.0
 2026-07-17;Mirassol;1;0.00011
 2026-07-17;Mirassol;2;0.00057
@@ -19139,7 +19139,7 @@ data;time;pos;chance
 2026-07-17;Mirassol;18;0.14853
 2026-07-17;Mirassol;19;0.17427
 2026-07-17;Mirassol;20;0.10396
-2026-07-17;Vasco da Gama;1;9e-05
+2026-07-17;Vasco da Gama;1;0.00009
 2026-07-17;Vasco da Gama;2;0.0006
 2026-07-17;Vasco da Gama;3;0.00196
 2026-07-17;Vasco da Gama;4;0.0038
@@ -19233,7 +19233,7 @@ data;time;pos;chance
 2026-07-18;Palmeiras;12;0.00038
 2026-07-18;Palmeiras;13;0.00015
 2026-07-18;Palmeiras;14;0.0001
-2026-07-18;Palmeiras;15;4e-05
+2026-07-18;Palmeiras;15;0.00004
 2026-07-18;Palmeiras;16;0.0
 2026-07-18;Palmeiras;17;0.0
 2026-07-18;Palmeiras;18;0.0
@@ -19339,7 +19339,7 @@ data;time;pos;chance
 2026-07-18;Vitória;18;0.02701
 2026-07-18;Vitória;19;0.01502
 2026-07-18;Vitória;20;0.004
-2026-07-18;Remo;1;8e-05
+2026-07-18;Remo;1;0.00008
 2026-07-18;Remo;2;0.00075
 2026-07-18;Remo;3;0.00244
 2026-07-18;Remo;4;0.0043
@@ -19442,8 +19442,8 @@ data;time;pos;chance
 2026-07-18;Chapecoense;1;0.0
 2026-07-18;Chapecoense;2;0.0
 2026-07-18;Chapecoense;3;0.0
-2026-07-18;Chapecoense;4;3e-05
-2026-07-18;Chapecoense;5;5e-05
+2026-07-18;Chapecoense;4;0.00003
+2026-07-18;Chapecoense;5;0.00005
 2026-07-18;Chapecoense;6;0.00016
 2026-07-18;Chapecoense;7;0.00026
 2026-07-18;Chapecoense;8;0.00039
@@ -19517,7 +19517,7 @@ data;time;pos;chance
 2026-07-18;Flamengo;16;0.00054
 2026-07-18;Flamengo;17;0.00037
 2026-07-18;Flamengo;18;0.00013
-2026-07-18;Flamengo;19;4e-05
+2026-07-18;Flamengo;19;0.00004
 2026-07-18;Flamengo;20;0.0
 2026-07-18;Mirassol;1;0.00014
 2026-07-18;Mirassol;2;0.00076
@@ -19632,9 +19632,9 @@ data;time;pos;chance
 2026-07-19;Palmeiras;11;0.0007
 2026-07-19;Palmeiras;12;0.00035
 2026-07-19;Palmeiras;13;0.00021
-2026-07-19;Palmeiras;14;8e-05
-2026-07-19;Palmeiras;15;5e-05
-2026-07-19;Palmeiras;16;2e-05
+2026-07-19;Palmeiras;14;0.00008
+2026-07-19;Palmeiras;15;0.00005
+2026-07-19;Palmeiras;16;0.00002
 2026-07-19;Palmeiras;17;0.0
 2026-07-19;Palmeiras;18;0.0
 2026-07-19;Palmeiras;19;0.0
@@ -19739,7 +19739,7 @@ data;time;pos;chance
 2026-07-19;Vitória;18;0.02586
 2026-07-19;Vitória;19;0.01584
 2026-07-19;Vitória;20;0.00417
-2026-07-19;Remo;1;8e-05
+2026-07-19;Remo;1;0.00008
 2026-07-19;Remo;2;0.0007
 2026-07-19;Remo;3;0.00239
 2026-07-19;Remo;4;0.00451
@@ -19842,8 +19842,8 @@ data;time;pos;chance
 2026-07-19;Chapecoense;1;0.0
 2026-07-19;Chapecoense;2;0.0
 2026-07-19;Chapecoense;3;0.0
-2026-07-19;Chapecoense;4;3e-05
-2026-07-19;Chapecoense;5;1e-05
+2026-07-19;Chapecoense;4;0.00003
+2026-07-19;Chapecoense;5;0.00001
 2026-07-19;Chapecoense;6;0.00015
 2026-07-19;Chapecoense;7;0.00017
 2026-07-19;Chapecoense;8;0.00044
@@ -19916,8 +19916,8 @@ data;time;pos;chance
 2026-07-19;Flamengo;15;0.00106
 2026-07-19;Flamengo;16;0.00066
 2026-07-19;Flamengo;17;0.00036
-2026-07-19;Flamengo;18;8e-05
-2026-07-19;Flamengo;19;4e-05
+2026-07-19;Flamengo;18;0.00008
+2026-07-19;Flamengo;19;0.00004
 2026-07-19;Flamengo;20;0.0
 2026-07-19;Mirassol;1;0.00016
 2026-07-19;Mirassol;2;0.00084
@@ -20033,9 +20033,9 @@ data;time;pos;chance
 2026-07-20;Palmeiras;12;0.00028
 2026-07-20;Palmeiras;13;0.00011
 2026-07-20;Palmeiras;14;0.00012
-2026-07-20;Palmeiras;15;5e-05
-2026-07-20;Palmeiras;16;2e-05
-2026-07-20;Palmeiras;17;1e-05
+2026-07-20;Palmeiras;15;0.00005
+2026-07-20;Palmeiras;16;0.00002
+2026-07-20;Palmeiras;17;0.00001
 2026-07-20;Palmeiras;18;0.0
 2026-07-20;Palmeiras;19;0.0
 2026-07-20;Palmeiras;20;0.0
@@ -20242,9 +20242,9 @@ data;time;pos;chance
 2026-07-20;Chapecoense;1;0.0
 2026-07-20;Chapecoense;2;0.0
 2026-07-20;Chapecoense;3;0.0
-2026-07-20;Chapecoense;4;2e-05
-2026-07-20;Chapecoense;5;4e-05
-2026-07-20;Chapecoense;6;3e-05
+2026-07-20;Chapecoense;4;0.00002
+2026-07-20;Chapecoense;5;0.00004
+2026-07-20;Chapecoense;6;0.00003
 2026-07-20;Chapecoense;7;0.00019
 2026-07-20;Chapecoense;8;0.00038
 2026-07-20;Chapecoense;9;0.00066
@@ -20316,10 +20316,10 @@ data;time;pos;chance
 2026-07-20;Flamengo;15;0.00115
 2026-07-20;Flamengo;16;0.00053
 2026-07-20;Flamengo;17;0.00027
-2026-07-20;Flamengo;18;7e-05
-2026-07-20;Flamengo;19;4e-05
+2026-07-20;Flamengo;18;0.00007
+2026-07-20;Flamengo;19;0.00004
 2026-07-20;Flamengo;20;0.0
-2026-07-20;Mirassol;1;9e-05
+2026-07-20;Mirassol;1;0.00009
 2026-07-20;Mirassol;2;0.00082
 2026-07-20;Mirassol;3;0.00223
 2026-07-20;Mirassol;4;0.00457
@@ -20339,7 +20339,7 @@ data;time;pos;chance
 2026-07-20;Mirassol;18;0.13792
 2026-07-20;Mirassol;19;0.14819
 2026-07-20;Mirassol;20;0.06706
-2026-07-20;Vasco da Gama;1;8e-05
+2026-07-20;Vasco da Gama;1;0.00008
 2026-07-20;Vasco da Gama;2;0.00053
 2026-07-20;Vasco da Gama;3;0.00182
 2026-07-20;Vasco da Gama;4;0.00359
@@ -20432,9 +20432,9 @@ data;time;pos;chance
 2026-07-21;Palmeiras;11;0.00056
 2026-07-21;Palmeiras;12;0.00032
 2026-07-21;Palmeiras;13;0.00012
-2026-07-21;Palmeiras;14;6e-05
-2026-07-21;Palmeiras;15;5e-05
-2026-07-21;Palmeiras;16;1e-05
+2026-07-21;Palmeiras;14;0.00006
+2026-07-21;Palmeiras;15;0.00005
+2026-07-21;Palmeiras;16;0.00001
 2026-07-21;Palmeiras;17;0.0
 2026-07-21;Palmeiras;18;0.0
 2026-07-21;Palmeiras;19;0.0
@@ -20539,7 +20539,7 @@ data;time;pos;chance
 2026-07-21;Vitória;18;0.02612
 2026-07-21;Vitória;19;0.01593
 2026-07-21;Vitória;20;0.00391
-2026-07-21;Remo;1;9e-05
+2026-07-21;Remo;1;0.00009
 2026-07-21;Remo;2;0.00059
 2026-07-21;Remo;3;0.00212
 2026-07-21;Remo;4;0.00434
@@ -20642,8 +20642,8 @@ data;time;pos;chance
 2026-07-21;Chapecoense;1;0.0
 2026-07-21;Chapecoense;2;0.0
 2026-07-21;Chapecoense;3;0.0
-2026-07-21;Chapecoense;4;1e-05
-2026-07-21;Chapecoense;5;7e-05
+2026-07-21;Chapecoense;4;0.00001
+2026-07-21;Chapecoense;5;0.00007
 2026-07-21;Chapecoense;6;0.00011
 2026-07-21;Chapecoense;7;0.00019
 2026-07-21;Chapecoense;8;0.00045
@@ -20717,7 +20717,7 @@ data;time;pos;chance
 2026-07-21;Flamengo;16;0.0007
 2026-07-21;Flamengo;17;0.00035
 2026-07-21;Flamengo;18;0.0001
-2026-07-21;Flamengo;19;6e-05
+2026-07-21;Flamengo;19;0.00006
 2026-07-21;Flamengo;20;0.0
 2026-07-21;Mirassol;1;0.00013
 2026-07-21;Mirassol;2;0.00077
@@ -20739,7 +20739,7 @@ data;time;pos;chance
 2026-07-21;Mirassol;18;0.13863
 2026-07-21;Mirassol;19;0.15136
 2026-07-21;Mirassol;20;0.06678
-2026-07-21;Vasco da Gama;1;9e-05
+2026-07-21;Vasco da Gama;1;0.00009
 2026-07-21;Vasco da Gama;2;0.00087
 2026-07-21;Vasco da Gama;3;0.00219
 2026-07-21;Vasco da Gama;4;0.00415
@@ -20833,9 +20833,9 @@ data;time;pos;chance
 2026-07-22;Palmeiras;12;0.0003
 2026-07-22;Palmeiras;13;0.00015
 2026-07-22;Palmeiras;14;0.00011
-2026-07-22;Palmeiras;15;3e-05
-2026-07-22;Palmeiras;16;3e-05
-2026-07-22;Palmeiras;17;1e-05
+2026-07-22;Palmeiras;15;0.00003
+2026-07-22;Palmeiras;16;0.00003
+2026-07-22;Palmeiras;17;0.00001
 2026-07-22;Palmeiras;18;0.0
 2026-07-22;Palmeiras;19;0.0
 2026-07-22;Palmeiras;20;0.0
@@ -21042,8 +21042,8 @@ data;time;pos;chance
 2026-07-22;Chapecoense;1;0.0
 2026-07-22;Chapecoense;2;0.0
 2026-07-22;Chapecoense;3;0.0
-2026-07-22;Chapecoense;4;1e-05
-2026-07-22;Chapecoense;5;5e-05
+2026-07-22;Chapecoense;4;0.00001
+2026-07-22;Chapecoense;5;0.00005
 2026-07-22;Chapecoense;6;0.00012
 2026-07-22;Chapecoense;7;0.00022
 2026-07-22;Chapecoense;8;0.00036
@@ -21117,8 +21117,8 @@ data;time;pos;chance
 2026-07-22;Flamengo;16;0.00062
 2026-07-22;Flamengo;17;0.00031
 2026-07-22;Flamengo;18;0.00013
-2026-07-22;Flamengo;19;5e-05
-2026-07-22;Flamengo;20;3e-05
+2026-07-22;Flamengo;19;0.00005
+2026-07-22;Flamengo;20;0.00003
 2026-07-22;Mirassol;1;0.00012
 2026-07-22;Mirassol;2;0.00086
 2026-07-22;Mirassol;3;0.00251
@@ -21231,7 +21231,7 @@ data;time;pos;chance
 2026-07-23;Palmeiras;10;0.00022
 2026-07-23;Palmeiras;11;0.00016
 2026-07-23;Palmeiras;12;0.0001
-2026-07-23;Palmeiras;13;1e-05
+2026-07-23;Palmeiras;13;0.00001
 2026-07-23;Palmeiras;14;0.0
 2026-07-23;Palmeiras;15;0.0
 2026-07-23;Palmeiras;16;0.0
@@ -21239,7 +21239,7 @@ data;time;pos;chance
 2026-07-23;Palmeiras;18;0.0
 2026-07-23;Palmeiras;19;0.0
 2026-07-23;Palmeiras;20;0.0
-2026-07-23;Internacional;1;7e-05
+2026-07-23;Internacional;1;0.00007
 2026-07-23;Internacional;2;0.00056
 2026-07-23;Internacional;3;0.00302
 2026-07-23;Internacional;4;0.00575
@@ -21278,7 +21278,7 @@ data;time;pos;chance
 2026-07-23;Athletico Paranaense;17;0.00282
 2026-07-23;Athletico Paranaense;18;0.001
 2026-07-23;Athletico Paranaense;19;0.00032
-2026-07-23;Athletico Paranaense;20;1e-05
+2026-07-23;Athletico Paranaense;20;0.00001
 2026-07-23;Coritiba;1;0.0018
 2026-07-23;Coritiba;2;0.01257
 2026-07-23;Coritiba;3;0.03765
@@ -21339,7 +21339,7 @@ data;time;pos;chance
 2026-07-23;Vitória;18;0.02594
 2026-07-23;Vitória;19;0.01439
 2026-07-23;Vitória;20;0.00245
-2026-07-23;Remo;1;3e-05
+2026-07-23;Remo;1;0.00003
 2026-07-23;Remo;2;0.00042
 2026-07-23;Remo;3;0.00195
 2026-07-23;Remo;4;0.00421
@@ -21378,8 +21378,8 @@ data;time;pos;chance
 2026-07-23;Fluminense;17;0.00529
 2026-07-23;Fluminense;18;0.0026
 2026-07-23;Fluminense;19;0.00107
-2026-07-23;Fluminense;20;6e-05
-2026-07-23;Grêmio;1;9e-05
+2026-07-23;Fluminense;20;0.00006
+2026-07-23;Grêmio;1;0.00009
 2026-07-23;Grêmio;2;0.00124
 2026-07-23;Grêmio;3;0.00513
 2026-07-23;Grêmio;4;0.0102
@@ -21444,8 +21444,8 @@ data;time;pos;chance
 2026-07-23;Chapecoense;3;0.0
 2026-07-23;Chapecoense;4;0.0
 2026-07-23;Chapecoense;5;0.0
-2026-07-23;Chapecoense;6;2e-05
-2026-07-23;Chapecoense;7;4e-05
+2026-07-23;Chapecoense;6;0.00002
+2026-07-23;Chapecoense;7;0.00004
 2026-07-23;Chapecoense;8;0.00016
 2026-07-23;Chapecoense;9;0.0002
 2026-07-23;Chapecoense;10;0.00043
@@ -21459,7 +21459,7 @@ data;time;pos;chance
 2026-07-23;Chapecoense;18;0.04859
 2026-07-23;Chapecoense;19;0.12726
 2026-07-23;Chapecoense;20;0.77427
-2026-07-23;Santos;1;5e-05
+2026-07-23;Santos;1;0.00005
 2026-07-23;Santos;2;0.00053
 2026-07-23;Santos;3;0.00297
 2026-07-23;Santos;4;0.00581
@@ -21514,12 +21514,12 @@ data;time;pos;chance
 2026-07-23;Flamengo;13;0.00072
 2026-07-23;Flamengo;14;0.00049
 2026-07-23;Flamengo;15;0.00019
-2026-07-23;Flamengo;16;7e-05
-2026-07-23;Flamengo;17;6e-05
-2026-07-23;Flamengo;18;2e-05
+2026-07-23;Flamengo;16;0.00007
+2026-07-23;Flamengo;17;0.00006
+2026-07-23;Flamengo;18;0.00002
 2026-07-23;Flamengo;19;0.0
 2026-07-23;Flamengo;20;0.0
-2026-07-23;Mirassol;1;2e-05
+2026-07-23;Mirassol;1;0.00002
 2026-07-23;Mirassol;2;0.00053
 2026-07-23;Mirassol;3;0.00224
 2026-07-23;Mirassol;4;0.00449
@@ -21539,7 +21539,7 @@ data;time;pos;chance
 2026-07-23;Mirassol;18;0.13868
 2026-07-23;Mirassol;19;0.15235
 2026-07-23;Mirassol;20;0.04377
-2026-07-23;Vasco da Gama;1;2e-05
+2026-07-23;Vasco da Gama;1;0.00002
 2026-07-23;Vasco da Gama;2;0.00038
 2026-07-23;Vasco da Gama;3;0.00195
 2026-07-23;Vasco da Gama;4;0.00415
@@ -21630,16 +21630,16 @@ data;time;pos;chance
 2026-07-24;Palmeiras;9;0.00047
 2026-07-24;Palmeiras;10;0.00021
 2026-07-24;Palmeiras;11;0.00014
-2026-07-24;Palmeiras;12;5e-05
-2026-07-24;Palmeiras;13;2e-05
-2026-07-24;Palmeiras;14;3e-05
+2026-07-24;Palmeiras;12;0.00005
+2026-07-24;Palmeiras;13;0.00002
+2026-07-24;Palmeiras;14;0.00003
 2026-07-24;Palmeiras;15;0.0
 2026-07-24;Palmeiras;16;0.0
 2026-07-24;Palmeiras;17;0.0
 2026-07-24;Palmeiras;18;0.0
 2026-07-24;Palmeiras;19;0.0
 2026-07-24;Palmeiras;20;0.0
-2026-07-24;Internacional;1;6e-05
+2026-07-24;Internacional;1;0.00006
 2026-07-24;Internacional;2;0.00067
 2026-07-24;Internacional;3;0.00282
 2026-07-24;Internacional;4;0.00657
@@ -21678,7 +21678,7 @@ data;time;pos;chance
 2026-07-24;Athletico Paranaense;17;0.00239
 2026-07-24;Athletico Paranaense;18;0.00116
 2026-07-24;Athletico Paranaense;19;0.00036
-2026-07-24;Athletico Paranaense;20;1e-05
+2026-07-24;Athletico Paranaense;20;0.00001
 2026-07-24;Coritiba;1;0.00205
 2026-07-24;Coritiba;2;0.01289
 2026-07-24;Coritiba;3;0.03743
@@ -21739,7 +21739,7 @@ data;time;pos;chance
 2026-07-24;Vitória;18;0.02115
 2026-07-24;Vitória;19;0.01237
 2026-07-24;Vitória;20;0.00177
-2026-07-24;Remo;1;1e-05
+2026-07-24;Remo;1;0.00001
 2026-07-24;Remo;2;0.00017
 2026-07-24;Remo;3;0.00123
 2026-07-24;Remo;4;0.00271
@@ -21778,7 +21778,7 @@ data;time;pos;chance
 2026-07-24;Fluminense;17;0.00494
 2026-07-24;Fluminense;18;0.0025
 2026-07-24;Fluminense;19;0.00087
-2026-07-24;Fluminense;20;3e-05
+2026-07-24;Fluminense;20;0.00003
 2026-07-24;Grêmio;1;0.0001
 2026-07-24;Grêmio;2;0.00118
 2026-07-24;Grêmio;3;0.00461
@@ -21843,9 +21843,9 @@ data;time;pos;chance
 2026-07-24;Chapecoense;2;0.0
 2026-07-24;Chapecoense;3;0.0
 2026-07-24;Chapecoense;4;0.0
-2026-07-24;Chapecoense;5;2e-05
-2026-07-24;Chapecoense;6;2e-05
-2026-07-24;Chapecoense;7;6e-05
+2026-07-24;Chapecoense;5;0.00002
+2026-07-24;Chapecoense;6;0.00002
+2026-07-24;Chapecoense;7;0.00006
 2026-07-24;Chapecoense;8;0.0001
 2026-07-24;Chapecoense;9;0.00014
 2026-07-24;Chapecoense;10;0.00038
@@ -21859,7 +21859,7 @@ data;time;pos;chance
 2026-07-24;Chapecoense;18;0.04882
 2026-07-24;Chapecoense;19;0.13
 2026-07-24;Chapecoense;20;0.77078
-2026-07-24;Santos;1;3e-05
+2026-07-24;Santos;1;0.00003
 2026-07-24;Santos;2;0.00061
 2026-07-24;Santos;3;0.00296
 2026-07-24;Santos;4;0.00609
@@ -21914,12 +21914,12 @@ data;time;pos;chance
 2026-07-24;Flamengo;13;0.00059
 2026-07-24;Flamengo;14;0.00048
 2026-07-24;Flamengo;15;0.00022
-2026-07-24;Flamengo;16;8e-05
-2026-07-24;Flamengo;17;5e-05
+2026-07-24;Flamengo;16;0.00008
+2026-07-24;Flamengo;17;0.00005
 2026-07-24;Flamengo;18;0.0
 2026-07-24;Flamengo;19;0.0
 2026-07-24;Flamengo;20;0.0
-2026-07-24;Mirassol;1;1e-05
+2026-07-24;Mirassol;1;0.00001
 2026-07-24;Mirassol;2;0.00058
 2026-07-24;Mirassol;3;0.00206
 2026-07-24;Mirassol;4;0.00411
@@ -21939,7 +21939,7 @@ data;time;pos;chance
 2026-07-24;Mirassol;18;0.14066
 2026-07-24;Mirassol;19;0.14728
 2026-07-24;Mirassol;20;0.04354
-2026-07-24;Vasco da Gama;1;3e-05
+2026-07-24;Vasco da Gama;1;0.00003
 2026-07-24;Vasco da Gama;2;0.00042
 2026-07-24;Vasco da Gama;3;0.00188
 2026-07-24;Vasco da Gama;4;0.00422
@@ -22029,17 +22029,17 @@ data;time;pos;chance
 2026-07-25;Palmeiras;8;0.00076
 2026-07-25;Palmeiras;9;0.00048
 2026-07-25;Palmeiras;10;0.00014
-2026-07-25;Palmeiras;11;5e-05
-2026-07-25;Palmeiras;12;3e-05
-2026-07-25;Palmeiras;13;1e-05
-2026-07-25;Palmeiras;14;2e-05
+2026-07-25;Palmeiras;11;0.00005
+2026-07-25;Palmeiras;12;0.00003
+2026-07-25;Palmeiras;13;0.00001
+2026-07-25;Palmeiras;14;0.00002
 2026-07-25;Palmeiras;15;0.0
-2026-07-25;Palmeiras;16;1e-05
+2026-07-25;Palmeiras;16;0.00001
 2026-07-25;Palmeiras;17;0.0
 2026-07-25;Palmeiras;18;0.0
 2026-07-25;Palmeiras;19;0.0
 2026-07-25;Palmeiras;20;0.0
-2026-07-25;Internacional;1;5e-05
+2026-07-25;Internacional;1;0.00005
 2026-07-25;Internacional;2;0.00064
 2026-07-25;Internacional;3;0.00281
 2026-07-25;Internacional;4;0.0063
@@ -22078,7 +22078,7 @@ data;time;pos;chance
 2026-07-25;Athletico Paranaense;17;0.00265
 2026-07-25;Athletico Paranaense;18;0.00115
 2026-07-25;Athletico Paranaense;19;0.00058
-2026-07-25;Athletico Paranaense;20;1e-05
+2026-07-25;Athletico Paranaense;20;0.00001
 2026-07-25;Coritiba;1;0.00197
 2026-07-25;Coritiba;2;0.0135
 2026-07-25;Coritiba;3;0.0378
@@ -22139,7 +22139,7 @@ data;time;pos;chance
 2026-07-25;Vitória;18;0.02212
 2026-07-25;Vitória;19;0.0126
 2026-07-25;Vitória;20;0.00186
-2026-07-25;Remo;1;1e-05
+2026-07-25;Remo;1;0.00001
 2026-07-25;Remo;2;0.00022
 2026-07-25;Remo;3;0.00119
 2026-07-25;Remo;4;0.00275
@@ -22178,7 +22178,7 @@ data;time;pos;chance
 2026-07-25;Fluminense;17;0.00519
 2026-07-25;Fluminense;18;0.00243
 2026-07-25;Fluminense;19;0.00096
-2026-07-25;Fluminense;20;7e-05
+2026-07-25;Fluminense;20;0.00007
 2026-07-25;Grêmio;1;0.00016
 2026-07-25;Grêmio;2;0.00122
 2026-07-25;Grêmio;3;0.00495
@@ -22243,10 +22243,10 @@ data;time;pos;chance
 2026-07-25;Chapecoense;2;0.0
 2026-07-25;Chapecoense;3;0.0
 2026-07-25;Chapecoense;4;0.0
-2026-07-25;Chapecoense;5;2e-05
-2026-07-25;Chapecoense;6;2e-05
-2026-07-25;Chapecoense;7;7e-05
-2026-07-25;Chapecoense;8;9e-05
+2026-07-25;Chapecoense;5;0.00002
+2026-07-25;Chapecoense;6;0.00002
+2026-07-25;Chapecoense;7;0.00007
+2026-07-25;Chapecoense;8;0.00009
 2026-07-25;Chapecoense;9;0.00036
 2026-07-25;Chapecoense;10;0.00042
 2026-07-25;Chapecoense;11;0.00066
@@ -22259,7 +22259,7 @@ data;time;pos;chance
 2026-07-25;Chapecoense;18;0.04849
 2026-07-25;Chapecoense;19;0.13196
 2026-07-25;Chapecoense;20;0.76788
-2026-07-25;Santos;1;3e-05
+2026-07-25;Santos;1;0.00003
 2026-07-25;Santos;2;0.00065
 2026-07-25;Santos;3;0.00272
 2026-07-25;Santos;4;0.00606
@@ -22314,12 +22314,12 @@ data;time;pos;chance
 2026-07-25;Flamengo;13;0.00075
 2026-07-25;Flamengo;14;0.00056
 2026-07-25;Flamengo;15;0.00021
-2026-07-25;Flamengo;16;7e-05
-2026-07-25;Flamengo;17;1e-05
+2026-07-25;Flamengo;16;0.00007
+2026-07-25;Flamengo;17;0.00001
 2026-07-25;Flamengo;18;0.0
 2026-07-25;Flamengo;19;0.0
 2026-07-25;Flamengo;20;0.0
-2026-07-25;Mirassol;1;4e-05
+2026-07-25;Mirassol;1;0.00004
 2026-07-25;Mirassol;2;0.00056
 2026-07-25;Mirassol;3;0.00206
 2026-07-25;Mirassol;4;0.00441
@@ -22339,7 +22339,7 @@ data;time;pos;chance
 2026-07-25;Mirassol;18;0.13841
 2026-07-25;Mirassol;19;0.14991
 2026-07-25;Mirassol;20;0.04268
-2026-07-25;Vasco da Gama;1;1e-05
+2026-07-25;Vasco da Gama;1;0.00001
 2026-07-25;Vasco da Gama;2;0.00031
 2026-07-25;Vasco da Gama;3;0.00166
 2026-07-25;Vasco da Gama;4;0.00428
@@ -22429,17 +22429,17 @@ data;time;pos;chance
 2026-07-26;Palmeiras;8;0.00092
 2026-07-26;Palmeiras;9;0.00047
 2026-07-26;Palmeiras;10;0.00021
-2026-07-26;Palmeiras;11;8e-05
-2026-07-26;Palmeiras;12;1e-05
-2026-07-26;Palmeiras;13;2e-05
-2026-07-26;Palmeiras;14;1e-05
+2026-07-26;Palmeiras;11;0.00008
+2026-07-26;Palmeiras;12;0.00001
+2026-07-26;Palmeiras;13;0.00002
+2026-07-26;Palmeiras;14;0.00001
 2026-07-26;Palmeiras;15;0.0
 2026-07-26;Palmeiras;16;0.0
 2026-07-26;Palmeiras;17;0.0
 2026-07-26;Palmeiras;18;0.0
 2026-07-26;Palmeiras;19;0.0
 2026-07-26;Palmeiras;20;0.0
-2026-07-26;Internacional;1;1e-05
+2026-07-26;Internacional;1;0.00001
 2026-07-26;Internacional;2;0.00025
 2026-07-26;Internacional;3;0.00154
 2026-07-26;Internacional;4;0.00386
@@ -22477,8 +22477,8 @@ data;time;pos;chance
 2026-07-26;Athletico Paranaense;16;0.00189
 2026-07-26;Athletico Paranaense;17;0.00086
 2026-07-26;Athletico Paranaense;18;0.00038
-2026-07-26;Athletico Paranaense;19;9e-05
-2026-07-26;Athletico Paranaense;20;1e-05
+2026-07-26;Athletico Paranaense;19;0.00009
+2026-07-26;Athletico Paranaense;20;0.00001
 2026-07-26;Coritiba;1;0.00185
 2026-07-26;Coritiba;2;0.01282
 2026-07-26;Coritiba;3;0.03603
@@ -22539,7 +22539,7 @@ data;time;pos;chance
 2026-07-26;Vitória;18;0.01922
 2026-07-26;Vitória;19;0.01067
 2026-07-26;Vitória;20;0.00172
-2026-07-26;Remo;1;2e-05
+2026-07-26;Remo;1;0.00002
 2026-07-26;Remo;2;0.00028
 2026-07-26;Remo;3;0.00099
 2026-07-26;Remo;4;0.00236
@@ -22578,7 +22578,7 @@ data;time;pos;chance
 2026-07-26;Fluminense;17;0.00376
 2026-07-26;Fluminense;18;0.00203
 2026-07-26;Fluminense;19;0.00095
-2026-07-26;Fluminense;20;8e-05
+2026-07-26;Fluminense;20;0.00008
 2026-07-26;Grêmio;1;0.0001
 2026-07-26;Grêmio;2;0.00124
 2026-07-26;Grêmio;3;0.00517
@@ -22644,8 +22644,8 @@ data;time;pos;chance
 2026-07-26;Chapecoense;3;0.0
 2026-07-26;Chapecoense;4;0.0
 2026-07-26;Chapecoense;5;0.0
-2026-07-26;Chapecoense;6;3e-05
-2026-07-26;Chapecoense;7;3e-05
+2026-07-26;Chapecoense;6;0.00003
+2026-07-26;Chapecoense;7;0.00003
 2026-07-26;Chapecoense;8;0.0001
 2026-07-26;Chapecoense;9;0.00015
 2026-07-26;Chapecoense;10;0.0004
@@ -22659,7 +22659,7 @@ data;time;pos;chance
 2026-07-26;Chapecoense;18;0.05369
 2026-07-26;Chapecoense;19;0.13953
 2026-07-26;Chapecoense;20;0.75304
-2026-07-26;Santos;1;1e-05
+2026-07-26;Santos;1;0.00001
 2026-07-26;Santos;2;0.00026
 2026-07-26;Santos;3;0.00139
 2026-07-26;Santos;4;0.00305
@@ -22714,12 +22714,12 @@ data;time;pos;chance
 2026-07-26;Flamengo;13;0.0008
 2026-07-26;Flamengo;14;0.00036
 2026-07-26;Flamengo;15;0.00016
-2026-07-26;Flamengo;16;7e-05
-2026-07-26;Flamengo;17;4e-05
-2026-07-26;Flamengo;18;1e-05
+2026-07-26;Flamengo;16;0.00007
+2026-07-26;Flamengo;17;0.00004
+2026-07-26;Flamengo;18;0.00001
 2026-07-26;Flamengo;19;0.0
 2026-07-26;Flamengo;20;0.0
-2026-07-26;Mirassol;1;2e-05
+2026-07-26;Mirassol;1;0.00002
 2026-07-26;Mirassol;2;0.00044
 2026-07-26;Mirassol;3;0.00169
 2026-07-26;Mirassol;4;0.00411
@@ -22817,8 +22817,8 @@ data;time;pos;chance
 2026-07-26;Athletico Paranaense;16;0.00185
 2026-07-26;Athletico Paranaense;17;0.00108
 2026-07-26;Athletico Paranaense;18;0.00035
-2026-07-26;Athletico Paranaense;19;8e-05
-2026-07-26;Athletico Paranaense;20;1e-05
+2026-07-26;Athletico Paranaense;19;0.00008
+2026-07-26;Athletico Paranaense;20;0.00001
 2026-07-26;Atlético Mineiro;1;0.00165
 2026-07-26;Atlético Mineiro;2;0.01027
 2026-07-26;Atlético Mineiro;3;0.02782
@@ -22883,10 +22883,10 @@ data;time;pos;chance
 2026-07-26;Chapecoense;2;0.0
 2026-07-26;Chapecoense;3;0.0
 2026-07-26;Chapecoense;4;0.0
-2026-07-26;Chapecoense;5;3e-05
-2026-07-26;Chapecoense;6;5e-05
-2026-07-26;Chapecoense;7;5e-05
-2026-07-26;Chapecoense;8;4e-05
+2026-07-26;Chapecoense;5;0.00003
+2026-07-26;Chapecoense;6;0.00005
+2026-07-26;Chapecoense;7;0.00005
+2026-07-26;Chapecoense;8;0.00004
 2026-07-26;Chapecoense;9;0.00014
 2026-07-26;Chapecoense;10;0.00037
 2026-07-26;Chapecoense;11;0.00058
@@ -22974,10 +22974,10 @@ data;time;pos;chance
 2026-07-26;Flamengo;13;0.00069
 2026-07-26;Flamengo;14;0.00027
 2026-07-26;Flamengo;15;0.00011
-2026-07-26;Flamengo;16;9e-05
-2026-07-26;Flamengo;17;4e-05
-2026-07-26;Flamengo;18;2e-05
-2026-07-26;Flamengo;19;1e-05
+2026-07-26;Flamengo;16;0.00009
+2026-07-26;Flamengo;17;0.00004
+2026-07-26;Flamengo;18;0.00002
+2026-07-26;Flamengo;19;0.00001
 2026-07-26;Flamengo;20;0.0
 2026-07-26;Fluminense;1;0.01604
 2026-07-26;Fluminense;2;0.0681
@@ -22998,7 +22998,7 @@ data;time;pos;chance
 2026-07-26;Fluminense;17;0.00421
 2026-07-26;Fluminense;18;0.00195
 2026-07-26;Fluminense;19;0.00087
-2026-07-26;Fluminense;20;9e-05
+2026-07-26;Fluminense;20;0.00009
 2026-07-26;Grêmio;1;0.00014
 2026-07-26;Grêmio;2;0.00133
 2026-07-26;Grêmio;3;0.00481
@@ -23019,7 +23019,7 @@ data;time;pos;chance
 2026-07-26;Grêmio;18;0.08674
 2026-07-26;Grêmio;19;0.06747
 2026-07-26;Grêmio;20;0.01759
-2026-07-26;Internacional;1;3e-05
+2026-07-26;Internacional;1;0.00003
 2026-07-26;Internacional;2;0.00031
 2026-07-26;Internacional;3;0.0013
 2026-07-26;Internacional;4;0.00323
@@ -23039,7 +23039,7 @@ data;time;pos;chance
 2026-07-26;Internacional;18;0.12994
 2026-07-26;Internacional;19;0.11593
 2026-07-26;Internacional;20;0.03407
-2026-07-26;Mirassol;1;1e-05
+2026-07-26;Mirassol;1;0.00001
 2026-07-26;Mirassol;2;0.00039
 2026-07-26;Mirassol;3;0.00186
 2026-07-26;Mirassol;4;0.00427
@@ -23069,8 +23069,8 @@ data;time;pos;chance
 2026-07-26;Palmeiras;8;0.00091
 2026-07-26;Palmeiras;9;0.00033
 2026-07-26;Palmeiras;10;0.0002
-2026-07-26;Palmeiras;11;5e-05
-2026-07-26;Palmeiras;12;5e-05
+2026-07-26;Palmeiras;11;0.00005
+2026-07-26;Palmeiras;12;0.00005
 2026-07-26;Palmeiras;13;0.0
 2026-07-26;Palmeiras;14;0.0
 2026-07-26;Palmeiras;15;0.0
@@ -23098,8 +23098,8 @@ data;time;pos;chance
 2026-07-26;Red Bull Bragantino;17;0.00528
 2026-07-26;Red Bull Bragantino;18;0.0028
 2026-07-26;Red Bull Bragantino;19;0.00111
-2026-07-26;Red Bull Bragantino;20;9e-05
-2026-07-26;Remo;1;1e-05
+2026-07-26;Red Bull Bragantino;20;0.00009
+2026-07-26;Remo;1;0.00001
 2026-07-26;Remo;2;0.00015
 2026-07-26;Remo;3;0.00105
 2026-07-26;Remo;4;0.00249
@@ -23119,7 +23119,7 @@ data;time;pos;chance
 2026-07-26;Remo;18;0.14526
 2026-07-26;Remo;19;0.16382
 2026-07-26;Remo;20;0.05651
-2026-07-26;Santos;1;1e-05
+2026-07-26;Santos;1;0.00001
 2026-07-26;Santos;2;0.00024
 2026-07-26;Santos;3;0.00127
 2026-07-26;Santos;4;0.00285
@@ -23282,11 +23282,11 @@ data;time;pos;chance
 2026-07-26;Chapecoense;1;0.0
 2026-07-26;Chapecoense;2;0.0
 2026-07-26;Chapecoense;3;0.0
-2026-07-26;Chapecoense;4;2e-05
-2026-07-26;Chapecoense;5;1e-05
-2026-07-26;Chapecoense;6;1e-05
-2026-07-26;Chapecoense;7;1e-05
-2026-07-26;Chapecoense;8;7e-05
+2026-07-26;Chapecoense;4;0.00002
+2026-07-26;Chapecoense;5;0.00001
+2026-07-26;Chapecoense;6;0.00001
+2026-07-26;Chapecoense;7;0.00001
+2026-07-26;Chapecoense;8;0.00007
 2026-07-26;Chapecoense;9;0.0002
 2026-07-26;Chapecoense;10;0.00034
 2026-07-26;Chapecoense;11;0.00077
@@ -23374,8 +23374,8 @@ data;time;pos;chance
 2026-07-26;Flamengo;13;0.00071
 2026-07-26;Flamengo;14;0.00033
 2026-07-26;Flamengo;15;0.00015
-2026-07-26;Flamengo;16;7e-05
-2026-07-26;Flamengo;17;5e-05
+2026-07-26;Flamengo;16;0.00007
+2026-07-26;Flamengo;17;0.00005
 2026-07-26;Flamengo;18;0.0
 2026-07-26;Flamengo;19;0.0
 2026-07-26;Flamengo;20;0.0
@@ -23398,7 +23398,7 @@ data;time;pos;chance
 2026-07-26;Fluminense;17;0.00465
 2026-07-26;Fluminense;18;0.00207
 2026-07-26;Fluminense;19;0.00101
-2026-07-26;Fluminense;20;4e-05
+2026-07-26;Fluminense;20;0.00004
 2026-07-26;Grêmio;1;0.00013
 2026-07-26;Grêmio;2;0.00098
 2026-07-26;Grêmio;3;0.00467
@@ -23419,7 +23419,7 @@ data;time;pos;chance
 2026-07-26;Grêmio;18;0.08521
 2026-07-26;Grêmio;19;0.06833
 2026-07-26;Grêmio;20;0.01729
-2026-07-26;Internacional;1;1e-05
+2026-07-26;Internacional;1;0.00001
 2026-07-26;Internacional;2;0.00033
 2026-07-26;Internacional;3;0.00143
 2026-07-26;Internacional;4;0.00376
@@ -23439,7 +23439,7 @@ data;time;pos;chance
 2026-07-26;Internacional;18;0.12815
 2026-07-26;Internacional;19;0.11664
 2026-07-26;Internacional;20;0.03418
-2026-07-26;Mirassol;1;2e-05
+2026-07-26;Mirassol;1;0.00002
 2026-07-26;Mirassol;2;0.00042
 2026-07-26;Mirassol;3;0.00178
 2026-07-26;Mirassol;4;0.00378
@@ -23470,8 +23470,8 @@ data;time;pos;chance
 2026-07-26;Palmeiras;9;0.00051
 2026-07-26;Palmeiras;10;0.00018
 2026-07-26;Palmeiras;11;0.00011
-2026-07-26;Palmeiras;12;2e-05
-2026-07-26;Palmeiras;13;2e-05
+2026-07-26;Palmeiras;12;0.00002
+2026-07-26;Palmeiras;13;0.00002
 2026-07-26;Palmeiras;14;0.0
 2026-07-26;Palmeiras;15;0.0
 2026-07-26;Palmeiras;16;0.0
@@ -23499,7 +23499,7 @@ data;time;pos;chance
 2026-07-26;Red Bull Bragantino;18;0.00252
 2026-07-26;Red Bull Bragantino;19;0.00109
 2026-07-26;Red Bull Bragantino;20;0.00013
-2026-07-26;Remo;1;2e-05
+2026-07-26;Remo;1;0.00002
 2026-07-26;Remo;2;0.00019
 2026-07-26;Remo;3;0.00108
 2026-07-26;Remo;4;0.00247
@@ -23685,8 +23685,8 @@ data;time;pos;chance
 2026-07-27;Chapecoense;4;0.0
 2026-07-27;Chapecoense;5;0.0
 2026-07-27;Chapecoense;6;0.0
-2026-07-27;Chapecoense;7;3e-05
-2026-07-27;Chapecoense;8;6e-05
+2026-07-27;Chapecoense;7;0.00003
+2026-07-27;Chapecoense;8;0.00006
 2026-07-27;Chapecoense;9;0.00015
 2026-07-27;Chapecoense;10;0.00033
 2026-07-27;Chapecoense;11;0.00058
@@ -23774,9 +23774,9 @@ data;time;pos;chance
 2026-07-27;Flamengo;13;0.00104
 2026-07-27;Flamengo;14;0.00047
 2026-07-27;Flamengo;15;0.00028
-2026-07-27;Flamengo;16;7e-05
-2026-07-27;Flamengo;17;5e-05
-2026-07-27;Flamengo;18;1e-05
+2026-07-27;Flamengo;16;0.00007
+2026-07-27;Flamengo;17;0.00005
+2026-07-27;Flamengo;18;0.00001
 2026-07-27;Flamengo;19;0.0
 2026-07-27;Flamengo;20;0.0
 2026-07-27;Fluminense;1;0.0245
@@ -23798,8 +23798,8 @@ data;time;pos;chance
 2026-07-27;Fluminense;17;0.00352
 2026-07-27;Fluminense;18;0.00177
 2026-07-27;Fluminense;19;0.00058
-2026-07-27;Fluminense;20;5e-05
-2026-07-27;Grêmio;1;8e-05
+2026-07-27;Fluminense;20;0.00005
+2026-07-27;Grêmio;1;0.00008
 2026-07-27;Grêmio;2;0.00063
 2026-07-27;Grêmio;3;0.00245
 2026-07-27;Grêmio;4;0.00573
@@ -23819,7 +23819,7 @@ data;time;pos;chance
 2026-07-27;Grêmio;18;0.10807
 2026-07-27;Grêmio;19;0.09477
 2026-07-27;Grêmio;20;0.02537
-2026-07-27;Internacional;1;4e-05
+2026-07-27;Internacional;1;0.00004
 2026-07-27;Internacional;2;0.0003
 2026-07-27;Internacional;3;0.00156
 2026-07-27;Internacional;4;0.00397
@@ -23871,10 +23871,10 @@ data;time;pos;chance
 2026-07-27;Palmeiras;10;0.00042
 2026-07-27;Palmeiras;11;0.00018
 2026-07-27;Palmeiras;12;0.0002
-2026-07-27;Palmeiras;13;6e-05
-2026-07-27;Palmeiras;14;2e-05
+2026-07-27;Palmeiras;13;0.00006
+2026-07-27;Palmeiras;14;0.00002
 2026-07-27;Palmeiras;15;0.0
-2026-07-27;Palmeiras;16;1e-05
+2026-07-27;Palmeiras;16;0.00001
 2026-07-27;Palmeiras;17;0.0
 2026-07-27;Palmeiras;18;0.0
 2026-07-27;Palmeiras;19;0.0
@@ -23899,7 +23899,7 @@ data;time;pos;chance
 2026-07-27;Red Bull Bragantino;18;0.00402
 2026-07-27;Red Bull Bragantino;19;0.00195
 2026-07-27;Red Bull Bragantino;20;0.00013
-2026-07-27;Remo;1;5e-05
+2026-07-27;Remo;1;0.00005
 2026-07-27;Remo;2;0.00033
 2026-07-27;Remo;3;0.00175
 2026-07-27;Remo;4;0.00331
@@ -23919,7 +23919,7 @@ data;time;pos;chance
 2026-07-27;Remo;18;0.13014
 2026-07-27;Remo;19;0.12624
 2026-07-27;Remo;20;0.03663
-2026-07-27;Santos;1;4e-05
+2026-07-27;Santos;1;0.00004
 2026-07-27;Santos;2;0.00028
 2026-07-27;Santos;3;0.00144
 2026-07-27;Santos;4;0.0032
@@ -23959,7 +23959,7 @@ data;time;pos;chance
 2026-07-27;São Paulo;18;0.02329
 2026-07-27;São Paulo;19;0.01264
 2026-07-27;São Paulo;20;0.00183
-2026-07-27;Vasco da Gama;1;5e-05
+2026-07-27;Vasco da Gama;1;0.00005
 2026-07-27;Vasco da Gama;2;0.00025
 2026-07-27;Vasco da Gama;3;0.00084
 2026-07-27;Vasco da Gama;4;0.00195
@@ -24083,9 +24083,9 @@ data;time;pos;chance
 2026-07-28;Chapecoense;2;0.0
 2026-07-28;Chapecoense;3;0.0
 2026-07-28;Chapecoense;4;0.0
-2026-07-28;Chapecoense;5;1e-05
-2026-07-28;Chapecoense;6;2e-05
-2026-07-28;Chapecoense;7;1e-05
+2026-07-28;Chapecoense;5;0.00001
+2026-07-28;Chapecoense;6;0.00002
+2026-07-28;Chapecoense;7;0.00001
 2026-07-28;Chapecoense;8;0.00012
 2026-07-28;Chapecoense;9;0.00023
 2026-07-28;Chapecoense;10;0.00035
@@ -24175,7 +24175,7 @@ data;time;pos;chance
 2026-07-28;Flamengo;14;0.00048
 2026-07-28;Flamengo;15;0.00029
 2026-07-28;Flamengo;16;0.00013
-2026-07-28;Flamengo;17;2e-05
+2026-07-28;Flamengo;17;0.00002
 2026-07-28;Flamengo;18;0.0
 2026-07-28;Flamengo;19;0.0
 2026-07-28;Flamengo;20;0.0
@@ -24198,8 +24198,8 @@ data;time;pos;chance
 2026-07-28;Fluminense;17;0.00357
 2026-07-28;Fluminense;18;0.00197
 2026-07-28;Fluminense;19;0.00062
-2026-07-28;Fluminense;20;6e-05
-2026-07-28;Grêmio;1;9e-05
+2026-07-28;Fluminense;20;0.00006
+2026-07-28;Grêmio;1;0.00009
 2026-07-28;Grêmio;2;0.00064
 2026-07-28;Grêmio;3;0.00269
 2026-07-28;Grêmio;4;0.00525
@@ -24219,7 +24219,7 @@ data;time;pos;chance
 2026-07-28;Grêmio;18;0.11023
 2026-07-28;Grêmio;19;0.09523
 2026-07-28;Grêmio;20;0.02544
-2026-07-28;Internacional;1;3e-05
+2026-07-28;Internacional;1;0.00003
 2026-07-28;Internacional;2;0.00036
 2026-07-28;Internacional;3;0.00151
 2026-07-28;Internacional;4;0.00391
@@ -24239,7 +24239,7 @@ data;time;pos;chance
 2026-07-28;Internacional;18;0.1282
 2026-07-28;Internacional;19;0.12116
 2026-07-28;Internacional;20;0.03403
-2026-07-28;Mirassol;1;6e-05
+2026-07-28;Mirassol;1;0.00006
 2026-07-28;Mirassol;2;0.00051
 2026-07-28;Mirassol;3;0.00196
 2026-07-28;Mirassol;4;0.00382
@@ -24270,9 +24270,9 @@ data;time;pos;chance
 2026-07-28;Palmeiras;9;0.00127
 2026-07-28;Palmeiras;10;0.0005
 2026-07-28;Palmeiras;11;0.00028
-2026-07-28;Palmeiras;12;5e-05
-2026-07-28;Palmeiras;13;6e-05
-2026-07-28;Palmeiras;14;1e-05
+2026-07-28;Palmeiras;12;0.00005
+2026-07-28;Palmeiras;13;0.00006
+2026-07-28;Palmeiras;14;0.00001
 2026-07-28;Palmeiras;15;0.0
 2026-07-28;Palmeiras;16;0.0
 2026-07-28;Palmeiras;17;0.0
@@ -24299,7 +24299,7 @@ data;time;pos;chance
 2026-07-28;Red Bull Bragantino;18;0.00428
 2026-07-28;Red Bull Bragantino;19;0.00155
 2026-07-28;Red Bull Bragantino;20;0.00013
-2026-07-28;Remo;1;2e-05
+2026-07-28;Remo;1;0.00002
 2026-07-28;Remo;2;0.00043
 2026-07-28;Remo;3;0.00142
 2026-07-28;Remo;4;0.00387
@@ -24319,7 +24319,7 @@ data;time;pos;chance
 2026-07-28;Remo;18;0.12969
 2026-07-28;Remo;19;0.12614
 2026-07-28;Remo;20;0.0364
-2026-07-28;Santos;1;7e-05
+2026-07-28;Santos;1;0.00007
 2026-07-28;Santos;2;0.00034
 2026-07-28;Santos;3;0.00126
 2026-07-28;Santos;4;0.00348
@@ -24359,7 +24359,7 @@ data;time;pos;chance
 2026-07-28;São Paulo;18;0.02352
 2026-07-28;São Paulo;19;0.01277
 2026-07-28;São Paulo;20;0.00196
-2026-07-28;Vasco da Gama;1;2e-05
+2026-07-28;Vasco da Gama;1;0.00002
 2026-07-28;Vasco da Gama;2;0.0002
 2026-07-28;Vasco da Gama;3;0.00088
 2026-07-28;Vasco da Gama;4;0.00205
@@ -24418,7 +24418,7 @@ data;time;pos;chance
 2026-07-29;Athletico Paranaense;17;0.00106
 2026-07-29;Athletico Paranaense;18;0.0003
 2026-07-29;Athletico Paranaense;19;0.00011
-2026-07-29;Athletico Paranaense;20;1e-05
+2026-07-29;Athletico Paranaense;20;0.00001
 2026-07-29;Atlético Mineiro;1;0.00502
 2026-07-29;Atlético Mineiro;2;0.02677
 2026-07-29;Atlético Mineiro;3;0.05724
@@ -24482,11 +24482,11 @@ data;time;pos;chance
 2026-07-29;Chapecoense;1;0.0
 2026-07-29;Chapecoense;2;0.0
 2026-07-29;Chapecoense;3;0.0
-2026-07-29;Chapecoense;4;1e-05
-2026-07-29;Chapecoense;5;1e-05
-2026-07-29;Chapecoense;6;1e-05
-2026-07-29;Chapecoense;7;8e-05
-2026-07-29;Chapecoense;8;6e-05
+2026-07-29;Chapecoense;4;0.00001
+2026-07-29;Chapecoense;5;0.00001
+2026-07-29;Chapecoense;6;0.00001
+2026-07-29;Chapecoense;7;0.00008
+2026-07-29;Chapecoense;8;0.00006
 2026-07-29;Chapecoense;9;0.00035
 2026-07-29;Chapecoense;10;0.00026
 2026-07-29;Chapecoense;11;0.00069
@@ -24574,8 +24574,8 @@ data;time;pos;chance
 2026-07-29;Flamengo;13;0.00086
 2026-07-29;Flamengo;14;0.00049
 2026-07-29;Flamengo;15;0.00033
-2026-07-29;Flamengo;16;8e-05
-2026-07-29;Flamengo;17;3e-05
+2026-07-29;Flamengo;16;0.00008
+2026-07-29;Flamengo;17;0.00003
 2026-07-29;Flamengo;18;0.0
 2026-07-29;Flamengo;19;0.0
 2026-07-29;Flamengo;20;0.0
@@ -24598,8 +24598,8 @@ data;time;pos;chance
 2026-07-29;Fluminense;17;0.00346
 2026-07-29;Fluminense;18;0.00161
 2026-07-29;Fluminense;19;0.0008
-2026-07-29;Fluminense;20;4e-05
-2026-07-29;Grêmio;1;9e-05
+2026-07-29;Fluminense;20;0.00004
+2026-07-29;Grêmio;1;0.00009
 2026-07-29;Grêmio;2;0.00059
 2026-07-29;Grêmio;3;0.00268
 2026-07-29;Grêmio;4;0.00583
@@ -24619,7 +24619,7 @@ data;time;pos;chance
 2026-07-29;Grêmio;18;0.10996
 2026-07-29;Grêmio;19;0.09609
 2026-07-29;Grêmio;20;0.02535
-2026-07-29;Internacional;1;6e-05
+2026-07-29;Internacional;1;0.00006
 2026-07-29;Internacional;2;0.00039
 2026-07-29;Internacional;3;0.00166
 2026-07-29;Internacional;4;0.004
@@ -24670,8 +24670,8 @@ data;time;pos;chance
 2026-07-29;Palmeiras;9;0.00089
 2026-07-29;Palmeiras;10;0.00042
 2026-07-29;Palmeiras;11;0.00024
-2026-07-29;Palmeiras;12;8e-05
-2026-07-29;Palmeiras;13;5e-05
+2026-07-29;Palmeiras;12;0.00008
+2026-07-29;Palmeiras;13;0.00005
 2026-07-29;Palmeiras;14;0.0
 2026-07-29;Palmeiras;15;0.0
 2026-07-29;Palmeiras;16;0.0
@@ -24699,7 +24699,7 @@ data;time;pos;chance
 2026-07-29;Red Bull Bragantino;18;0.00406
 2026-07-29;Red Bull Bragantino;19;0.00176
 2026-07-29;Red Bull Bragantino;20;0.00019
-2026-07-29;Remo;1;4e-05
+2026-07-29;Remo;1;0.00004
 2026-07-29;Remo;2;0.00039
 2026-07-29;Remo;3;0.00155
 2026-07-29;Remo;4;0.00339
@@ -24719,7 +24719,7 @@ data;time;pos;chance
 2026-07-29;Remo;18;0.12934
 2026-07-29;Remo;19;0.12364
 2026-07-29;Remo;20;0.03748
-2026-07-29;Santos;1;4e-05
+2026-07-29;Santos;1;0.00004
 2026-07-29;Santos;2;0.00032
 2026-07-29;Santos;3;0.00137
 2026-07-29;Santos;4;0.00315
@@ -24759,7 +24759,7 @@ data;time;pos;chance
 2026-07-29;São Paulo;18;0.02259
 2026-07-29;São Paulo;19;0.01196
 2026-07-29;São Paulo;20;0.0021
-2026-07-29;Vasco da Gama;1;1e-05
+2026-07-29;Vasco da Gama;1;0.00001
 2026-07-29;Vasco da Gama;2;0.00023
 2026-07-29;Vasco da Gama;3;0.00082
 2026-07-29;Vasco da Gama;4;0.00205
@@ -24817,7 +24817,7 @@ data;time;pos;chance
 2026-07-30;Athletico Paranaense;16;0.00154
 2026-07-30;Athletico Paranaense;17;0.00081
 2026-07-30;Athletico Paranaense;18;0.0004
-2026-07-30;Athletico Paranaense;19;9e-05
+2026-07-30;Athletico Paranaense;19;0.00009
 2026-07-30;Athletico Paranaense;20;0.0
 2026-07-30;Atlético Mineiro;1;0.00286
 2026-07-30;Atlético Mineiro;2;0.02645
@@ -24885,7 +24885,7 @@ data;time;pos;chance
 2026-07-30;Chapecoense;4;0.0
 2026-07-30;Chapecoense;5;0.0
 2026-07-30;Chapecoense;6;0.0
-2026-07-30;Chapecoense;7;7e-05
+2026-07-30;Chapecoense;7;0.00007
 2026-07-30;Chapecoense;8;0.00012
 2026-07-30;Chapecoense;9;0.00019
 2026-07-30;Chapecoense;10;0.00031
@@ -24974,9 +24974,9 @@ data;time;pos;chance
 2026-07-30;Flamengo;13;0.00071
 2026-07-30;Flamengo;14;0.00031
 2026-07-30;Flamengo;15;0.00014
-2026-07-30;Flamengo;16;4e-05
-2026-07-30;Flamengo;17;3e-05
-2026-07-30;Flamengo;18;2e-05
+2026-07-30;Flamengo;16;0.00004
+2026-07-30;Flamengo;17;0.00003
+2026-07-30;Flamengo;18;0.00002
 2026-07-30;Flamengo;19;0.0
 2026-07-30;Flamengo;20;0.0
 2026-07-30;Fluminense;1;0.00826
@@ -24998,8 +24998,8 @@ data;time;pos;chance
 2026-07-30;Fluminense;17;0.00442
 2026-07-30;Fluminense;18;0.00237
 2026-07-30;Fluminense;19;0.00076
-2026-07-30;Fluminense;20;2e-05
-2026-07-30;Grêmio;1;1e-05
+2026-07-30;Fluminense;20;0.00002
+2026-07-30;Grêmio;1;0.00001
 2026-07-30;Grêmio;2;0.00063
 2026-07-30;Grêmio;3;0.00259
 2026-07-30;Grêmio;4;0.00603
@@ -25039,7 +25039,7 @@ data;time;pos;chance
 2026-07-30;Internacional;18;0.14649
 2026-07-30;Internacional;19;0.15574
 2026-07-30;Internacional;20;0.04591
-2026-07-30;Mirassol;1;5e-05
+2026-07-30;Mirassol;1;0.00005
 2026-07-30;Mirassol;2;0.00076
 2026-07-30;Mirassol;3;0.00335
 2026-07-30;Mirassol;4;0.0064
@@ -25069,8 +25069,8 @@ data;time;pos;chance
 2026-07-30;Palmeiras;8;0.00037
 2026-07-30;Palmeiras;9;0.00015
 2026-07-30;Palmeiras;10;0.0001
-2026-07-30;Palmeiras;11;1e-05
-2026-07-30;Palmeiras;12;1e-05
+2026-07-30;Palmeiras;11;0.00001
+2026-07-30;Palmeiras;12;0.00001
 2026-07-30;Palmeiras;13;0.0
 2026-07-30;Palmeiras;14;0.0
 2026-07-30;Palmeiras;15;0.0
@@ -25119,7 +25119,7 @@ data;time;pos;chance
 2026-07-30;Remo;18;0.13833
 2026-07-30;Remo;19;0.14138
 2026-07-30;Remo;20;0.04451
-2026-07-30;Santos;1;1e-05
+2026-07-30;Santos;1;0.00001
 2026-07-30;Santos;2;0.00032
 2026-07-30;Santos;3;0.00141
 2026-07-30;Santos;4;0.0034
@@ -25217,7 +25217,7 @@ data;time;pos;chance
 2026-07-31;Athletico Paranaense;16;0.00133
 2026-07-31;Athletico Paranaense;17;0.00061
 2026-07-31;Athletico Paranaense;18;0.00026
-2026-07-31;Athletico Paranaense;19;6e-05
+2026-07-31;Athletico Paranaense;19;0.00006
 2026-07-31;Athletico Paranaense;20;0.0
 2026-07-31;Atlético Mineiro;1;0.00301
 2026-07-31;Atlético Mineiro;2;0.0269
@@ -25283,10 +25283,10 @@ data;time;pos;chance
 2026-07-31;Chapecoense;2;0.0
 2026-07-31;Chapecoense;3;0.0
 2026-07-31;Chapecoense;4;0.0
-2026-07-31;Chapecoense;5;2e-05
-2026-07-31;Chapecoense;6;3e-05
-2026-07-31;Chapecoense;7;5e-05
-2026-07-31;Chapecoense;8;4e-05
+2026-07-31;Chapecoense;5;0.00002
+2026-07-31;Chapecoense;6;0.00003
+2026-07-31;Chapecoense;7;0.00005
+2026-07-31;Chapecoense;8;0.00004
 2026-07-31;Chapecoense;9;0.00023
 2026-07-31;Chapecoense;10;0.00033
 2026-07-31;Chapecoense;11;0.00072
@@ -25374,8 +25374,8 @@ data;time;pos;chance
 2026-07-31;Flamengo;13;0.00065
 2026-07-31;Flamengo;14;0.0003
 2026-07-31;Flamengo;15;0.00014
-2026-07-31;Flamengo;16;7e-05
-2026-07-31;Flamengo;17;3e-05
+2026-07-31;Flamengo;16;0.00007
+2026-07-31;Flamengo;17;0.00003
 2026-07-31;Flamengo;18;0.0
 2026-07-31;Flamengo;19;0.0
 2026-07-31;Flamengo;20;0.0
@@ -25398,8 +25398,8 @@ data;time;pos;chance
 2026-07-31;Fluminense;17;0.00499
 2026-07-31;Fluminense;18;0.00219
 2026-07-31;Fluminense;19;0.00092
-2026-07-31;Fluminense;20;5e-05
-2026-07-31;Grêmio;1;6e-05
+2026-07-31;Fluminense;20;0.00005
+2026-07-31;Grêmio;1;0.00006
 2026-07-31;Grêmio;2;0.00069
 2026-07-31;Grêmio;3;0.00267
 2026-07-31;Grêmio;4;0.00623
@@ -25419,7 +25419,7 @@ data;time;pos;chance
 2026-07-31;Grêmio;18;0.10709
 2026-07-31;Grêmio;19;0.091
 2026-07-31;Grêmio;20;0.0251
-2026-07-31;Internacional;1;1e-05
+2026-07-31;Internacional;1;0.00001
 2026-07-31;Internacional;2;0.00016
 2026-07-31;Internacional;3;0.00083
 2026-07-31;Internacional;4;0.00222
@@ -25439,7 +25439,7 @@ data;time;pos;chance
 2026-07-31;Internacional;18;0.1475
 2026-07-31;Internacional;19;0.15575
 2026-07-31;Internacional;20;0.04814
-2026-07-31;Mirassol;1;9e-05
+2026-07-31;Mirassol;1;0.00009
 2026-07-31;Mirassol;2;0.00076
 2026-07-31;Mirassol;3;0.00306
 2026-07-31;Mirassol;4;0.00613
@@ -25468,10 +25468,10 @@ data;time;pos;chance
 2026-07-31;Palmeiras;7;0.0007
 2026-07-31;Palmeiras;8;0.00032
 2026-07-31;Palmeiras;9;0.00015
-2026-07-31;Palmeiras;10;7e-05
-2026-07-31;Palmeiras;11;2e-05
-2026-07-31;Palmeiras;12;1e-05
-2026-07-31;Palmeiras;13;3e-05
+2026-07-31;Palmeiras;10;0.00007
+2026-07-31;Palmeiras;11;0.00002
+2026-07-31;Palmeiras;12;0.00001
+2026-07-31;Palmeiras;13;0.00003
 2026-07-31;Palmeiras;14;0.0
 2026-07-31;Palmeiras;15;0.0
 2026-07-31;Palmeiras;16;0.0
@@ -25499,7 +25499,7 @@ data;time;pos;chance
 2026-07-31;Red Bull Bragantino;18;0.00367
 2026-07-31;Red Bull Bragantino;19;0.00158
 2026-07-31;Red Bull Bragantino;20;0.00019
-2026-07-31;Remo;1;4e-05
+2026-07-31;Remo;1;0.00004
 2026-07-31;Remo;2;0.00018
 2026-07-31;Remo;3;0.00101
 2026-07-31;Remo;4;0.00279
@@ -25519,7 +25519,7 @@ data;time;pos;chance
 2026-07-31;Remo;18;0.13937
 2026-07-31;Remo;19;0.13944
 2026-07-31;Remo;20;0.04371
-2026-07-31;Santos;1;1e-05
+2026-07-31;Santos;1;0.00001
 2026-07-31;Santos;2;0.00031
 2026-07-31;Santos;3;0.00168
 2026-07-31;Santos;4;0.00356
@@ -25617,8 +25617,8 @@ data;time;pos;chance
 2026-08-01;Athletico Paranaense;16;0.00124
 2026-08-01;Athletico Paranaense;17;0.00054
 2026-08-01;Athletico Paranaense;18;0.00027
-2026-08-01;Athletico Paranaense;19;6e-05
-2026-08-01;Athletico Paranaense;20;1e-05
+2026-08-01;Athletico Paranaense;19;0.00006
+2026-08-01;Athletico Paranaense;20;0.00001
 2026-08-01;Atlético Mineiro;1;0.0029
 2026-08-01;Atlético Mineiro;2;0.0269
 2026-08-01;Atlético Mineiro;3;0.06321
@@ -25684,8 +25684,8 @@ data;time;pos;chance
 2026-08-01;Chapecoense;3;0.0
 2026-08-01;Chapecoense;4;0.0
 2026-08-01;Chapecoense;5;0.0
-2026-08-01;Chapecoense;6;2e-05
-2026-08-01;Chapecoense;7;7e-05
+2026-08-01;Chapecoense;6;0.00002
+2026-08-01;Chapecoense;7;0.00007
 2026-08-01;Chapecoense;8;0.0001
 2026-08-01;Chapecoense;9;0.0002
 2026-08-01;Chapecoense;10;0.00041
@@ -25774,8 +25774,8 @@ data;time;pos;chance
 2026-08-01;Flamengo;13;0.00075
 2026-08-01;Flamengo;14;0.00023
 2026-08-01;Flamengo;15;0.00016
-2026-08-01;Flamengo;16;9e-05
-2026-08-01;Flamengo;17;2e-05
+2026-08-01;Flamengo;16;0.00009
+2026-08-01;Flamengo;17;0.00002
 2026-08-01;Flamengo;18;0.0
 2026-08-01;Flamengo;19;0.0
 2026-08-01;Flamengo;20;0.0
@@ -25798,8 +25798,8 @@ data;time;pos;chance
 2026-08-01;Fluminense;17;0.00487
 2026-08-01;Fluminense;18;0.00222
 2026-08-01;Fluminense;19;0.00076
-2026-08-01;Fluminense;20;8e-05
-2026-08-01;Grêmio;1;3e-05
+2026-08-01;Fluminense;20;0.00008
+2026-08-01;Grêmio;1;0.00003
 2026-08-01;Grêmio;2;0.00063
 2026-08-01;Grêmio;3;0.0033
 2026-08-01;Grêmio;4;0.0064
@@ -25819,8 +25819,8 @@ data;time;pos;chance
 2026-08-01;Grêmio;18;0.10503
 2026-08-01;Grêmio;19;0.09335
 2026-08-01;Grêmio;20;0.0251
-2026-08-01;Internacional;1;1e-05
-2026-08-01;Internacional;2;4e-05
+2026-08-01;Internacional;1;0.00001
+2026-08-01;Internacional;2;0.00004
 2026-08-01;Internacional;3;0.00071
 2026-08-01;Internacional;4;0.00222
 2026-08-01;Internacional;5;0.00419
@@ -25839,7 +25839,7 @@ data;time;pos;chance
 2026-08-01;Internacional;18;0.14703
 2026-08-01;Internacional;19;0.15584
 2026-08-01;Internacional;20;0.04755
-2026-08-01;Mirassol;1;7e-05
+2026-08-01;Mirassol;1;0.00007
 2026-08-01;Mirassol;2;0.00081
 2026-08-01;Mirassol;3;0.0029
 2026-08-01;Mirassol;4;0.00673
@@ -25868,9 +25868,9 @@ data;time;pos;chance
 2026-08-01;Palmeiras;7;0.00089
 2026-08-01;Palmeiras;8;0.00038
 2026-08-01;Palmeiras;9;0.00015
-2026-08-01;Palmeiras;10;6e-05
-2026-08-01;Palmeiras;11;4e-05
-2026-08-01;Palmeiras;12;1e-05
+2026-08-01;Palmeiras;10;0.00006
+2026-08-01;Palmeiras;11;0.00004
+2026-08-01;Palmeiras;12;0.00001
 2026-08-01;Palmeiras;13;0.0
 2026-08-01;Palmeiras;14;0.0
 2026-08-01;Palmeiras;15;0.0
@@ -25899,7 +25899,7 @@ data;time;pos;chance
 2026-08-01;Red Bull Bragantino;18;0.00365
 2026-08-01;Red Bull Bragantino;19;0.00169
 2026-08-01;Red Bull Bragantino;20;0.00013
-2026-08-01;Remo;1;2e-05
+2026-08-01;Remo;1;0.00002
 2026-08-01;Remo;2;0.00015
 2026-08-01;Remo;3;0.00099
 2026-08-01;Remo;4;0.0026
@@ -25919,7 +25919,7 @@ data;time;pos;chance
 2026-08-01;Remo;18;0.13937
 2026-08-01;Remo;19;0.13963
 2026-08-01;Remo;20;0.04467
-2026-08-01;Santos;1;1e-05
+2026-08-01;Santos;1;0.00001
 2026-08-01;Santos;2;0.00027
 2026-08-01;Santos;3;0.00137
 2026-08-01;Santos;4;0.00384
@@ -26017,8 +26017,8 @@ data;time;pos;chance
 2026-08-02;Athletico Paranaense;16;0.00133
 2026-08-02;Athletico Paranaense;17;0.00049
 2026-08-02;Athletico Paranaense;18;0.00014
-2026-08-02;Athletico Paranaense;19;7e-05
-2026-08-02;Athletico Paranaense;20;1e-05
+2026-08-02;Athletico Paranaense;19;0.00007
+2026-08-02;Athletico Paranaense;20;0.00001
 2026-08-02;Atlético Mineiro;1;0.00286
 2026-08-02;Atlético Mineiro;2;0.02638
 2026-08-02;Atlético Mineiro;3;0.06195
@@ -26082,10 +26082,10 @@ data;time;pos;chance
 2026-08-02;Chapecoense;1;0.0
 2026-08-02;Chapecoense;2;0.0
 2026-08-02;Chapecoense;3;0.0
-2026-08-02;Chapecoense;4;1e-05
-2026-08-02;Chapecoense;5;2e-05
-2026-08-02;Chapecoense;6;2e-05
-2026-08-02;Chapecoense;7;7e-05
+2026-08-02;Chapecoense;4;0.00001
+2026-08-02;Chapecoense;5;0.00002
+2026-08-02;Chapecoense;6;0.00002
+2026-08-02;Chapecoense;7;0.00007
 2026-08-02;Chapecoense;8;0.00013
 2026-08-02;Chapecoense;9;0.00024
 2026-08-02;Chapecoense;10;0.0004
@@ -26174,9 +26174,9 @@ data;time;pos;chance
 2026-08-02;Flamengo;13;0.00082
 2026-08-02;Flamengo;14;0.00031
 2026-08-02;Flamengo;15;0.00014
-2026-08-02;Flamengo;16;9e-05
-2026-08-02;Flamengo;17;2e-05
-2026-08-02;Flamengo;18;2e-05
+2026-08-02;Flamengo;16;0.00009
+2026-08-02;Flamengo;17;0.00002
+2026-08-02;Flamengo;18;0.00002
 2026-08-02;Flamengo;19;0.0
 2026-08-02;Flamengo;20;0.0
 2026-08-02;Fluminense;1;0.00803
@@ -26198,8 +26198,8 @@ data;time;pos;chance
 2026-08-02;Fluminense;17;0.00481
 2026-08-02;Fluminense;18;0.00226
 2026-08-02;Fluminense;19;0.00068
-2026-08-02;Fluminense;20;4e-05
-2026-08-02;Grêmio;1;2e-05
+2026-08-02;Fluminense;20;0.00004
+2026-08-02;Grêmio;1;0.00002
 2026-08-02;Grêmio;2;0.00075
 2026-08-02;Grêmio;3;0.00319
 2026-08-02;Grêmio;4;0.00652
@@ -26220,7 +26220,7 @@ data;time;pos;chance
 2026-08-02;Grêmio;19;0.09206
 2026-08-02;Grêmio;20;0.02535
 2026-08-02;Internacional;1;0.0
-2026-08-02;Internacional;2;9e-05
+2026-08-02;Internacional;2;0.00009
 2026-08-02;Internacional;3;0.0008
 2026-08-02;Internacional;4;0.00242
 2026-08-02;Internacional;5;0.00405
@@ -26239,7 +26239,7 @@ data;time;pos;chance
 2026-08-02;Internacional;18;0.14872
 2026-08-02;Internacional;19;0.15456
 2026-08-02;Internacional;20;0.04585
-2026-08-02;Mirassol;1;4e-05
+2026-08-02;Mirassol;1;0.00004
 2026-08-02;Mirassol;2;0.00063
 2026-08-02;Mirassol;3;0.00306
 2026-08-02;Mirassol;4;0.00641
@@ -26268,9 +26268,9 @@ data;time;pos;chance
 2026-08-02;Palmeiras;7;0.00081
 2026-08-02;Palmeiras;8;0.0003
 2026-08-02;Palmeiras;9;0.00017
-2026-08-02;Palmeiras;10;7e-05
-2026-08-02;Palmeiras;11;3e-05
-2026-08-02;Palmeiras;12;1e-05
+2026-08-02;Palmeiras;10;0.00007
+2026-08-02;Palmeiras;11;0.00003
+2026-08-02;Palmeiras;12;0.00001
 2026-08-02;Palmeiras;13;0.0
 2026-08-02;Palmeiras;14;0.0
 2026-08-02;Palmeiras;15;0.0
@@ -26299,7 +26299,7 @@ data;time;pos;chance
 2026-08-02;Red Bull Bragantino;18;0.00372
 2026-08-02;Red Bull Bragantino;19;0.00148
 2026-08-02;Red Bull Bragantino;20;0.00012
-2026-08-02;Remo;1;2e-05
+2026-08-02;Remo;1;0.00002
 2026-08-02;Remo;2;0.00023
 2026-08-02;Remo;3;0.0008
 2026-08-02;Remo;4;0.00259
@@ -26319,7 +26319,7 @@ data;time;pos;chance
 2026-08-02;Remo;18;0.1405
 2026-08-02;Remo;19;0.14105
 2026-08-02;Remo;20;0.04397
-2026-08-02;Santos;1;1e-05
+2026-08-02;Santos;1;0.00001
 2026-08-02;Santos;2;0.00028
 2026-08-02;Santos;3;0.00147
 2026-08-02;Santos;4;0.00368
@@ -26359,7 +26359,7 @@ data;time;pos;chance
 2026-08-02;São Paulo;18;0.02199
 2026-08-02;São Paulo;19;0.01232
 2026-08-02;São Paulo;20;0.00166
-2026-08-02;Vasco da Gama;1;1e-05
+2026-08-02;Vasco da Gama;1;0.00001
 2026-08-02;Vasco da Gama;2;0.0002
 2026-08-02;Vasco da Gama;3;0.001
 2026-08-02;Vasco da Gama;4;0.00224
@@ -26417,7 +26417,7 @@ data;time;pos;chance
 2026-08-03;Athletico Paranaense;16;0.00124
 2026-08-03;Athletico Paranaense;17;0.00058
 2026-08-03;Athletico Paranaense;18;0.00028
-2026-08-03;Athletico Paranaense;19;8e-05
+2026-08-03;Athletico Paranaense;19;0.00008
 2026-08-03;Athletico Paranaense;20;0.0
 2026-08-03;Atlético Mineiro;1;0.00317
 2026-08-03;Atlético Mineiro;2;0.02638
@@ -26484,8 +26484,8 @@ data;time;pos;chance
 2026-08-03;Chapecoense;3;0.0
 2026-08-03;Chapecoense;4;0.0
 2026-08-03;Chapecoense;5;0.0
-2026-08-03;Chapecoense;6;3e-05
-2026-08-03;Chapecoense;7;7e-05
+2026-08-03;Chapecoense;6;0.00003
+2026-08-03;Chapecoense;7;0.00007
 2026-08-03;Chapecoense;8;0.0001
 2026-08-03;Chapecoense;9;0.00024
 2026-08-03;Chapecoense;10;0.00039
@@ -26574,9 +26574,9 @@ data;time;pos;chance
 2026-08-03;Flamengo;13;0.00079
 2026-08-03;Flamengo;14;0.00038
 2026-08-03;Flamengo;15;0.00011
-2026-08-03;Flamengo;16;7e-05
-2026-08-03;Flamengo;17;3e-05
-2026-08-03;Flamengo;18;3e-05
+2026-08-03;Flamengo;16;0.00007
+2026-08-03;Flamengo;17;0.00003
+2026-08-03;Flamengo;18;0.00003
 2026-08-03;Flamengo;19;0.0
 2026-08-03;Flamengo;20;0.0
 2026-08-03;Fluminense;1;0.00855
@@ -26598,8 +26598,8 @@ data;time;pos;chance
 2026-08-03;Fluminense;17;0.00473
 2026-08-03;Fluminense;18;0.0022
 2026-08-03;Fluminense;19;0.00084
-2026-08-03;Fluminense;20;7e-05
-2026-08-03;Grêmio;1;4e-05
+2026-08-03;Fluminense;20;0.00007
+2026-08-03;Grêmio;1;0.00004
 2026-08-03;Grêmio;2;0.00081
 2026-08-03;Grêmio;3;0.00296
 2026-08-03;Grêmio;4;0.00627
@@ -26639,7 +26639,7 @@ data;time;pos;chance
 2026-08-03;Internacional;18;0.14788
 2026-08-03;Internacional;19;0.15561
 2026-08-03;Internacional;20;0.04694
-2026-08-03;Mirassol;1;8e-05
+2026-08-03;Mirassol;1;0.00008
 2026-08-03;Mirassol;2;0.00065
 2026-08-03;Mirassol;3;0.003
 2026-08-03;Mirassol;4;0.00654
@@ -26668,8 +26668,8 @@ data;time;pos;chance
 2026-08-03;Palmeiras;7;0.00088
 2026-08-03;Palmeiras;8;0.00024
 2026-08-03;Palmeiras;9;0.00017
-2026-08-03;Palmeiras;10;9e-05
-2026-08-03;Palmeiras;11;2e-05
+2026-08-03;Palmeiras;10;0.00009
+2026-08-03;Palmeiras;11;0.00002
 2026-08-03;Palmeiras;12;0.0
 2026-08-03;Palmeiras;13;0.0
 2026-08-03;Palmeiras;14;0.0
@@ -26699,7 +26699,7 @@ data;time;pos;chance
 2026-08-03;Red Bull Bragantino;18;0.0038
 2026-08-03;Red Bull Bragantino;19;0.00152
 2026-08-03;Red Bull Bragantino;20;0.00021
-2026-08-03;Remo;1;1e-05
+2026-08-03;Remo;1;0.00001
 2026-08-03;Remo;2;0.0002
 2026-08-03;Remo;3;0.00097
 2026-08-03;Remo;4;0.00268
@@ -26719,7 +26719,7 @@ data;time;pos;chance
 2026-08-03;Remo;18;0.13831
 2026-08-03;Remo;19;0.13963
 2026-08-03;Remo;20;0.04407
-2026-08-03;Santos;1;1e-05
+2026-08-03;Santos;1;0.00001
 2026-08-03;Santos;2;0.00042
 2026-08-03;Santos;3;0.00146
 2026-08-03;Santos;4;0.00377
@@ -26817,7 +26817,7 @@ data;time;pos;chance
 2026-08-04;Athletico Paranaense;16;0.00127
 2026-08-04;Athletico Paranaense;17;0.00055
 2026-08-04;Athletico Paranaense;18;0.00023
-2026-08-04;Athletico Paranaense;19;5e-05
+2026-08-04;Athletico Paranaense;19;0.00005
 2026-08-04;Athletico Paranaense;20;0.0
 2026-08-04;Atlético Mineiro;1;0.00313
 2026-08-04;Atlético Mineiro;2;0.02708
@@ -26884,9 +26884,9 @@ data;time;pos;chance
 2026-08-04;Chapecoense;3;0.0
 2026-08-04;Chapecoense;4;0.0
 2026-08-04;Chapecoense;5;0.0
-2026-08-04;Chapecoense;6;2e-05
-2026-08-04;Chapecoense;7;7e-05
-2026-08-04;Chapecoense;8;8e-05
+2026-08-04;Chapecoense;6;0.00002
+2026-08-04;Chapecoense;7;0.00007
+2026-08-04;Chapecoense;8;0.00008
 2026-08-04;Chapecoense;9;0.00023
 2026-08-04;Chapecoense;10;0.00029
 2026-08-04;Chapecoense;11;0.00097
@@ -26974,8 +26974,8 @@ data;time;pos;chance
 2026-08-04;Flamengo;13;0.00066
 2026-08-04;Flamengo;14;0.0003
 2026-08-04;Flamengo;15;0.00019
-2026-08-04;Flamengo;16;6e-05
-2026-08-04;Flamengo;17;2e-05
+2026-08-04;Flamengo;16;0.00006
+2026-08-04;Flamengo;17;0.00002
 2026-08-04;Flamengo;18;0.0
 2026-08-04;Flamengo;19;0.0
 2026-08-04;Flamengo;20;0.0
@@ -26998,8 +26998,8 @@ data;time;pos;chance
 2026-08-04;Fluminense;17;0.00502
 2026-08-04;Fluminense;18;0.00234
 2026-08-04;Fluminense;19;0.00089
-2026-08-04;Fluminense;20;4e-05
-2026-08-04;Grêmio;1;8e-05
+2026-08-04;Fluminense;20;0.00004
+2026-08-04;Grêmio;1;0.00008
 2026-08-04;Grêmio;2;0.0008
 2026-08-04;Grêmio;3;0.00295
 2026-08-04;Grêmio;4;0.00671
@@ -27019,7 +27019,7 @@ data;time;pos;chance
 2026-08-04;Grêmio;18;0.10401
 2026-08-04;Grêmio;19;0.09352
 2026-08-04;Grêmio;20;0.025
-2026-08-04;Internacional;1;1e-05
+2026-08-04;Internacional;1;0.00001
 2026-08-04;Internacional;2;0.00012
 2026-08-04;Internacional;3;0.00071
 2026-08-04;Internacional;4;0.00215
@@ -27039,7 +27039,7 @@ data;time;pos;chance
 2026-08-04;Internacional;18;0.14635
 2026-08-04;Internacional;19;0.15479
 2026-08-04;Internacional;20;0.04662
-2026-08-04;Mirassol;1;7e-05
+2026-08-04;Mirassol;1;0.00007
 2026-08-04;Mirassol;2;0.00077
 2026-08-04;Mirassol;3;0.00298
 2026-08-04;Mirassol;4;0.00619
@@ -27068,10 +27068,10 @@ data;time;pos;chance
 2026-08-04;Palmeiras;7;0.00092
 2026-08-04;Palmeiras;8;0.00038
 2026-08-04;Palmeiras;9;0.00018
-2026-08-04;Palmeiras;10;7e-05
-2026-08-04;Palmeiras;11;3e-05
-2026-08-04;Palmeiras;12;2e-05
-2026-08-04;Palmeiras;13;1e-05
+2026-08-04;Palmeiras;10;0.00007
+2026-08-04;Palmeiras;11;0.00003
+2026-08-04;Palmeiras;12;0.00002
+2026-08-04;Palmeiras;13;0.00001
 2026-08-04;Palmeiras;14;0.0
 2026-08-04;Palmeiras;15;0.0
 2026-08-04;Palmeiras;16;0.0
@@ -27099,7 +27099,7 @@ data;time;pos;chance
 2026-08-04;Red Bull Bragantino;18;0.0041
 2026-08-04;Red Bull Bragantino;19;0.0016
 2026-08-04;Red Bull Bragantino;20;0.00024
-2026-08-04;Remo;1;2e-05
+2026-08-04;Remo;1;0.00002
 2026-08-04;Remo;2;0.00016
 2026-08-04;Remo;3;0.00108
 2026-08-04;Remo;4;0.0024
@@ -27159,7 +27159,7 @@ data;time;pos;chance
 2026-08-04;São Paulo;18;0.02141
 2026-08-04;São Paulo;19;0.01193
 2026-08-04;São Paulo;20;0.00176
-2026-08-04;Vasco da Gama;1;2e-05
+2026-08-04;Vasco da Gama;1;0.00002
 2026-08-04;Vasco da Gama;2;0.00019
 2026-08-04;Vasco da Gama;3;0.00097
 2026-08-04;Vasco da Gama;4;0.00247
@@ -27217,8 +27217,8 @@ data;time;pos;chance
 2026-08-05;Athletico Paranaense;16;0.00116
 2026-08-05;Athletico Paranaense;17;0.00055
 2026-08-05;Athletico Paranaense;18;0.0002
-2026-08-05;Athletico Paranaense;19;6e-05
-2026-08-05;Athletico Paranaense;20;1e-05
+2026-08-05;Athletico Paranaense;19;0.00006
+2026-08-05;Athletico Paranaense;20;0.00001
 2026-08-05;Atlético Mineiro;1;0.00292
 2026-08-05;Atlético Mineiro;2;0.02673
 2026-08-05;Atlético Mineiro;3;0.06337
@@ -27281,11 +27281,11 @@ data;time;pos;chance
 2026-08-05;Botafogo;20;0.00038
 2026-08-05;Chapecoense;1;0.0
 2026-08-05;Chapecoense;2;0.0
-2026-08-05;Chapecoense;3;1e-05
-2026-08-05;Chapecoense;4;1e-05
-2026-08-05;Chapecoense;5;2e-05
-2026-08-05;Chapecoense;6;2e-05
-2026-08-05;Chapecoense;7;3e-05
+2026-08-05;Chapecoense;3;0.00001
+2026-08-05;Chapecoense;4;0.00001
+2026-08-05;Chapecoense;5;0.00002
+2026-08-05;Chapecoense;6;0.00002
+2026-08-05;Chapecoense;7;0.00003
 2026-08-05;Chapecoense;8;0.00015
 2026-08-05;Chapecoense;9;0.00026
 2026-08-05;Chapecoense;10;0.0004
@@ -27374,8 +27374,8 @@ data;time;pos;chance
 2026-08-05;Flamengo;13;0.00076
 2026-08-05;Flamengo;14;0.00039
 2026-08-05;Flamengo;15;0.00015
-2026-08-05;Flamengo;16;3e-05
-2026-08-05;Flamengo;17;2e-05
+2026-08-05;Flamengo;16;0.00003
+2026-08-05;Flamengo;17;0.00002
 2026-08-05;Flamengo;18;0.0
 2026-08-05;Flamengo;19;0.0
 2026-08-05;Flamengo;20;0.0
@@ -27398,8 +27398,8 @@ data;time;pos;chance
 2026-08-05;Fluminense;17;0.00494
 2026-08-05;Fluminense;18;0.00268
 2026-08-05;Fluminense;19;0.00064
-2026-08-05;Fluminense;20;7e-05
-2026-08-05;Grêmio;1;4e-05
+2026-08-05;Fluminense;20;0.00007
+2026-08-05;Grêmio;1;0.00004
 2026-08-05;Grêmio;2;0.00066
 2026-08-05;Grêmio;3;0.00276
 2026-08-05;Grêmio;4;0.00654
@@ -27439,7 +27439,7 @@ data;time;pos;chance
 2026-08-05;Internacional;18;0.14812
 2026-08-05;Internacional;19;0.15627
 2026-08-05;Internacional;20;0.04735
-2026-08-05;Mirassol;1;8e-05
+2026-08-05;Mirassol;1;0.00008
 2026-08-05;Mirassol;2;0.00071
 2026-08-05;Mirassol;3;0.00257
 2026-08-05;Mirassol;4;0.00682
@@ -27468,10 +27468,10 @@ data;time;pos;chance
 2026-08-05;Palmeiras;7;0.00085
 2026-08-05;Palmeiras;8;0.00034
 2026-08-05;Palmeiras;9;0.00014
-2026-08-05;Palmeiras;10;7e-05
-2026-08-05;Palmeiras;11;4e-05
+2026-08-05;Palmeiras;10;0.00007
+2026-08-05;Palmeiras;11;0.00004
 2026-08-05;Palmeiras;12;0.0
-2026-08-05;Palmeiras;13;1e-05
+2026-08-05;Palmeiras;13;0.00001
 2026-08-05;Palmeiras;14;0.0
 2026-08-05;Palmeiras;15;0.0
 2026-08-05;Palmeiras;16;0.0
@@ -27499,7 +27499,7 @@ data;time;pos;chance
 2026-08-05;Red Bull Bragantino;18;0.00362
 2026-08-05;Red Bull Bragantino;19;0.00138
 2026-08-05;Red Bull Bragantino;20;0.0002
-2026-08-05;Remo;1;1e-05
+2026-08-05;Remo;1;0.00001
 2026-08-05;Remo;2;0.00015
 2026-08-05;Remo;3;0.00093
 2026-08-05;Remo;4;0.00233
@@ -27519,7 +27519,7 @@ data;time;pos;chance
 2026-08-05;Remo;18;0.13599
 2026-08-05;Remo;19;0.14071
 2026-08-05;Remo;20;0.04493
-2026-08-05;Santos;1;2e-05
+2026-08-05;Santos;1;0.00002
 2026-08-05;Santos;2;0.00037
 2026-08-05;Santos;3;0.00132
 2026-08-05;Santos;4;0.00373
@@ -27617,7 +27617,7 @@ data;time;pos;chance
 2026-08-06;Athletico Paranaense;16;0.00124
 2026-08-06;Athletico Paranaense;17;0.00062
 2026-08-06;Athletico Paranaense;18;0.00019
-2026-08-06;Athletico Paranaense;19;5e-05
+2026-08-06;Athletico Paranaense;19;0.00005
 2026-08-06;Athletico Paranaense;20;0.0
 2026-08-06;Atlético Mineiro;1;0.00313
 2026-08-06;Atlético Mineiro;2;0.0269
@@ -27684,8 +27684,8 @@ data;time;pos;chance
 2026-08-06;Chapecoense;3;0.0
 2026-08-06;Chapecoense;4;0.0
 2026-08-06;Chapecoense;5;0.0
-2026-08-06;Chapecoense;6;2e-05
-2026-08-06;Chapecoense;7;3e-05
+2026-08-06;Chapecoense;6;0.00002
+2026-08-06;Chapecoense;7;0.00003
 2026-08-06;Chapecoense;8;0.00014
 2026-08-06;Chapecoense;9;0.00031
 2026-08-06;Chapecoense;10;0.00032
@@ -27774,9 +27774,9 @@ data;time;pos;chance
 2026-08-06;Flamengo;13;0.00072
 2026-08-06;Flamengo;14;0.00045
 2026-08-06;Flamengo;15;0.00016
-2026-08-06;Flamengo;16;4e-05
-2026-08-06;Flamengo;17;4e-05
-2026-08-06;Flamengo;18;1e-05
+2026-08-06;Flamengo;16;0.00004
+2026-08-06;Flamengo;17;0.00004
+2026-08-06;Flamengo;18;0.00001
 2026-08-06;Flamengo;19;0.0
 2026-08-06;Flamengo;20;0.0
 2026-08-06;Fluminense;1;0.00857
@@ -27799,7 +27799,7 @@ data;time;pos;chance
 2026-08-06;Fluminense;18;0.00255
 2026-08-06;Fluminense;19;0.00091
 2026-08-06;Fluminense;20;0.00011
-2026-08-06;Grêmio;1;4e-05
+2026-08-06;Grêmio;1;0.00004
 2026-08-06;Grêmio;2;0.00068
 2026-08-06;Grêmio;3;0.00287
 2026-08-06;Grêmio;4;0.00691
@@ -27839,7 +27839,7 @@ data;time;pos;chance
 2026-08-06;Internacional;18;0.14748
 2026-08-06;Internacional;19;0.15596
 2026-08-06;Internacional;20;0.04652
-2026-08-06;Mirassol;1;6e-05
+2026-08-06;Mirassol;1;0.00006
 2026-08-06;Mirassol;2;0.00073
 2026-08-06;Mirassol;3;0.00301
 2026-08-06;Mirassol;4;0.00644
@@ -27868,9 +27868,9 @@ data;time;pos;chance
 2026-08-06;Palmeiras;7;0.00067
 2026-08-06;Palmeiras;8;0.00043
 2026-08-06;Palmeiras;9;0.0002
-2026-08-06;Palmeiras;10;7e-05
-2026-08-06;Palmeiras;11;6e-05
-2026-08-06;Palmeiras;12;1e-05
+2026-08-06;Palmeiras;10;0.00007
+2026-08-06;Palmeiras;11;0.00006
+2026-08-06;Palmeiras;12;0.00001
 2026-08-06;Palmeiras;13;0.0
 2026-08-06;Palmeiras;14;0.0
 2026-08-06;Palmeiras;15;0.0
@@ -27919,7 +27919,7 @@ data;time;pos;chance
 2026-08-06;Remo;18;0.13863
 2026-08-06;Remo;19;0.13936
 2026-08-06;Remo;20;0.04388
-2026-08-06;Santos;1;2e-05
+2026-08-06;Santos;1;0.00002
 2026-08-06;Santos;2;0.00028
 2026-08-06;Santos;3;0.00172
 2026-08-06;Santos;4;0.00353
@@ -28017,7 +28017,7 @@ data;time;pos;chance
 2026-08-07;Athletico Paranaense;16;0.00135
 2026-08-07;Athletico Paranaense;17;0.00055
 2026-08-07;Athletico Paranaense;18;0.00016
-2026-08-07;Athletico Paranaense;19;1e-05
+2026-08-07;Athletico Paranaense;19;0.00001
 2026-08-07;Athletico Paranaense;20;0.0
 2026-08-07;Atlético Mineiro;1;0.00297
 2026-08-07;Atlético Mineiro;2;0.02603
@@ -28081,11 +28081,11 @@ data;time;pos;chance
 2026-08-07;Botafogo;20;0.00034
 2026-08-07;Chapecoense;1;0.0
 2026-08-07;Chapecoense;2;0.0
-2026-08-07;Chapecoense;3;1e-05
+2026-08-07;Chapecoense;3;0.00001
 2026-08-07;Chapecoense;4;0.0
-2026-08-07;Chapecoense;5;2e-05
-2026-08-07;Chapecoense;6;2e-05
-2026-08-07;Chapecoense;7;5e-05
+2026-08-07;Chapecoense;5;0.00002
+2026-08-07;Chapecoense;6;0.00002
+2026-08-07;Chapecoense;7;0.00005
 2026-08-07;Chapecoense;8;0.00017
 2026-08-07;Chapecoense;9;0.00019
 2026-08-07;Chapecoense;10;0.00053
@@ -28174,9 +28174,9 @@ data;time;pos;chance
 2026-08-07;Flamengo;13;0.00072
 2026-08-07;Flamengo;14;0.00032
 2026-08-07;Flamengo;15;0.00019
-2026-08-07;Flamengo;16;2e-05
-2026-08-07;Flamengo;17;1e-05
-2026-08-07;Flamengo;18;1e-05
+2026-08-07;Flamengo;16;0.00002
+2026-08-07;Flamengo;17;0.00001
+2026-08-07;Flamengo;18;0.00001
 2026-08-07;Flamengo;19;0.0
 2026-08-07;Flamengo;20;0.0
 2026-08-07;Fluminense;1;0.00833
@@ -28199,7 +28199,7 @@ data;time;pos;chance
 2026-08-07;Fluminense;18;0.00257
 2026-08-07;Fluminense;19;0.0008
 2026-08-07;Fluminense;20;0.0001
-2026-08-07;Grêmio;1;5e-05
+2026-08-07;Grêmio;1;0.00005
 2026-08-07;Grêmio;2;0.00069
 2026-08-07;Grêmio;3;0.00302
 2026-08-07;Grêmio;4;0.00609
@@ -28239,7 +28239,7 @@ data;time;pos;chance
 2026-08-07;Internacional;18;0.14692
 2026-08-07;Internacional;19;0.15546
 2026-08-07;Internacional;20;0.0474
-2026-08-07;Mirassol;1;3e-05
+2026-08-07;Mirassol;1;0.00003
 2026-08-07;Mirassol;2;0.0007
 2026-08-07;Mirassol;3;0.00287
 2026-08-07;Mirassol;4;0.00654
@@ -28268,9 +28268,9 @@ data;time;pos;chance
 2026-08-07;Palmeiras;7;0.00094
 2026-08-07;Palmeiras;8;0.00032
 2026-08-07;Palmeiras;9;0.00012
-2026-08-07;Palmeiras;10;7e-05
-2026-08-07;Palmeiras;11;1e-05
-2026-08-07;Palmeiras;12;1e-05
+2026-08-07;Palmeiras;10;0.00007
+2026-08-07;Palmeiras;11;0.00001
+2026-08-07;Palmeiras;12;0.00001
 2026-08-07;Palmeiras;13;0.0
 2026-08-07;Palmeiras;14;0.0
 2026-08-07;Palmeiras;15;0.0
@@ -28319,7 +28319,7 @@ data;time;pos;chance
 2026-08-07;Remo;18;0.13787
 2026-08-07;Remo;19;0.14072
 2026-08-07;Remo;20;0.04404
-2026-08-07;Santos;1;1e-05
+2026-08-07;Santos;1;0.00001
 2026-08-07;Santos;2;0.00039
 2026-08-07;Santos;3;0.00144
 2026-08-07;Santos;4;0.00358
@@ -28417,8 +28417,8 @@ data;time;pos;chance
 2026-08-08;Athletico Paranaense;16;0.00112
 2026-08-08;Athletico Paranaense;17;0.00065
 2026-08-08;Athletico Paranaense;18;0.0002
-2026-08-08;Athletico Paranaense;19;9e-05
-2026-08-08;Athletico Paranaense;20;1e-05
+2026-08-08;Athletico Paranaense;19;0.00009
+2026-08-08;Athletico Paranaense;20;0.00001
 2026-08-08;Atlético Mineiro;1;0.00313
 2026-08-08;Atlético Mineiro;2;0.02607
 2026-08-08;Atlético Mineiro;3;0.0631
@@ -28483,10 +28483,10 @@ data;time;pos;chance
 2026-08-08;Chapecoense;2;0.0
 2026-08-08;Chapecoense;3;0.0
 2026-08-08;Chapecoense;4;0.0
-2026-08-08;Chapecoense;5;2e-05
-2026-08-08;Chapecoense;6;2e-05
-2026-08-08;Chapecoense;7;6e-05
-2026-08-08;Chapecoense;8;9e-05
+2026-08-08;Chapecoense;5;0.00002
+2026-08-08;Chapecoense;6;0.00002
+2026-08-08;Chapecoense;7;0.00006
+2026-08-08;Chapecoense;8;0.00009
 2026-08-08;Chapecoense;9;0.00021
 2026-08-08;Chapecoense;10;0.00038
 2026-08-08;Chapecoense;11;0.00075
@@ -28575,8 +28575,8 @@ data;time;pos;chance
 2026-08-08;Flamengo;14;0.00033
 2026-08-08;Flamengo;15;0.00021
 2026-08-08;Flamengo;16;0.00016
-2026-08-08;Flamengo;17;2e-05
-2026-08-08;Flamengo;18;2e-05
+2026-08-08;Flamengo;17;0.00002
+2026-08-08;Flamengo;18;0.00002
 2026-08-08;Flamengo;19;0.0
 2026-08-08;Flamengo;20;0.0
 2026-08-08;Fluminense;1;0.00847
@@ -28620,7 +28620,7 @@ data;time;pos;chance
 2026-08-08;Grêmio;19;0.09189
 2026-08-08;Grêmio;20;0.02515
 2026-08-08;Internacional;1;0.0
-2026-08-08;Internacional;2;8e-05
+2026-08-08;Internacional;2;0.00008
 2026-08-08;Internacional;3;0.00085
 2026-08-08;Internacional;4;0.00209
 2026-08-08;Internacional;5;0.00441
@@ -28639,7 +28639,7 @@ data;time;pos;chance
 2026-08-08;Internacional;18;0.14682
 2026-08-08;Internacional;19;0.15618
 2026-08-08;Internacional;20;0.04657
-2026-08-08;Mirassol;1;6e-05
+2026-08-08;Mirassol;1;0.00006
 2026-08-08;Mirassol;2;0.00086
 2026-08-08;Mirassol;3;0.00281
 2026-08-08;Mirassol;4;0.00698
@@ -28668,13 +28668,13 @@ data;time;pos;chance
 2026-08-08;Palmeiras;7;0.00086
 2026-08-08;Palmeiras;8;0.00036
 2026-08-08;Palmeiras;9;0.0002
-2026-08-08;Palmeiras;10;2e-05
-2026-08-08;Palmeiras;11;3e-05
+2026-08-08;Palmeiras;10;0.00002
+2026-08-08;Palmeiras;11;0.00003
 2026-08-08;Palmeiras;12;0.0
 2026-08-08;Palmeiras;13;0.0
 2026-08-08;Palmeiras;14;0.0
 2026-08-08;Palmeiras;15;0.0
-2026-08-08;Palmeiras;16;1e-05
+2026-08-08;Palmeiras;16;0.00001
 2026-08-08;Palmeiras;17;0.0
 2026-08-08;Palmeiras;18;0.0
 2026-08-08;Palmeiras;19;0.0
@@ -28719,7 +28719,7 @@ data;time;pos;chance
 2026-08-08;Remo;18;0.14166
 2026-08-08;Remo;19;0.14043
 2026-08-08;Remo;20;0.04409
-2026-08-08;Santos;1;1e-05
+2026-08-08;Santos;1;0.00001
 2026-08-08;Santos;2;0.00025
 2026-08-08;Santos;3;0.0014
 2026-08-08;Santos;4;0.00372
@@ -28817,7 +28817,7 @@ data;time;pos;chance
 2026-08-09;Athletico Paranaense;16;0.00131
 2026-08-09;Athletico Paranaense;17;0.00058
 2026-08-09;Athletico Paranaense;18;0.0002
-2026-08-09;Athletico Paranaense;19;3e-05
+2026-08-09;Athletico Paranaense;19;0.00003
 2026-08-09;Athletico Paranaense;20;0.0
 2026-08-09;Atlético Mineiro;1;0.00272
 2026-08-09;Atlético Mineiro;2;0.02695
@@ -28883,10 +28883,10 @@ data;time;pos;chance
 2026-08-09;Chapecoense;2;0.0
 2026-08-09;Chapecoense;3;0.0
 2026-08-09;Chapecoense;4;0.0
-2026-08-09;Chapecoense;5;1e-05
+2026-08-09;Chapecoense;5;0.00001
 2026-08-09;Chapecoense;6;0.0
-2026-08-09;Chapecoense;7;2e-05
-2026-08-09;Chapecoense;8;8e-05
+2026-08-09;Chapecoense;7;0.00002
+2026-08-09;Chapecoense;8;0.00008
 2026-08-09;Chapecoense;9;0.0001
 2026-08-09;Chapecoense;10;0.00015
 2026-08-09;Chapecoense;11;0.00048
@@ -28974,9 +28974,9 @@ data;time;pos;chance
 2026-08-09;Flamengo;13;0.00067
 2026-08-09;Flamengo;14;0.00033
 2026-08-09;Flamengo;15;0.00012
-2026-08-09;Flamengo;16;7e-05
-2026-08-09;Flamengo;17;1e-05
-2026-08-09;Flamengo;18;1e-05
+2026-08-09;Flamengo;16;0.00007
+2026-08-09;Flamengo;17;0.00001
+2026-08-09;Flamengo;18;0.00001
 2026-08-09;Flamengo;19;0.0
 2026-08-09;Flamengo;20;0.0
 2026-08-09;Fluminense;1;0.00776
@@ -28998,8 +28998,8 @@ data;time;pos;chance
 2026-08-09;Fluminense;17;0.00366
 2026-08-09;Fluminense;18;0.00197
 2026-08-09;Fluminense;19;0.00048
-2026-08-09;Fluminense;20;1e-05
-2026-08-09;Grêmio;1;6e-05
+2026-08-09;Fluminense;20;0.00001
+2026-08-09;Grêmio;1;0.00006
 2026-08-09;Grêmio;2;0.00098
 2026-08-09;Grêmio;3;0.004
 2026-08-09;Grêmio;4;0.00884
@@ -29019,7 +29019,7 @@ data;time;pos;chance
 2026-08-09;Grêmio;18;0.08429
 2026-08-09;Grêmio;19;0.063
 2026-08-09;Grêmio;20;0.0123
-2026-08-09;Internacional;1;2e-05
+2026-08-09;Internacional;1;0.00002
 2026-08-09;Internacional;2;0.00011
 2026-08-09;Internacional;3;0.0008
 2026-08-09;Internacional;4;0.00229
@@ -29039,7 +29039,7 @@ data;time;pos;chance
 2026-08-09;Internacional;18;0.1475
 2026-08-09;Internacional;19;0.15583
 2026-08-09;Internacional;20;0.0394
-2026-08-09;Mirassol;1;4e-05
+2026-08-09;Mirassol;1;0.00004
 2026-08-09;Mirassol;2;0.00092
 2026-08-09;Mirassol;3;0.00324
 2026-08-09;Mirassol;4;0.00703
@@ -29068,9 +29068,9 @@ data;time;pos;chance
 2026-08-09;Palmeiras;7;0.00076
 2026-08-09;Palmeiras;8;0.00029
 2026-08-09;Palmeiras;9;0.00015
-2026-08-09;Palmeiras;10;5e-05
-2026-08-09;Palmeiras;11;1e-05
-2026-08-09;Palmeiras;12;1e-05
+2026-08-09;Palmeiras;10;0.00005
+2026-08-09;Palmeiras;11;0.00001
+2026-08-09;Palmeiras;12;0.00001
 2026-08-09;Palmeiras;13;0.0
 2026-08-09;Palmeiras;14;0.0
 2026-08-09;Palmeiras;15;0.0
@@ -29119,7 +29119,7 @@ data;time;pos;chance
 2026-08-09;Remo;18;0.16873
 2026-08-09;Remo;19;0.18683
 2026-08-09;Remo;20;0.05188
-2026-08-09;Santos;1;2e-05
+2026-08-09;Santos;1;0.00002
 2026-08-09;Santos;2;0.00031
 2026-08-09;Santos;3;0.00161
 2026-08-09;Santos;4;0.00409
@@ -29215,9 +29215,9 @@ data;time;pos;chance
 2026-08-10;Athletico Paranaense;14;0.00096
 2026-08-10;Athletico Paranaense;15;0.00048
 2026-08-10;Athletico Paranaense;16;0.00023
-2026-08-10;Athletico Paranaense;17;8e-05
-2026-08-10;Athletico Paranaense;18;2e-05
-2026-08-10;Athletico Paranaense;19;1e-05
+2026-08-10;Athletico Paranaense;17;0.00008
+2026-08-10;Athletico Paranaense;18;0.00002
+2026-08-10;Athletico Paranaense;19;0.00001
 2026-08-10;Athletico Paranaense;20;0.0
 2026-08-10;Atlético Mineiro;1;0.00265
 2026-08-10;Atlético Mineiro;2;0.01974
@@ -29284,10 +29284,10 @@ data;time;pos;chance
 2026-08-10;Chapecoense;3;0.0
 2026-08-10;Chapecoense;4;0.0
 2026-08-10;Chapecoense;5;0.0
-2026-08-10;Chapecoense;6;1e-05
-2026-08-10;Chapecoense;7;1e-05
-2026-08-10;Chapecoense;8;1e-05
-2026-08-10;Chapecoense;9;9e-05
+2026-08-10;Chapecoense;6;0.00001
+2026-08-10;Chapecoense;7;0.00001
+2026-08-10;Chapecoense;8;0.00001
+2026-08-10;Chapecoense;9;0.00009
 2026-08-10;Chapecoense;10;0.00014
 2026-08-10;Chapecoense;11;0.00043
 2026-08-10;Chapecoense;12;0.00077
@@ -29372,11 +29372,11 @@ data;time;pos;chance
 2026-08-10;Flamengo;11;0.00088
 2026-08-10;Flamengo;12;0.00044
 2026-08-10;Flamengo;13;0.00016
-2026-08-10;Flamengo;14;9e-05
-2026-08-10;Flamengo;15;3e-05
-2026-08-10;Flamengo;16;1e-05
+2026-08-10;Flamengo;14;0.00009
+2026-08-10;Flamengo;15;0.00003
+2026-08-10;Flamengo;16;0.00001
 2026-08-10;Flamengo;17;0.0
-2026-08-10;Flamengo;18;1e-05
+2026-08-10;Flamengo;18;0.00001
 2026-08-10;Flamengo;19;0.0
 2026-08-10;Flamengo;20;0.0
 2026-08-10;Fluminense;1;0.00823
@@ -29398,8 +29398,8 @@ data;time;pos;chance
 2026-08-10;Fluminense;17;0.00328
 2026-08-10;Fluminense;18;0.00175
 2026-08-10;Fluminense;19;0.00033
-2026-08-10;Fluminense;20;6e-05
-2026-08-10;Grêmio;1;6e-05
+2026-08-10;Fluminense;20;0.00006
+2026-08-10;Grêmio;1;0.00006
 2026-08-10;Grêmio;2;0.00076
 2026-08-10;Grêmio;3;0.00347
 2026-08-10;Grêmio;4;0.00853
@@ -29420,7 +29420,7 @@ data;time;pos;chance
 2026-08-10;Grêmio;19;0.05476
 2026-08-10;Grêmio;20;0.01131
 2026-08-10;Internacional;1;0.0
-2026-08-10;Internacional;2;4e-05
+2026-08-10;Internacional;2;0.00004
 2026-08-10;Internacional;3;0.00043
 2026-08-10;Internacional;4;0.00196
 2026-08-10;Internacional;5;0.00404
@@ -29468,10 +29468,10 @@ data;time;pos;chance
 2026-08-10;Palmeiras;7;0.00127
 2026-08-10;Palmeiras;8;0.00061
 2026-08-10;Palmeiras;9;0.00018
-2026-08-10;Palmeiras;10;6e-05
-2026-08-10;Palmeiras;11;3e-05
-2026-08-10;Palmeiras;12;1e-05
-2026-08-10;Palmeiras;13;1e-05
+2026-08-10;Palmeiras;10;0.00006
+2026-08-10;Palmeiras;11;0.00003
+2026-08-10;Palmeiras;12;0.00001
+2026-08-10;Palmeiras;13;0.00001
 2026-08-10;Palmeiras;14;0.0
 2026-08-10;Palmeiras;15;0.0
 2026-08-10;Palmeiras;16;0.0
@@ -29500,7 +29500,7 @@ data;time;pos;chance
 2026-08-10;Red Bull Bragantino;19;0.00307
 2026-08-10;Red Bull Bragantino;20;0.00035
 2026-08-10;Remo;1;0.0
-2026-08-10;Remo;2;2e-05
+2026-08-10;Remo;2;0.00002
 2026-08-10;Remo;3;0.00034
 2026-08-10;Remo;4;0.00111
 2026-08-10;Remo;5;0.00215
@@ -29520,7 +29520,7 @@ data;time;pos;chance
 2026-08-10;Remo;19;0.17455
 2026-08-10;Remo;20;0.0512
 2026-08-10;Santos;1;0.0
-2026-08-10;Santos;2;2e-05
+2026-08-10;Santos;2;0.00002
 2026-08-10;Santos;3;0.00021
 2026-08-10;Santos;4;0.00108
 2026-08-10;Santos;5;0.00224
@@ -29579,7 +29579,7 @@ data;time;pos;chance
 2026-08-10;Vasco da Gama;18;0.14518
 2026-08-10;Vasco da Gama;19;0.14391
 2026-08-10;Vasco da Gama;20;0.03862
-2026-08-10;Vitória;1;6e-05
+2026-08-10;Vitória;1;0.00006
 2026-08-10;Vitória;2;0.00114
 2026-08-10;Vitória;3;0.00643
 2026-08-10;Vitória;4;0.01741
@@ -29615,8 +29615,8 @@ data;time;pos;chance
 2026-08-11;Athletico Paranaense;14;0.00101
 2026-08-11;Athletico Paranaense;15;0.00049
 2026-08-11;Athletico Paranaense;16;0.00015
-2026-08-11;Athletico Paranaense;17;2e-05
-2026-08-11;Athletico Paranaense;18;1e-05
+2026-08-11;Athletico Paranaense;17;0.00002
+2026-08-11;Athletico Paranaense;18;0.00001
 2026-08-11;Athletico Paranaense;19;0.0
 2026-08-11;Athletico Paranaense;20;0.0
 2026-08-11;Atlético Mineiro;1;0.00315
@@ -29684,10 +29684,10 @@ data;time;pos;chance
 2026-08-11;Chapecoense;3;0.0
 2026-08-11;Chapecoense;4;0.0
 2026-08-11;Chapecoense;5;0.0
-2026-08-11;Chapecoense;6;1e-05
-2026-08-11;Chapecoense;7;4e-05
-2026-08-11;Chapecoense;8;3e-05
-2026-08-11;Chapecoense;9;8e-05
+2026-08-11;Chapecoense;6;0.00001
+2026-08-11;Chapecoense;7;0.00004
+2026-08-11;Chapecoense;8;0.00003
+2026-08-11;Chapecoense;9;0.00008
 2026-08-11;Chapecoense;10;0.00019
 2026-08-11;Chapecoense;11;0.00041
 2026-08-11;Chapecoense;12;0.00086
@@ -29772,9 +29772,9 @@ data;time;pos;chance
 2026-08-11;Flamengo;11;0.00099
 2026-08-11;Flamengo;12;0.0004
 2026-08-11;Flamengo;13;0.00021
-2026-08-11;Flamengo;14;9e-05
-2026-08-11;Flamengo;15;3e-05
-2026-08-11;Flamengo;16;3e-05
+2026-08-11;Flamengo;14;0.00009
+2026-08-11;Flamengo;15;0.00003
+2026-08-11;Flamengo;16;0.00003
 2026-08-11;Flamengo;17;0.0
 2026-08-11;Flamengo;18;0.0
 2026-08-11;Flamengo;19;0.0
@@ -29798,8 +29798,8 @@ data;time;pos;chance
 2026-08-11;Fluminense;17;0.00319
 2026-08-11;Fluminense;18;0.00149
 2026-08-11;Fluminense;19;0.00046
-2026-08-11;Fluminense;20;1e-05
-2026-08-11;Grêmio;1;9e-05
+2026-08-11;Fluminense;20;0.00001
+2026-08-11;Grêmio;1;0.00009
 2026-08-11;Grêmio;2;0.00059
 2026-08-11;Grêmio;3;0.00322
 2026-08-11;Grêmio;4;0.00967
@@ -29820,7 +29820,7 @@ data;time;pos;chance
 2026-08-11;Grêmio;19;0.05555
 2026-08-11;Grêmio;20;0.0114
 2026-08-11;Internacional;1;0.0
-2026-08-11;Internacional;2;6e-05
+2026-08-11;Internacional;2;0.00006
 2026-08-11;Internacional;3;0.00047
 2026-08-11;Internacional;4;0.00207
 2026-08-11;Internacional;5;0.00442
@@ -29839,7 +29839,7 @@ data;time;pos;chance
 2026-08-11;Internacional;18;0.14386
 2026-08-11;Internacional;19;0.13483
 2026-08-11;Internacional;20;0.03338
-2026-08-11;Mirassol;1;1e-05
+2026-08-11;Mirassol;1;0.00001
 2026-08-11;Mirassol;2;0.00015
 2026-08-11;Mirassol;3;0.00118
 2026-08-11;Mirassol;4;0.00418
@@ -29868,10 +29868,10 @@ data;time;pos;chance
 2026-08-11;Palmeiras;7;0.00126
 2026-08-11;Palmeiras;8;0.00053
 2026-08-11;Palmeiras;9;0.00016
-2026-08-11;Palmeiras;10;9e-05
-2026-08-11;Palmeiras;11;2e-05
-2026-08-11;Palmeiras;12;1e-05
-2026-08-11;Palmeiras;13;1e-05
+2026-08-11;Palmeiras;10;0.00009
+2026-08-11;Palmeiras;11;0.00002
+2026-08-11;Palmeiras;12;0.00001
+2026-08-11;Palmeiras;13;0.00001
 2026-08-11;Palmeiras;14;0.0
 2026-08-11;Palmeiras;15;0.0
 2026-08-11;Palmeiras;16;0.0
@@ -29900,7 +29900,7 @@ data;time;pos;chance
 2026-08-11;Red Bull Bragantino;19;0.00303
 2026-08-11;Red Bull Bragantino;20;0.00038
 2026-08-11;Remo;1;0.0
-2026-08-11;Remo;2;8e-05
+2026-08-11;Remo;2;0.00008
 2026-08-11;Remo;3;0.00023
 2026-08-11;Remo;4;0.00116
 2026-08-11;Remo;5;0.00236
@@ -29920,7 +29920,7 @@ data;time;pos;chance
 2026-08-11;Remo;19;0.1708
 2026-08-11;Remo;20;0.05016
 2026-08-11;Santos;1;0.0
-2026-08-11;Santos;2;1e-05
+2026-08-11;Santos;2;0.00001
 2026-08-11;Santos;3;0.00033
 2026-08-11;Santos;4;0.00121
 2026-08-11;Santos;5;0.00223
@@ -29959,8 +29959,8 @@ data;time;pos;chance
 2026-08-11;São Paulo;18;0.02376
 2026-08-11;São Paulo;19;0.01227
 2026-08-11;São Paulo;20;0.00165
-2026-08-11;Vasco da Gama;1;1e-05
-2026-08-11;Vasco da Gama;2;9e-05
+2026-08-11;Vasco da Gama;1;0.00001
+2026-08-11;Vasco da Gama;2;0.00009
 2026-08-11;Vasco da Gama;3;0.00079
 2026-08-11;Vasco da Gama;4;0.00213
 2026-08-11;Vasco da Gama;5;0.00412
@@ -30015,9 +30015,9 @@ data;time;pos;chance
 2026-08-12;Athletico Paranaense;14;0.00085
 2026-08-12;Athletico Paranaense;15;0.00039
 2026-08-12;Athletico Paranaense;16;0.00017
-2026-08-12;Athletico Paranaense;17;6e-05
-2026-08-12;Athletico Paranaense;18;2e-05
-2026-08-12;Athletico Paranaense;19;1e-05
+2026-08-12;Athletico Paranaense;17;0.00006
+2026-08-12;Athletico Paranaense;18;0.00002
+2026-08-12;Athletico Paranaense;19;0.00001
 2026-08-12;Athletico Paranaense;20;0.0
 2026-08-12;Atlético Mineiro;1;0.00324
 2026-08-12;Atlético Mineiro;2;0.01921
@@ -30083,10 +30083,10 @@ data;time;pos;chance
 2026-08-12;Chapecoense;2;0.0
 2026-08-12;Chapecoense;3;0.0
 2026-08-12;Chapecoense;4;0.0
-2026-08-12;Chapecoense;5;1e-05
-2026-08-12;Chapecoense;6;1e-05
-2026-08-12;Chapecoense;7;3e-05
-2026-08-12;Chapecoense;8;3e-05
+2026-08-12;Chapecoense;5;0.00001
+2026-08-12;Chapecoense;6;0.00001
+2026-08-12;Chapecoense;7;0.00003
+2026-08-12;Chapecoense;8;0.00003
 2026-08-12;Chapecoense;9;0.00012
 2026-08-12;Chapecoense;10;0.00028
 2026-08-12;Chapecoense;11;0.00042
@@ -30172,8 +30172,8 @@ data;time;pos;chance
 2026-08-12;Flamengo;11;0.00088
 2026-08-12;Flamengo;12;0.00042
 2026-08-12;Flamengo;13;0.00028
-2026-08-12;Flamengo;14;9e-05
-2026-08-12;Flamengo;15;4e-05
+2026-08-12;Flamengo;14;0.00009
+2026-08-12;Flamengo;15;0.00004
 2026-08-12;Flamengo;16;0.0
 2026-08-12;Flamengo;17;0.0
 2026-08-12;Flamengo;18;0.0
@@ -30198,8 +30198,8 @@ data;time;pos;chance
 2026-08-12;Fluminense;17;0.00338
 2026-08-12;Fluminense;18;0.00144
 2026-08-12;Fluminense;19;0.00063
-2026-08-12;Fluminense;20;3e-05
-2026-08-12;Grêmio;1;8e-05
+2026-08-12;Fluminense;20;0.00003
+2026-08-12;Grêmio;1;0.00008
 2026-08-12;Grêmio;2;0.0006
 2026-08-12;Grêmio;3;0.00344
 2026-08-12;Grêmio;4;0.0094
@@ -30220,7 +30220,7 @@ data;time;pos;chance
 2026-08-12;Grêmio;19;0.0559
 2026-08-12;Grêmio;20;0.01137
 2026-08-12;Internacional;1;0.0
-2026-08-12;Internacional;2;5e-05
+2026-08-12;Internacional;2;0.00005
 2026-08-12;Internacional;3;0.00043
 2026-08-12;Internacional;4;0.00177
 2026-08-12;Internacional;5;0.00407
@@ -30239,7 +30239,7 @@ data;time;pos;chance
 2026-08-12;Internacional;18;0.14082
 2026-08-12;Internacional;19;0.13446
 2026-08-12;Internacional;20;0.03488
-2026-08-12;Mirassol;1;4e-05
+2026-08-12;Mirassol;1;0.00004
 2026-08-12;Mirassol;2;0.00033
 2026-08-12;Mirassol;3;0.00164
 2026-08-12;Mirassol;4;0.00417
@@ -30268,8 +30268,8 @@ data;time;pos;chance
 2026-08-12;Palmeiras;7;0.0011
 2026-08-12;Palmeiras;8;0.00055
 2026-08-12;Palmeiras;9;0.00021
-2026-08-12;Palmeiras;10;4e-05
-2026-08-12;Palmeiras;11;3e-05
+2026-08-12;Palmeiras;10;0.00004
+2026-08-12;Palmeiras;11;0.00003
 2026-08-12;Palmeiras;12;0.0
 2026-08-12;Palmeiras;13;0.0
 2026-08-12;Palmeiras;14;0.0
@@ -30300,7 +30300,7 @@ data;time;pos;chance
 2026-08-12;Red Bull Bragantino;19;0.00321
 2026-08-12;Red Bull Bragantino;20;0.00037
 2026-08-12;Remo;1;0.0
-2026-08-12;Remo;2;2e-05
+2026-08-12;Remo;2;0.00002
 2026-08-12;Remo;3;0.00031
 2026-08-12;Remo;4;0.00112
 2026-08-12;Remo;5;0.00227
@@ -30320,7 +30320,7 @@ data;time;pos;chance
 2026-08-12;Remo;19;0.17069
 2026-08-12;Remo;20;0.04991
 2026-08-12;Santos;1;0.0
-2026-08-12;Santos;2;4e-05
+2026-08-12;Santos;2;0.00004
 2026-08-12;Santos;3;0.00029
 2026-08-12;Santos;4;0.00113
 2026-08-12;Santos;5;0.00218
@@ -30359,8 +30359,8 @@ data;time;pos;chance
 2026-08-12;São Paulo;18;0.02321
 2026-08-12;São Paulo;19;0.01229
 2026-08-12;São Paulo;20;0.00176
-2026-08-12;Vasco da Gama;1;1e-05
-2026-08-12;Vasco da Gama;2;8e-05
+2026-08-12;Vasco da Gama;1;0.00001
+2026-08-12;Vasco da Gama;2;0.00008
 2026-08-12;Vasco da Gama;3;0.00071
 2026-08-12;Vasco da Gama;4;0.00202
 2026-08-12;Vasco da Gama;5;0.00431
@@ -30415,8 +30415,8 @@ data;time;pos;chance
 2026-08-13;Athletico Paranaense;14;0.00092
 2026-08-13;Athletico Paranaense;15;0.00049
 2026-08-13;Athletico Paranaense;16;0.00018
-2026-08-13;Athletico Paranaense;17;4e-05
-2026-08-13;Athletico Paranaense;18;1e-05
+2026-08-13;Athletico Paranaense;17;0.00004
+2026-08-13;Athletico Paranaense;18;0.00001
 2026-08-13;Athletico Paranaense;19;0.0
 2026-08-13;Athletico Paranaense;20;0.0
 2026-08-13;Atlético Mineiro;1;0.00318
@@ -30484,10 +30484,10 @@ data;time;pos;chance
 2026-08-13;Chapecoense;3;0.0
 2026-08-13;Chapecoense;4;0.0
 2026-08-13;Chapecoense;5;0.0
-2026-08-13;Chapecoense;6;1e-05
-2026-08-13;Chapecoense;7;2e-05
-2026-08-13;Chapecoense;8;6e-05
-2026-08-13;Chapecoense;9;6e-05
+2026-08-13;Chapecoense;6;0.00001
+2026-08-13;Chapecoense;7;0.00002
+2026-08-13;Chapecoense;8;0.00006
+2026-08-13;Chapecoense;9;0.00006
 2026-08-13;Chapecoense;10;0.00019
 2026-08-13;Chapecoense;11;0.00036
 2026-08-13;Chapecoense;12;0.00074
@@ -30573,8 +30573,8 @@ data;time;pos;chance
 2026-08-13;Flamengo;12;0.00048
 2026-08-13;Flamengo;13;0.00014
 2026-08-13;Flamengo;14;0.00016
-2026-08-13;Flamengo;15;2e-05
-2026-08-13;Flamengo;16;1e-05
+2026-08-13;Flamengo;15;0.00002
+2026-08-13;Flamengo;16;0.00001
 2026-08-13;Flamengo;17;0.0
 2026-08-13;Flamengo;18;0.0
 2026-08-13;Flamengo;19;0.0
@@ -30598,8 +30598,8 @@ data;time;pos;chance
 2026-08-13;Fluminense;17;0.00322
 2026-08-13;Fluminense;18;0.00156
 2026-08-13;Fluminense;19;0.00047
-2026-08-13;Fluminense;20;4e-05
-2026-08-13;Grêmio;1;8e-05
+2026-08-13;Fluminense;20;0.00004
+2026-08-13;Grêmio;1;0.00008
 2026-08-13;Grêmio;2;0.00069
 2026-08-13;Grêmio;3;0.00315
 2026-08-13;Grêmio;4;0.00892
@@ -30620,7 +30620,7 @@ data;time;pos;chance
 2026-08-13;Grêmio;19;0.05485
 2026-08-13;Grêmio;20;0.01159
 2026-08-13;Internacional;1;0.0
-2026-08-13;Internacional;2;4e-05
+2026-08-13;Internacional;2;0.00004
 2026-08-13;Internacional;3;0.00042
 2026-08-13;Internacional;4;0.00191
 2026-08-13;Internacional;5;0.00403
@@ -30668,10 +30668,10 @@ data;time;pos;chance
 2026-08-13;Palmeiras;7;0.00142
 2026-08-13;Palmeiras;8;0.00062
 2026-08-13;Palmeiras;9;0.00023
-2026-08-13;Palmeiras;10;8e-05
-2026-08-13;Palmeiras;11;1e-05
+2026-08-13;Palmeiras;10;0.00008
+2026-08-13;Palmeiras;11;0.00001
 2026-08-13;Palmeiras;12;0.0
-2026-08-13;Palmeiras;13;2e-05
+2026-08-13;Palmeiras;13;0.00002
 2026-08-13;Palmeiras;14;0.0
 2026-08-13;Palmeiras;15;0.0
 2026-08-13;Palmeiras;16;0.0
@@ -30699,8 +30699,8 @@ data;time;pos;chance
 2026-08-13;Red Bull Bragantino;18;0.00768
 2026-08-13;Red Bull Bragantino;19;0.00345
 2026-08-13;Red Bull Bragantino;20;0.00024
-2026-08-13;Remo;1;1e-05
-2026-08-13;Remo;2;1e-05
+2026-08-13;Remo;1;0.00001
+2026-08-13;Remo;2;0.00001
 2026-08-13;Remo;3;0.00035
 2026-08-13;Remo;4;0.00098
 2026-08-13;Remo;5;0.00221
@@ -30720,7 +30720,7 @@ data;time;pos;chance
 2026-08-13;Remo;19;0.17143
 2026-08-13;Remo;20;0.05034
 2026-08-13;Santos;1;0.0
-2026-08-13;Santos;2;4e-05
+2026-08-13;Santos;2;0.00004
 2026-08-13;Santos;3;0.00019
 2026-08-13;Santos;4;0.00088
 2026-08-13;Santos;5;0.00252
@@ -30759,7 +30759,7 @@ data;time;pos;chance
 2026-08-13;São Paulo;18;0.02331
 2026-08-13;São Paulo;19;0.01293
 2026-08-13;São Paulo;20;0.00184
-2026-08-13;Vasco da Gama;1;2e-05
+2026-08-13;Vasco da Gama;1;0.00002
 2026-08-13;Vasco da Gama;2;0.00012
 2026-08-13;Vasco da Gama;3;0.0007
 2026-08-13;Vasco da Gama;4;0.00225
@@ -30779,7 +30779,7 @@ data;time;pos;chance
 2026-08-13;Vasco da Gama;18;0.1479
 2026-08-13;Vasco da Gama;19;0.14409
 2026-08-13;Vasco da Gama;20;0.03899
-2026-08-13;Vitória;1;7e-05
+2026-08-13;Vitória;1;0.00007
 2026-08-13;Vitória;2;0.00135
 2026-08-13;Vitória;3;0.00658
 2026-08-13;Vitória;4;0.01709
@@ -30815,9 +30815,9 @@ data;time;pos;chance
 2026-08-14;Athletico Paranaense;14;0.00093
 2026-08-14;Athletico Paranaense;15;0.00046
 2026-08-14;Athletico Paranaense;16;0.00022
-2026-08-14;Athletico Paranaense;17;1e-05
-2026-08-14;Athletico Paranaense;18;1e-05
-2026-08-14;Athletico Paranaense;19;1e-05
+2026-08-14;Athletico Paranaense;17;0.00001
+2026-08-14;Athletico Paranaense;18;0.00001
+2026-08-14;Athletico Paranaense;19;0.00001
 2026-08-14;Athletico Paranaense;20;0.0
 2026-08-14;Atlético Mineiro;1;0.00296
 2026-08-14;Atlético Mineiro;2;0.01931
@@ -30883,11 +30883,11 @@ data;time;pos;chance
 2026-08-14;Chapecoense;2;0.0
 2026-08-14;Chapecoense;3;0.0
 2026-08-14;Chapecoense;4;0.0
-2026-08-14;Chapecoense;5;1e-05
-2026-08-14;Chapecoense;6;2e-05
-2026-08-14;Chapecoense;7;1e-05
-2026-08-14;Chapecoense;8;5e-05
-2026-08-14;Chapecoense;9;6e-05
+2026-08-14;Chapecoense;5;0.00001
+2026-08-14;Chapecoense;6;0.00002
+2026-08-14;Chapecoense;7;0.00001
+2026-08-14;Chapecoense;8;0.00005
+2026-08-14;Chapecoense;9;0.00006
 2026-08-14;Chapecoense;10;0.00018
 2026-08-14;Chapecoense;11;0.00038
 2026-08-14;Chapecoense;12;0.00083
@@ -30972,10 +30972,10 @@ data;time;pos;chance
 2026-08-14;Flamengo;11;0.00106
 2026-08-14;Flamengo;12;0.0005
 2026-08-14;Flamengo;13;0.00021
-2026-08-14;Flamengo;14;8e-05
-2026-08-14;Flamengo;15;3e-05
-2026-08-14;Flamengo;16;1e-05
-2026-08-14;Flamengo;17;1e-05
+2026-08-14;Flamengo;14;0.00008
+2026-08-14;Flamengo;15;0.00003
+2026-08-14;Flamengo;16;0.00001
+2026-08-14;Flamengo;17;0.00001
 2026-08-14;Flamengo;18;0.0
 2026-08-14;Flamengo;19;0.0
 2026-08-14;Flamengo;20;0.0
@@ -30998,8 +30998,8 @@ data;time;pos;chance
 2026-08-14;Fluminense;17;0.00357
 2026-08-14;Fluminense;18;0.0018
 2026-08-14;Fluminense;19;0.00041
-2026-08-14;Fluminense;20;2e-05
-2026-08-14;Grêmio;1;7e-05
+2026-08-14;Fluminense;20;0.00002
+2026-08-14;Grêmio;1;0.00007
 2026-08-14;Grêmio;2;0.00057
 2026-08-14;Grêmio;3;0.00335
 2026-08-14;Grêmio;4;0.00875
@@ -31020,7 +31020,7 @@ data;time;pos;chance
 2026-08-14;Grêmio;19;0.05638
 2026-08-14;Grêmio;20;0.01126
 2026-08-14;Internacional;1;0.0
-2026-08-14;Internacional;2;5e-05
+2026-08-14;Internacional;2;0.00005
 2026-08-14;Internacional;3;0.00039
 2026-08-14;Internacional;4;0.00186
 2026-08-14;Internacional;5;0.00377
@@ -31039,7 +31039,7 @@ data;time;pos;chance
 2026-08-14;Internacional;18;0.14223
 2026-08-14;Internacional;19;0.13293
 2026-08-14;Internacional;20;0.03325
-2026-08-14;Mirassol;1;2e-05
+2026-08-14;Mirassol;1;0.00002
 2026-08-14;Mirassol;2;0.00027
 2026-08-14;Mirassol;3;0.00146
 2026-08-14;Mirassol;4;0.00426
@@ -31069,8 +31069,8 @@ data;time;pos;chance
 2026-08-14;Palmeiras;8;0.00047
 2026-08-14;Palmeiras;9;0.0003
 2026-08-14;Palmeiras;10;0.0001
-2026-08-14;Palmeiras;11;3e-05
-2026-08-14;Palmeiras;12;1e-05
+2026-08-14;Palmeiras;11;0.00003
+2026-08-14;Palmeiras;12;0.00001
 2026-08-14;Palmeiras;13;0.0
 2026-08-14;Palmeiras;14;0.0
 2026-08-14;Palmeiras;15;0.0
@@ -31100,7 +31100,7 @@ data;time;pos;chance
 2026-08-14;Red Bull Bragantino;19;0.00312
 2026-08-14;Red Bull Bragantino;20;0.00027
 2026-08-14;Remo;1;0.0
-2026-08-14;Remo;2;5e-05
+2026-08-14;Remo;2;0.00005
 2026-08-14;Remo;3;0.00038
 2026-08-14;Remo;4;0.00103
 2026-08-14;Remo;5;0.00249
@@ -31120,7 +31120,7 @@ data;time;pos;chance
 2026-08-14;Remo;19;0.17188
 2026-08-14;Remo;20;0.05034
 2026-08-14;Santos;1;0.0
-2026-08-14;Santos;2;2e-05
+2026-08-14;Santos;2;0.00002
 2026-08-14;Santos;3;0.00031
 2026-08-14;Santos;4;0.00124
 2026-08-14;Santos;5;0.00242
@@ -31159,7 +31159,7 @@ data;time;pos;chance
 2026-08-14;São Paulo;18;0.02287
 2026-08-14;São Paulo;19;0.01243
 2026-08-14;São Paulo;20;0.00202
-2026-08-14;Vasco da Gama;1;2e-05
+2026-08-14;Vasco da Gama;1;0.00002
 2026-08-14;Vasco da Gama;2;0.00015
 2026-08-14;Vasco da Gama;3;0.00079
 2026-08-14;Vasco da Gama;4;0.00239
@@ -31179,7 +31179,7 @@ data;time;pos;chance
 2026-08-14;Vasco da Gama;18;0.14835
 2026-08-14;Vasco da Gama;19;0.1455
 2026-08-14;Vasco da Gama;20;0.03893
-2026-08-14;Vitória;1;7e-05
+2026-08-14;Vitória;1;0.00007
 2026-08-14;Vitória;2;0.0012
 2026-08-14;Vitória;3;0.00671
 2026-08-14;Vitória;4;0.01734
@@ -31215,8 +31215,8 @@ data;time;pos;chance
 2026-08-15;Athletico Paranaense;14;0.00102
 2026-08-15;Athletico Paranaense;15;0.00038
 2026-08-15;Athletico Paranaense;16;0.00025
-2026-08-15;Athletico Paranaense;17;6e-05
-2026-08-15;Athletico Paranaense;18;2e-05
+2026-08-15;Athletico Paranaense;17;0.00006
+2026-08-15;Athletico Paranaense;18;0.00002
 2026-08-15;Athletico Paranaense;19;0.0
 2026-08-15;Athletico Paranaense;20;0.0
 2026-08-15;Atlético Mineiro;1;0.00344
@@ -31285,8 +31285,8 @@ data;time;pos;chance
 2026-08-15;Chapecoense;4;0.0
 2026-08-15;Chapecoense;5;0.0
 2026-08-15;Chapecoense;6;0.0
-2026-08-15;Chapecoense;7;2e-05
-2026-08-15;Chapecoense;8;3e-05
+2026-08-15;Chapecoense;7;0.00002
+2026-08-15;Chapecoense;8;0.00003
 2026-08-15;Chapecoense;9;0.00015
 2026-08-15;Chapecoense;10;0.00028
 2026-08-15;Chapecoense;11;0.00032
@@ -31372,8 +31372,8 @@ data;time;pos;chance
 2026-08-15;Flamengo;11;0.00104
 2026-08-15;Flamengo;12;0.00052
 2026-08-15;Flamengo;13;0.0003
-2026-08-15;Flamengo;14;6e-05
-2026-08-15;Flamengo;15;5e-05
+2026-08-15;Flamengo;14;0.00006
+2026-08-15;Flamengo;15;0.00005
 2026-08-15;Flamengo;16;0.0
 2026-08-15;Flamengo;17;0.0
 2026-08-15;Flamengo;18;0.0
@@ -31398,8 +31398,8 @@ data;time;pos;chance
 2026-08-15;Fluminense;17;0.0032
 2026-08-15;Fluminense;18;0.00144
 2026-08-15;Fluminense;19;0.00051
-2026-08-15;Fluminense;20;1e-05
-2026-08-15;Grêmio;1;5e-05
+2026-08-15;Fluminense;20;0.00001
+2026-08-15;Grêmio;1;0.00005
 2026-08-15;Grêmio;2;0.00069
 2026-08-15;Grêmio;3;0.00349
 2026-08-15;Grêmio;4;0.00904
@@ -31420,7 +31420,7 @@ data;time;pos;chance
 2026-08-15;Grêmio;19;0.05643
 2026-08-15;Grêmio;20;0.01197
 2026-08-15;Internacional;1;0.0
-2026-08-15;Internacional;2;5e-05
+2026-08-15;Internacional;2;0.00005
 2026-08-15;Internacional;3;0.00058
 2026-08-15;Internacional;4;0.00202
 2026-08-15;Internacional;5;0.004
@@ -31439,7 +31439,7 @@ data;time;pos;chance
 2026-08-15;Internacional;18;0.1426
 2026-08-15;Internacional;19;0.1327
 2026-08-15;Internacional;20;0.03373
-2026-08-15;Mirassol;1;1e-05
+2026-08-15;Mirassol;1;0.00001
 2026-08-15;Mirassol;2;0.00033
 2026-08-15;Mirassol;3;0.00148
 2026-08-15;Mirassol;4;0.00409
@@ -31469,7 +31469,7 @@ data;time;pos;chance
 2026-08-15;Palmeiras;8;0.00046
 2026-08-15;Palmeiras;9;0.00022
 2026-08-15;Palmeiras;10;0.0001
-2026-08-15;Palmeiras;11;3e-05
+2026-08-15;Palmeiras;11;0.00003
 2026-08-15;Palmeiras;12;0.0
 2026-08-15;Palmeiras;13;0.0
 2026-08-15;Palmeiras;14;0.0
@@ -31499,8 +31499,8 @@ data;time;pos;chance
 2026-08-15;Red Bull Bragantino;18;0.00724
 2026-08-15;Red Bull Bragantino;19;0.00305
 2026-08-15;Red Bull Bragantino;20;0.00028
-2026-08-15;Remo;1;1e-05
-2026-08-15;Remo;2;4e-05
+2026-08-15;Remo;1;0.00001
+2026-08-15;Remo;2;0.00004
 2026-08-15;Remo;3;0.00031
 2026-08-15;Remo;4;0.00103
 2026-08-15;Remo;5;0.00255
@@ -31520,7 +31520,7 @@ data;time;pos;chance
 2026-08-15;Remo;19;0.16973
 2026-08-15;Remo;20;0.0501
 2026-08-15;Santos;1;0.0
-2026-08-15;Santos;2;4e-05
+2026-08-15;Santos;2;0.00004
 2026-08-15;Santos;3;0.0003
 2026-08-15;Santos;4;0.00117
 2026-08-15;Santos;5;0.00251
@@ -31559,7 +31559,7 @@ data;time;pos;chance
 2026-08-15;São Paulo;18;0.02288
 2026-08-15;São Paulo;19;0.01168
 2026-08-15;São Paulo;20;0.0016
-2026-08-15;Vasco da Gama;1;1e-05
+2026-08-15;Vasco da Gama;1;0.00001
 2026-08-15;Vasco da Gama;2;0.00013
 2026-08-15;Vasco da Gama;3;0.00071
 2026-08-15;Vasco da Gama;4;0.0018
@@ -31579,7 +31579,7 @@ data;time;pos;chance
 2026-08-15;Vasco da Gama;18;0.14933
 2026-08-15;Vasco da Gama;19;0.14441
 2026-08-15;Vasco da Gama;20;0.03915
-2026-08-15;Vitória;1;8e-05
+2026-08-15;Vitória;1;0.00008
 2026-08-15;Vitória;2;0.00126
 2026-08-15;Vitória;3;0.00641
 2026-08-15;Vitória;4;0.01701
@@ -31615,7 +31615,7 @@ data;time;pos;chance
 2026-08-16;Athletico Paranaense;14;0.00135
 2026-08-16;Athletico Paranaense;15;0.00081
 2026-08-16;Athletico Paranaense;16;0.00037
-2026-08-16;Athletico Paranaense;17;4e-05
+2026-08-16;Athletico Paranaense;17;0.00004
 2026-08-16;Athletico Paranaense;18;0.0
 2026-08-16;Athletico Paranaense;19;0.0
 2026-08-16;Athletico Paranaense;20;0.0
@@ -31684,10 +31684,10 @@ data;time;pos;chance
 2026-08-16;Chapecoense;3;0.0
 2026-08-16;Chapecoense;4;0.0
 2026-08-16;Chapecoense;5;0.0
-2026-08-16;Chapecoense;6;1e-05
-2026-08-16;Chapecoense;7;2e-05
-2026-08-16;Chapecoense;8;5e-05
-2026-08-16;Chapecoense;9;9e-05
+2026-08-16;Chapecoense;6;0.00001
+2026-08-16;Chapecoense;7;0.00002
+2026-08-16;Chapecoense;8;0.00005
+2026-08-16;Chapecoense;9;0.00009
 2026-08-16;Chapecoense;10;0.0002
 2026-08-16;Chapecoense;11;0.0004
 2026-08-16;Chapecoense;12;0.00086
@@ -31773,8 +31773,8 @@ data;time;pos;chance
 2026-08-16;Flamengo;12;0.0005
 2026-08-16;Flamengo;13;0.0002
 2026-08-16;Flamengo;14;0.0001
-2026-08-16;Flamengo;15;3e-05
-2026-08-16;Flamengo;16;2e-05
+2026-08-16;Flamengo;15;0.00003
+2026-08-16;Flamengo;16;0.00002
 2026-08-16;Flamengo;17;0.0
 2026-08-16;Flamengo;18;0.0
 2026-08-16;Flamengo;19;0.0
@@ -31798,8 +31798,8 @@ data;time;pos;chance
 2026-08-16;Fluminense;17;0.00139
 2026-08-16;Fluminense;18;0.00057
 2026-08-16;Fluminense;19;0.00017
-2026-08-16;Fluminense;20;2e-05
-2026-08-16;Grêmio;1;7e-05
+2026-08-16;Fluminense;20;0.00002
+2026-08-16;Grêmio;1;0.00007
 2026-08-16;Grêmio;2;0.00071
 2026-08-16;Grêmio;3;0.00368
 2026-08-16;Grêmio;4;0.0085
@@ -31820,7 +31820,7 @@ data;time;pos;chance
 2026-08-16;Grêmio;19;0.05666
 2026-08-16;Grêmio;20;0.01176
 2026-08-16;Internacional;1;0.0
-2026-08-16;Internacional;2;7e-05
+2026-08-16;Internacional;2;0.00007
 2026-08-16;Internacional;3;0.00064
 2026-08-16;Internacional;4;0.00157
 2026-08-16;Internacional;5;0.0037
@@ -31839,7 +31839,7 @@ data;time;pos;chance
 2026-08-16;Internacional;18;0.14276
 2026-08-16;Internacional;19;0.13376
 2026-08-16;Internacional;20;0.03418
-2026-08-16;Mirassol;1;3e-05
+2026-08-16;Mirassol;1;0.00003
 2026-08-16;Mirassol;2;0.00028
 2026-08-16;Mirassol;3;0.00171
 2026-08-16;Mirassol;4;0.00407
@@ -31869,8 +31869,8 @@ data;time;pos;chance
 2026-08-16;Palmeiras;8;0.00071
 2026-08-16;Palmeiras;9;0.00024
 2026-08-16;Palmeiras;10;0.00011
-2026-08-16;Palmeiras;11;7e-05
-2026-08-16;Palmeiras;12;2e-05
+2026-08-16;Palmeiras;11;0.00007
+2026-08-16;Palmeiras;12;0.00002
 2026-08-16;Palmeiras;13;0.0
 2026-08-16;Palmeiras;14;0.0
 2026-08-16;Palmeiras;15;0.0
@@ -31900,7 +31900,7 @@ data;time;pos;chance
 2026-08-16;Red Bull Bragantino;19;0.00239
 2026-08-16;Red Bull Bragantino;20;0.0002
 2026-08-16;Remo;1;0.0
-2026-08-16;Remo;2;6e-05
+2026-08-16;Remo;2;0.00006
 2026-08-16;Remo;3;0.00037
 2026-08-16;Remo;4;0.00111
 2026-08-16;Remo;5;0.00211
@@ -31920,7 +31920,7 @@ data;time;pos;chance
 2026-08-16;Remo;19;0.16963
 2026-08-16;Remo;20;0.05067
 2026-08-16;Santos;1;0.0
-2026-08-16;Santos;2;7e-05
+2026-08-16;Santos;2;0.00007
 2026-08-16;Santos;3;0.00032
 2026-08-16;Santos;4;0.00108
 2026-08-16;Santos;5;0.00221
@@ -31979,7 +31979,7 @@ data;time;pos;chance
 2026-08-16;Vasco da Gama;18;0.14635
 2026-08-16;Vasco da Gama;19;0.14492
 2026-08-16;Vasco da Gama;20;0.03866
-2026-08-16;Vitória;1;9e-05
+2026-08-16;Vitória;1;0.00009
 2026-08-16;Vitória;2;0.00141
 2026-08-16;Vitória;3;0.00724
 2026-08-16;Vitória;4;0.01655
@@ -32016,7 +32016,7 @@ data;time;pos;chance
 2026-08-17;Athletico Paranaense;15;0.00055
 2026-08-17;Athletico Paranaense;16;0.00017
 2026-08-17;Athletico Paranaense;17;0.0001
-2026-08-17;Athletico Paranaense;18;2e-05
+2026-08-17;Athletico Paranaense;18;0.00002
 2026-08-17;Athletico Paranaense;19;0.0
 2026-08-17;Athletico Paranaense;20;0.0
 2026-08-17;Atlético Mineiro;1;0.00385
@@ -32038,7 +32038,7 @@ data;time;pos;chance
 2026-08-17;Atlético Mineiro;17;0.00589
 2026-08-17;Atlético Mineiro;18;0.00279
 2026-08-17;Atlético Mineiro;19;0.00086
-2026-08-17;Atlético Mineiro;20;5e-05
+2026-08-17;Atlético Mineiro;20;0.00005
 2026-08-17;Bahia;1;0.00103
 2026-08-17;Bahia;2;0.00782
 2026-08-17;Bahia;3;0.03746
@@ -32086,9 +32086,9 @@ data;time;pos;chance
 2026-08-17;Chapecoense;5;0.0
 2026-08-17;Chapecoense;6;0.0
 2026-08-17;Chapecoense;7;0.0
-2026-08-17;Chapecoense;8;1e-05
-2026-08-17;Chapecoense;9;6e-05
-2026-08-17;Chapecoense;10;7e-05
+2026-08-17;Chapecoense;8;0.00001
+2026-08-17;Chapecoense;9;0.00006
+2026-08-17;Chapecoense;10;0.00007
 2026-08-17;Chapecoense;11;0.00014
 2026-08-17;Chapecoense;12;0.0004
 2026-08-17;Chapecoense;13;0.00064
@@ -32158,7 +32158,7 @@ data;time;pos;chance
 2026-08-17;Cruzeiro;17;0.00323
 2026-08-17;Cruzeiro;18;0.00148
 2026-08-17;Cruzeiro;19;0.00051
-2026-08-17;Cruzeiro;20;3e-05
+2026-08-17;Cruzeiro;20;0.00003
 2026-08-17;Flamengo;1;0.42366
 2026-08-17;Flamengo;2;0.38805
 2026-08-17;Flamengo;3;0.11709
@@ -32170,10 +32170,10 @@ data;time;pos;chance
 2026-08-17;Flamengo;9;0.00097
 2026-08-17;Flamengo;10;0.00034
 2026-08-17;Flamengo;11;0.00013
-2026-08-17;Flamengo;12;4e-05
-2026-08-17;Flamengo;13;3e-05
-2026-08-17;Flamengo;14;2e-05
-2026-08-17;Flamengo;15;1e-05
+2026-08-17;Flamengo;12;0.00004
+2026-08-17;Flamengo;13;0.00003
+2026-08-17;Flamengo;14;0.00002
+2026-08-17;Flamengo;15;0.00001
 2026-08-17;Flamengo;16;0.0
 2026-08-17;Flamengo;17;0.0
 2026-08-17;Flamengo;18;0.0
@@ -32199,7 +32199,7 @@ data;time;pos;chance
 2026-08-17;Fluminense;18;0.00047
 2026-08-17;Fluminense;19;0.0002
 2026-08-17;Fluminense;20;0.0
-2026-08-17;Grêmio;1;1e-05
+2026-08-17;Grêmio;1;0.00001
 2026-08-17;Grêmio;2;0.00025
 2026-08-17;Grêmio;3;0.00152
 2026-08-17;Grêmio;4;0.00519
@@ -32219,8 +32219,8 @@ data;time;pos;chance
 2026-08-17;Grêmio;18;0.08871
 2026-08-17;Grêmio;19;0.06345
 2026-08-17;Grêmio;20;0.00985
-2026-08-17;Internacional;1;1e-05
-2026-08-17;Internacional;2;2e-05
+2026-08-17;Internacional;1;0.00001
+2026-08-17;Internacional;2;0.00002
 2026-08-17;Internacional;3;0.00053
 2026-08-17;Internacional;4;0.00201
 2026-08-17;Internacional;5;0.00385
@@ -32240,7 +32240,7 @@ data;time;pos;chance
 2026-08-17;Internacional;19;0.12635
 2026-08-17;Internacional;20;0.02437
 2026-08-17;Mirassol;1;0.0
-2026-08-17;Mirassol;2;3e-05
+2026-08-17;Mirassol;2;0.00003
 2026-08-17;Mirassol;3;0.0004
 2026-08-17;Mirassol;4;0.00085
 2026-08-17;Mirassol;5;0.00232
@@ -32268,9 +32268,9 @@ data;time;pos;chance
 2026-08-17;Palmeiras;7;0.00194
 2026-08-17;Palmeiras;8;0.00091
 2026-08-17;Palmeiras;9;0.00036
-2026-08-17;Palmeiras;10;6e-05
-2026-08-17;Palmeiras;11;3e-05
-2026-08-17;Palmeiras;12;2e-05
+2026-08-17;Palmeiras;10;0.00006
+2026-08-17;Palmeiras;11;0.00003
+2026-08-17;Palmeiras;12;0.00002
 2026-08-17;Palmeiras;13;0.0
 2026-08-17;Palmeiras;14;0.0
 2026-08-17;Palmeiras;15;0.0
@@ -32300,7 +32300,7 @@ data;time;pos;chance
 2026-08-17;Red Bull Bragantino;19;0.00231
 2026-08-17;Red Bull Bragantino;20;0.0001
 2026-08-17;Remo;1;0.0
-2026-08-17;Remo;2;7e-05
+2026-08-17;Remo;2;0.00007
 2026-08-17;Remo;3;0.00032
 2026-08-17;Remo;4;0.00099
 2026-08-17;Remo;5;0.00221
@@ -32319,7 +32319,7 @@ data;time;pos;chance
 2026-08-17;Remo;18;0.15866
 2026-08-17;Remo;19;0.16245
 2026-08-17;Remo;20;0.03593
-2026-08-17;Santos;1;1e-05
+2026-08-17;Santos;1;0.00001
 2026-08-17;Santos;2;0.0001
 2026-08-17;Santos;3;0.00103
 2026-08-17;Santos;4;0.0029
@@ -32360,7 +32360,7 @@ data;time;pos;chance
 2026-08-17;São Paulo;19;0.01552
 2026-08-17;São Paulo;20;0.00157
 2026-08-17;Vasco da Gama;1;0.0
-2026-08-17;Vasco da Gama;2;1e-05
+2026-08-17;Vasco da Gama;2;0.00001
 2026-08-17;Vasco da Gama;3;0.0002
 2026-08-17;Vasco da Gama;4;0.00055
 2026-08-17;Vasco da Gama;5;0.00111
